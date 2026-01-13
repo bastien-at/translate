@@ -1,8 +1,8 @@
-    "steps": {
+    {"steps": {
       "cartStepLabel": "Panier",
       "loginStepLabel": "Connexion",
       "shippingStepLabel": "Livraison",
       "paymentStepLabel": "Paiement",
       "confirmationStepLabel": "Confirmation",
       "backStepLabel": "Retour vers étape précédente"
-    },
+    }}
