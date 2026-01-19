@@ -1,0 +1,34 @@
+{
+  "guidelines": {
+    "components": {
+      "price": {
+        "currentPrice": "Prix de vente : {price}",
+        "barredPrice": {
+          "regularPrice": "Prix normal : {price}",
+          "appliedDiscount": "Remise appliquée : {discount}"
+        },
+        "ecotax": "Dont {tax} d'éco-part."
+      },
+      "phone": {
+        "selectCountry": "Choisir un pays"
+      },
+      "modal": {
+        "closeLabel": "Fermer"
+      },
+      "drawer": {
+        "closeLabel": "Fermer"
+      },
+      "tooltip": {
+        "buttonLabel": "Infobulle"
+      }
+    },
+    "foundations": {
+      "paymentIcons": {
+        "bankCheck": "Chèque",
+        "giftCard": "Chèque cadeau",
+        "transfer": "Virement",
+        "voucher": "Avoir"
+      }
+    }
+  }
+}
