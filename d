@@ -1,1 +1,0 @@
-=/files/i18n/de.json
