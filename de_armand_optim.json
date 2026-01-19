@@ -1,0 +1,3 @@
+{
+  "data": "{ \"guidelines\": { \"components\": { \"price\": { \"currentPrice\": \"Verkaufspreis: {price}\", \"barredPrice\": { \"regularPrice\": \"Normalpreis: {price}\",\n          „appliedDiscount”: „Angewandter Rabatt: {discount}” }, „ecotax”: „Davon {tax} Ökosteuer.” }, „phone”: { „selectCountry”: „Land auswählen”\n      }, \"modal\": { \"closeLabel\": \"Schließen\" }, \"drawer\": { \"closeLabel\": \"Schließen\" }, \"tooltip\": { \"buttonLabel\": \"Tooltip\" } },\n    „foundations”: { „paymentIcons”: { „bankCheck”: „Scheck”, „giftCard”: „Geschenkgutschein”, „transfer”: „Überweisung”, „voucher”: „Gutschein” } } } }"
+}
