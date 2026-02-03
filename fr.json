@@ -434,6 +434,10 @@
             "colissimo": "Colissimo",
             "chronopost": "Chronopost"
           },
+          "noRelayFound": {
+            "title": "Aucun point relais disponible",
+            "description": "Les articles de votre panier ne peuvent pas être livrés en point relais pour le moment."
+          },
           "listView": "Liste",
           "mapView": "Carte",
           "relaySelectorTabsLabel": "Vues du sélecteur de relais",
@@ -948,8 +952,11 @@
             "installmentTitle": "Oney - Paiement {count}x {hasFee, select, yes {} other {sans frais}}<sup>({note})</sup>",
             "firstInstallmentAmount": "Payez aujourd'hui : ",
             "additionalInstallmentAmount": "Paiement dans {days} jours : ",
-            "creditCostDetails": "TAEG FIXE : {percent}% soit, coût : {amount}",
-            "totalAmount": "Total (frais inclus) : {amount}",
+            "creditCostDetails": {
+              "withoutApcr": "Coût : {amount}",
+              "withApcr": "TAEG FIXE : {percent}% soit, coût : {amount}"
+            },
+            "totalAmount": "Total {hasFee, select, yes {(frais inclus)} other {}} : {amount}",
             "additionalInfoModal": {
               "linkName": "En savoir plus",
               "closeButton": "Fermer"
