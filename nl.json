@@ -2,107 +2,107 @@
   "common": {
     "metadata": {
       "title": {
-        "cart": "Mijn mandje",
+        "cart": "Mijn winkelwagen",
         "confirmation": "Bevestiging",
-        "login": "Verbinding",
+        "login": "Inloggen",
         "payment": "Betaling",
-        "shipping": "Levering"
+        "shipping": "Verzending"
       }
     },
     "steps": {
-      "cartStepLabel": "Mand",
-      "loginStepLabel": "Verbinding",
-      "shippingStepLabel": "Levering",
+      "cartStepLabel": "Winkelwagen",
+      "loginStepLabel": "Inloggen",
+      "shippingStepLabel": "Verzending",
       "paymentStepLabel": "Betaling",
       "confirmationStepLabel": "Bevestiging",
       "backStepLabel": "Terug naar vorige stap"
     },
-    "nextStep": "Volgende stap : {stap }",
+    "nextStep": "Volgende stap: { step }",
     "tunnelLayout": {
       "back": "Verder winkelen",
       "footerMenu": {
-        "terms": "ALGEMENE VOORWAARDEN",
-        "legals": "Wettelijke informatie",
+        "terms": "Algemene voorwaarden",
+        "legals": "Juridische vermeldingen",
         "cookies": "Persoonlijke gegevens",
-        "managingCookies": "Beheer cookies"
+        "managingCookies": "Cookiebeheer"
       },
-      "footerLegals": "(1) Korting berekend over de laagste Alltricks-prijs tijdens de laatste 30 dagen voor de begindatum van de promotie voor dit product. (2) Korting berekend over de laagste Alltricks-prijs tijdens de laatste 30 dagen voor de begindatum van de uitverkoop. (3) Korting berekend over de laagste Alltricks-prijs tijdens de laatste 30 dagen voor de begindatum van de uitverkoop voor dit product. (4) Gratis verzending voor bestellingen van meer dan €100 met DPD. Alleen geldig op het Franse vasteland en op alle producten die door Alltricks worden verkocht en verzonden. (5) Vanaf de tijdzone GMT+1. (6) Afhankelijk van de tijd en plaats van levering en onder voorbehoud van onmiddellijke betaling. Alleen geldig op alle producten die op voorraad zijn en door Alltricks worden verkocht en verzonden. (7) Levertijden die over het algemeen in acht worden genomen. (8) Tijd die over het algemeen nodig is om uw bestelling voor te bereiden voor alle producten die Alltricks op voorraad heeft en verkoopt en verzendt. (9) Code die moet worden ingevoerd voordat het winkelmandje wordt gevalideerd. (10) Financieringsaanbod zonder verzekering en met verplichte aanbetaling, voorbehouden aan particulieren en geldig voor alle aankopen van € 80 tot € 6000. Onder voorbehoud van aanvaarding door Oney Bank. U hebt 14 dagen de tijd om uw lening te annuleren. Voorbeeld: 3 termijnen voor een aankoop van €150, aanbetaling van €52,51, daarna 2 maandelijkse termijnen van €50. Krediet over 2 maanden tegen een vast JKP van 22,59%. Financieringskosten €2,51 tot een maximum van €30. Voorbeeld: 4 termijnen voor een aankoop van €400, aanbetaling van €110, daarna 3 maandelijkse termijnen van €100. Lening van 3 maanden met een vast JKP van 22,63%. Financieringskosten: €10 tot een maximum van €60. Voorwaarden op 13/11/2024 onder voorbehoud van herziening. Ga voor meer informatie naar [www.oney.fr](https://www.oney.fr/). Oney Bank- SA au capital de 71 801 205€ - 34 Avenue de Flandre 59 170 Croix - RCS Lille Métropole - 546 380 197 - n° Orias 07 023 261 www.orias.fr - Correspondentie: CS 60 006 - 59 895 Lille Cedex 9 - www.oney.fr. (11) Onder voorbehoud van onmiddellijke betaling. (12) 10% van de bestellingen kan worden onderworpen aan een willekeurige controle door Oney waarvoor 24 uur extra nodig is. (13) Gratis onbeperkte levering geldig gedurende 1 jaar voor Europees Frankrijk met uitzondering van Corsica na inschrijving op het Alltricks+ aanbod met Chronopost relais, Mondial Relay, Colissimo en France Express zonder minimum aankoop. Gratis voor aankopen van € 25 of meer op Chronopost thuisbezorging. Alleen geldig op alle producten verkocht en verzonden door Alltricks. (14) -10% extra korting geldig zonder minimum aankoop op alle producten verkocht en verzonden door Alltricks. Korting verzonden per e-mail op uw verjaardag na inschrijving op de Alltricks+ aanbieding, eenmalig geldig. (15) Publieke prijs aanbevolen door de leverancier (of publieke prijs gecommuniceerd door de partner verkoper in het geval van producten van partner verkopers) (16) In januari 2015, via een stemming door Trustpilot gebruikers, onder de e-commerce sites aanwezig op het Trustpilot platform. (17) Een lening verplicht u en moet worden terugbetaald. Controleer of je in staat bent om terug te betalen voordat je jezelf vastlegt. (18) Exclusief producten van partnerverkopers."
+      "footerLegals": "(1) Korting berekend op de laagste Alltricks-prijs die in de 30 dagen voorafgaand aan de startdatum van de promotieactie voor dit product werd gehanteerd (2) Korting berekend op de laagste Alltricks-prijs die in de 30 dagen voorafgaand aan de startdatum van de uitverkoop werd gehanteerd. (3) Korting berekend op de laagste Alltricks-prijs die in de 30 dagen voorafgaand aan de startdatum van de voorraadopruiming voor dit product werd gehanteerd. (4) Gratis verzending vanaf €100 met DPD. Alleen geldig in Frankrijk (vasteland) en op alle producten verkocht en verzonden door Alltricks. (5) Vanaf tijdzone GMT+1. (6) Afhankelijk van het tijdstip van bestelling, de leveringslocatie en onder voorbehoud van onmiddellijke betaling. Alleen geldig op alle producten op voorraad verkocht en verzonden door Alltricks. (7) Algemeen waargenomen levertijden. (8) Algemeen waargenomen voorbereidingstijd van uw bestelling voor alle producten op voorraad verkocht en verzonden door Alltricks. (9) Code in te voeren voor validatie van de winkelwagen. (10) Financieringsaanbieding zonder verzekering met verplichte aanbetaling, voorbehouden aan particulieren en geldig voor elke aankoop van €80 tot €6000. Onder voorbehoud van acceptatie door Oney Bank. U heeft een bedenktijd van 14 dagen om af te zien van uw krediet. Voorbeeld in 3 keer voor een aankoop van €150, aanbetaling van €52,51, dan 2 maandelijkse termijnen van €50. Krediet over 2 maanden tegen vaste APR van 22,59%. Financieringskosten €2,51 met een maximum van €30. Voorbeeld in 4 keer voor een aankoop van €400, aanbetaling van €110, dan 3 maandelijkse termijnen van €100. Krediet over 3 maanden tegen vaste APR van 22,63%. Financieringskosten: €10 met een maximum van €60. Voorwaarden per 13/11/2024 onder voorbehoud van wijzigingen. Voor meer informatie ga naar [www.oney.fr](https://www.oney.fr/). Oney Bank- SA met kapitaal van €71.801.205 - 34 Avenue de Flandre 59 170 Croix – RCS Lille Métropole – 546 380 197 – nr. Orias 07 023 261 www.orias.fr – Correspondentie: CS 60 006 – 59 895 Lille Cedex 9 – www.oney.fr. (11) Onder voorbehoud van onmiddellijke betaling. (12) 10% van de bestellingen kunnen onderworpen worden aan een willekeurige controle door Oney die 24 uur extra vereist. (13) Gratis en onbeperkte levering geldig 1 jaar voor Frankrijk (vasteland) exclusief Corsica na inschrijving op het Alltricks+ aanbod via Chronopost relay, Mondial Relay, Colissimo en France Express zonder minimale aankoop. Gratis vanaf €25 aankoop bij Chronopost thuis. Alleen geldig op alle producten verkocht en verzonden door Alltricks. (14) -10% extra korting geldig zonder minimale aankoop op alle producten verkocht en verzonden door Alltricks. Korting verzonden per e-mail op uw verjaardag na inschrijving op het Alltricks+ aanbod, eenmalig geldig. (15) Door de leverancier geadviseerde publieksprijs (of publieksprijs gecommuniceerd door de partnerverkoper in het geval van producten van partnerverkopers) (16) In januari 2015, via een stemming van Trustpilot-gebruikers, onder de e-commerce sites aanwezig op het Trustpilot-platform. (17) Een krediet verplicht u en moet worden terugbetaald. Controleer uw terugbetalingscapaciteit voordat u zich verbindt. (18) Exclusief producten van partnerverkopers."
     },
     "summary": {
       "total": "Totaal",
-      "note": "(INCLUSIEF BTW)"
+      "note": "(incl. BTW)"
     },
     "ok": "Ok",
     "cancel": "Annuleren",
-    "expand": "Open",
-    "minimize": "Sluit",
+    "expand": "Openen",
+    "minimize": "Sluiten",
     "requiredField": "Verplicht"
   },
   "pages": {
     "cart": {
-      "cartTitle": "<strong>Mijn mand</strong> {telling, meervoud, =0 {} =1 {({telling} item)} andere {({telling} items)}}",
+      "cartTitle": "<strong>Mijn winkelwagen</strong> {count, plural, =0 {} =1 {({count} artikel)} other {({count} artikelen)}}",
       "emptyCartCard": {
-        "title": "Uw mandje is leeg",
-        "description": "De juiste apparatuur vinden is nog nooit zo eenvoudig geweest",
-        "loginLabel": "Verbind mij",
-        "continueShoppingButtonLabel": "Begin met winkelen"
+        "title": "Uw winkelwagen is leeg",
+        "description": "Goed uitgerust zijn was nog nooit zo eenvoudig",
+        "loginLabel": "Inloggen",
+        "continueShoppingButtonLabel": "Beginnen met winkelen"
       },
       "insurance": {
         "header": {
-          "title": "Bescherm je fiets!",
-          "description": "Sluit een verzekering af en rijd met een gerust hart!",
-          "link": "Voor meer informatie"
+          "title": "Bescherm uw fiets!",
+          "description": "Kies voor een verzekering en rijd zorgeloos!",
+          "link": "Meer weten"
         },
         "content": {
           "noInsurance": "Zonder verzekering",
-          "insuranceTB": "Verzekering tegen breuk en diefstal",
+          "insuranceTB": "Breuk- en Dieftalverzekering",
           "coverage": {
-            "breakage": "Dekking tegen onopzettelijke materiële schade",
+            "breakage": "Dekking tegen accidentele materiële schade",
             "theft": "Dekking tegen diefstal"
           }
         },
         "drawer": {
-          "title": "Fietsbreuk- of diefstalverzekering",
-          "detailsButton": "Voor meer informatie",
+          "title": "Fietsverzekering Breuk en/of Diefstal",
+          "detailsButton": "Meer weten",
           "utilityTable": {
             "header": {
               "insurance": "Alltricks Verzekering",
               "guarantee": "Commerciële garantie"
             },
             "coverage": {
-              "accessories": "Bijkomende dekking",
+              "accessories": "Dekking van accessoires",
               "bikeType": "Alle nieuwe en gereviseerde fietsen",
               "breakage": "Dekking tegen breuk",
               "claims": "Vereenvoudigd online schadebeheer",
-              "claimsYear": "Maximaal 2 claims per jaar",
+              "claimsYear": "Tot 2 schades per jaar",
               "compensation": "Vergoeding tot €9000",
-              "depreciation": "Geen afschrijving voor het 1e jaar",
-              "franchise": "Geen overschot",
-              "theft": "Diefstal dekking (alle oorzaken)"
+              "depreciation": "Geen waardevermindering het 1e jaar",
+              "franchise": "Geen eigen risico",
+              "theft": "Dekking van diefstal (alle oorzaken)"
             }
           },
           "faq": {
             "heading": "Veelgestelde vragen",
             "disclosure": {
               "goods": {
-                "title": "Goederen",
-                "content": "Alle fietsen die door Alltricks worden verkocht (elektrische fietsen, mountainbikes, racefietsen, stadsfietsen, kinderfietsen, etc.) zijn verzekerd tegen diefstal en breuk."
+                "title": "Gedekte goederen",
+                "content": "Alle fietsen verkocht door Alltricks (elektrisch, MTB, race, stads-, kinder-, enz.) zijn verzekerbaar tegen diefstal en breuk."
               },
               "breakage": {
-                "title": "Overdekte onderbreking",
-                "content": "In geval van een onopzettelijke breuk dekt de verzekering de reparatie of vervanging van de fiets, of betaalt een financiële vergoeding als reparatie onmogelijk is. De verzekering dekt deze producten voor niet-professioneel gebruik en met uitzondering van wedstrijden, sportevenementen, trials en races."
+                "title": "Gedekte breuk",
+                "content": "Bij accidentele breuk dekt de verzekering de reparatie of vervanging van de fiets, of keert een financiële vergoeding uit als reparatie onmogelijk is. De verzekering dekt deze producten voor niet-professioneel gebruik en buiten competities, sportevenementen, wedstrijden en races."
               },
               "theft": {
-                "title": "Gedekte vlucht",
-                "content": "De verzekering dekt diefstal thuis, op de openbare weg (behalve tussen 23.00 en 07.00 uur) of tijdens een reis op het Franse vasteland, inclusief Corsica en Monaco. De verzekering betaalt een financiële vergoeding rechtstreeks op je bankrekening."
+                "title": "Gedekte diefstal",
+                "content": "De verzekering dekt diefstal thuis, op de openbare weg (behalve 23u-7u) of tijdens verplaatsingen in metropolitaans Frankrijk, inclusief Corsica en Monaco. De verzekering keert een financiële vergoeding rechtstreeks uit op uw bankrekening."
               },
               "conditions": {
                 "title": "Voorwaarden",
                 "details": {
-                  "residence": "De hoofdverblijfplaats van de verzekeringnemer moet in Frankrijk zijn.",
-                  "billing": "Het factuuradres is het hoofdverblijfadres van de verzekerde.",
-                  "claim": "Twee claims per jaar zijn gedekt, tot een maximum van € 9.000 (incl. BTW) per claim.",
-                  "depreciation": "Bij een claim in het tweede jaar geldt een afschrijving van 1% per maand vanaf de 13e maand."
+                  "residence": "De verzekerde moet zijn hoofdverblijf in Frankrijk hebben.",
+                  "billing": "Het facturatieadres komt overeen met het adres van de hoofdverblijfplaats van de verzekerde.",
+                  "claim": "Twee schades per jaar zijn gedekt, met een maximum van € 9.000 incl. BTW per schade.",
+                  "depreciation": "Bij een schade in het tweede jaar geldt een waardevermindering van 1% per maand vanaf de 13e maand."
                 }
               }
             }
@@ -110,369 +110,373 @@
         }
       },
       "logisticOrder": {
-        "email": "e-mail",
+        "email": "email",
         "shippedBy": "Verzonden door",
-        "storePickUp": "Winkel ophalen",
+        "storePickUp": "Afhaling in winkel",
         "sendByEmail": "Verzonden door <strong>{terminalArea}</strong>",
         "shipperOrStoreName": "<strong>{terminalArea}</strong>"
       },
       "inadequateStock": {
         "outOfStock": {
-          "banner": "Actie vereist: Item(s) uitverkocht",
+          "banner": "Actie vereist: Artikel(en) uitverkocht",
           "alert": {
-            "title": "Een artikel in je winkelmandje is niet op voorraad",
-            "description": "Verwijder deze om door te gaan met uw aankoop. U kunt een waarschuwing aanmaken om op de hoogte te worden gesteld zodra het product weer op voorraad is."
+            "title": "Een artikel in uw winkelwagen is uitverkocht",
+            "description": "Om uw aankoop voort te zetten, verwijder het artikel. U kunt een waarschuwing instellen om geïnformeerd te worden zodra het weer op voorraad is."
           }
         },
         "partOfStockReserved": {
-          "banner": "Vereiste actie : Laatste hoeveelheid gereserveerd",
+          "banner": "Actie vereist: Laatste hoeveelheid gereserveerd",
           "alert": {
-            "title": "Het laatste product in voorraad zit momenteel in een mandje",
-            "description": "Als je je aankoop wilt voortzetten, kun je wachten tot het over een paar uur weer beschikbaar is of een vergelijkbaar artikel kiezen."
+            "title": "Het laatste product op voorraad zit momenteel in een winkelwagen",
+            "description": "Om uw aankoop voort te zetten, kunt u wachten omdat het mogelijk over enkele uren weer beschikbaar is of een vergelijkbaar artikel kiezen."
           }
         },
         "notEnoughStock": {
           "banner": "Actie vereist: Hoeveelheid niet beschikbaar",
           "alert": {
-            "title": "De gewenste hoeveelheid is niet langer beschikbaar",
-            "description": "Pas de hoeveelheid aan of verwijder het product om door te gaan met je aankoop."
+            "title": "De gewenste hoeveelheid is niet meer beschikbaar",
+            "description": "Om uw aankoop voort te zetten, pas de hoeveelheid aan of verwijder het product."
           }
         },
-        "delete": "Verwijder"
+        "delete": "Verwijderen"
       },
       "orderProduct": {
-        "deliveryDay": "Thuis <strong>{weekDag, selecteer, volgendeDag {vanaf morgen } andere {vanaf {weekDag}}}</strong>",
-        "deliveryInterval": "Geleverd tussen <strong>{start}</strong> en <strong>{end}</strong>.",
-        "increaseProductQuantity": "Hoeveelheid product verhogen",
-        "decreaseProductQuantity": "Hoeveelheid product verlagen",
+        "deliveryDay": "Bij u thuis <strong>{ weekDay, select, nextDay {vanaf morgen } other {vanaf {weekDay}}}</strong>",
+        "deliveryInterval": "Geleverd tussen <strong>{start}</strong> en <strong>{end}</strong>",
+        "increaseProductQuantity": "Producthoeveelheid verhogen",
+        "decreaseProductQuantity": "Producthoeveelheid verlagen",
         "productQuantityFieldLabel": "Producthoeveelheid wijzigen",
-        "reference": "Referentie : {referentie}",
-        "refurbishedName": "Status",
+        "reference": "Referentie: {reference}",
+        "refurbishedName": "Staat",
         "refurbishedValue": "Gereviseerd",
-        "scheduledDelivery": "Thuis <strong>vanaf {datum}</strong>",
-        "removeLabel": "Verwijder",
-        "discountCodeTagDetails": "{discountCode} ({discountValue}) ofwel: <strong>{finalPrice}</strong>"
+        "scheduledDelivery": "Bij u thuis <strong>vanaf {date}</strong>",
+        "removeLabel": "Verwijderen",
+        "discountCodeTagDetails": "{discountCode} ({discountValue}) oftewel: <strong>{finalPrice}</strong>"
       },
       "cartSummary": {
-        "expand": "Open",
-        "minimize": "Sluit",
-        "cartLabel": "Mand ({aantal})",
-        "title": "<strong>Recap</strong>",
-        "discountCode": "Promo code",
-        "estimatedShippingPrice": "Geschatte leveringskosten",
-        "buttonLabel": "Kies mijn levering",
-        "meterLabel": "Meer dan {valueText}",
-        "meterDetails": "om te profiteren van <strong>gratis levering</strong>.",
+        "expand": "Openen",
+        "minimize": "Sluiten",
+        "cartLabel": "Winkelwagen ({count})",
+        "title": "<strong>Overzicht</strong>",
+        "discountCode": "Promocode",
+        "estimatedShippingPrice": "Geschatte verzendkosten",
+        "buttonLabel": "Mijn levering kiezen",
+        "meterLabel": "Nog {valueText}",
+        "meterDetails": "om te profiteren van <strong>gratis levering</strong>",
         "homeShippingLabel": "Levering",
-        "relayShippingLabel": "Punten Relais® & Lockers",
-        "storeShippingLabel": "Collectie in de winkel",
-        "showroomShippingLabel": "Ophalen magazijn",
-        "emailShippingLabel": "E-mail",
-        "shippingCount": "{aantal/{totaal}",
-        "deliveryCharges": "Leveringskosten",
+        "relayShippingLabel": "Afhaalpunten & Lockers®",
+        "storeShippingLabel": "Afhaling in winkel",
+        "showroomShippingLabel": "Magazijn afhaling",
+        "emailShippingLabel": "Email",
+        "shippingCount": "{count}/{total}",
+        "deliveryCharges": "Verzendkosten",
         "freeShipping": "Gratis",
         "freeShippingRecap": "Gratis",
-        "cutoffLabel": "voor levering morgen",
-        "ecoTax": "<span>inclusief ecopartijkosten</span><span>{tax}</span>",
-        "shippingDateFrom": "{day, select, today {vanaf vandaag} tomorrow {vanaf morgen} other {vanaf {datum}}}",
-        "shippingDatePrecise": "{day, select, today {Today} tomorrow {Tomorrow} other {The {date}} tussen {timeStart} en {timeEnd}",
-        "shippingDetails": "{mode, select, collect {Withdrawal details} other {Delivery details}}",
+        "cutoffLabel": "om morgen geleverd te worden",
+        "ecoTax": "<span>waarvan eco-participatie kosten</span><span>{tax}</span>",
+        "shippingDateFrom": "{day, select, today {Vanaf vandaag} tomorrow {Vanaf morgen} other {Vanaf {date}}}",
+        "shippingDatePrecise": "{day, select, today {Vandaag} tomorrow {Morgen} other {{date}}} tussen {timeStart} en {timeEnd}",
+        "shippingDetails": "{mode, select, collect {Afhaaldetails} other {Leveringsdetails}}",
         "shippingExpeditor": "Verzonden door <strong>{expeditorName}</strong>",
         "shippingRowTitle": "{partIndex}/{partCount} <strong>{expeditorName}</strong>",
-        "shippingMode": "{mode, select, home {Home delivery} relay {Relay Point® delivery} collect {In-store collection} other {}",
+        "shippingMode": "{mode, select, home {Thuisbezorging} relay {Levering aan afhaalpunt} collect {Afhaling in winkel} other {}}",
         "giftCardUsed": "Cadeaubon",
-        "voucherUsed": "Heb",
-        "cashbackUsed": "Alltricks+ Kitty"
+        "voucherUsed": "Tegoed",
+        "cashbackUsed": "Alltricks+ spaarpot"
       },
       "clear": {
-        "buttonOpenModal": "Mijn mandje legen",
-        "modalTitle": "Mand verwijderen",
-        "modalContent": "Weet je zeker dat je alle artikelen in je mandje wilt verwijderen? <br></br>Om je artikelen opzij te zetten, voeg je ze toe aan je verlanglijstje door op het pictogram met het \"hartje\" te klikken op de productpagina.",
+        "buttonOpenModal": "Mijn winkelwagen legen",
+        "modalTitle": "Winkelwagen verwijderen",
+        "modalContent": "Weet je zeker dat je alle artikelen in je winkelwagen wilt verwijderen?<br></br>Om je artikelen apart te zetten, vergeet niet ze toe te voegen aan je verlanglijst door op het \"hart\" icoon te klikken op de productpagina.",
         "modalActionDeleteAll": "Alles verwijderen",
-        "modalActionPreserve": "Bewaar mijn mandje"
+        "modalActionPreserve": "Mijn winkelwagen behouden"
       },
       "discount": {
         "applyDiscount": "Korting toepassen",
-        "discountCode": "Promotie code",
-        "enterCode": "Voer een code in",
+        "discountCode": "Promocode",
+        "enterCode": "Code invoeren",
         "ok": "Ok",
-        "codeSuccess": "De promotiecode is toegepast op je winkelmandje.",
-        "infoAlert": "Als je een tegoedbon of cadeaubon hebt, kun je deze gebruiken in de betaalfase.",
-        "infoAlertPremium": "Door een promotiecode toe te passen, kan het weergegeven cashbackbedrag veranderen.",
-        "backToCart": "Terug naar winkelmandje",
-        "deleteDiscount": "Verwijder promo code",
+        "codeSuccess": "De promocode is succesvol toegepast op je winkelwagen.",
+        "infoAlert": "Als je een tegoed of cadeaubon hebt, kun je deze gebruiken bij de betalingsstap.",
+        "infoAlertPremium": "Het toepassen van een promocode kan het weergegeven cashback bedrag wijzigen.",
+        "backToCart": "Terug naar winkelwagen",
+        "deleteDiscount": "Promocode verwijderen",
         "staff": {
           "label": "Personeelskorting",
           "switchLabel": "Personeelskorting toepassen of verwijderen",
-          "cgv": "Ik heb de voorwaarden met betrekking tot personeelskortingen gelezen.",
+          "cgv": "Ik heb kennis genomen van de voorwaarden betreffende kortingen voor personeel.",
           "validity": {
-            "successMessage": "Uw personeelskorting is toegepast op in aanmerking komende producten (verkocht door Alltricks).",
+            "successMessage": "Je personeelskorting is succesvol toegepast op de in aanmerking komende producten (verkocht door Alltricks).",
             "errorMessage": "Er is een fout opgetreden. Probeer het opnieuw."
           },
           "overviewTableProductsColumn": "Product(en) die in aanmerking komen voor personeelskorting",
           "overviewTableDiscountColumn": "Korting",
           "overviewTableTotalDiscount": "Totale korting",
-          "seeConditions": "Zie voorwaarden",
-          "conditionsDescription": "Alle werknemers van AVANIS (vaste en tijdelijke contracten, stagiairs en werkstudenten) komen in aanmerking voor deze korting (vanaf het moment dat ze bij het bedrijf in dienst treden voor de duur van hun contract). <br></br><br></br> De aankoop van een of meer producten, met toepassing van de korting, is uitsluitend voorbehouden aan werknemers en hun huishouden (echtgeno(o)t(e) en kinderen) en dit zonder winst / wederverkoop. <br></br><br></br> Wat de betaling betreft, moet de bestelling worden betaald met een betaalmiddel dat op naam van de werknemer staat. <br></br></br> Ter informatie: de korting wordt berekend volgens de volgende regel: maximaal 30% korting ten opzichte van de verkoopprijs van Alltricks en dit binnen de limiet van de kostprijs voor Alltricks en een maximale korting van 40% op de adviesprijs. <br></br><br></br> De korting geldt het hele jaar door en op alle producten die Alltricks verkoopt. <br></br><br></br> De personeelskorting kan niet worden gecombineerd met andere promotiecodes, Alltricks+ cashback of cadeaubonnen die zijn verkregen via de verkoop van Troc Vélo.<br></br><br></br> De bestellimiet is vastgesteld op €5.000 per kalenderjaar exclusief volwassen fietsen per werknemer. <br></br></br> Wat betreft fietsen voor volwassenen kunt u maximaal twee fietsen voor volwassenen per kalenderjaar* kopen, zonder limiet op het bedrag.<br></br></br></br> *beperkt tot één fiets voor volwassenen bij een contract/aanwezigheid in het bedrijf van minder dan of gelijk aan 6 maanden."
+          "seeConditions": "Voorwaarden bekijken",
+          "conditionsDescription": "Alle medewerkers van AVANIS (vast contract, tijdelijk contract, stagiairs en leerlingen) kunnen van deze korting profiteren (vanaf hun aankomst en gedurende de hele duur van hun contract). <br></br><br></br> De aankoop van een of meerdere producten, met toepassing van de korting, is uitsluitend gereserveerd voor medewerkers en hun huishouden (partner en kinderen) en dit zonder winstoogmerk / doorverkoop. <br></br><br></br> Betreffende de betaling moet de bestelling betaald worden met een betaalmiddel op naam van de medewerker. <br></br><br></br> Ter informatie wordt de korting berekend volgens de volgende regel: tot 30% korting ten opzichte van de Alltricks verkoopprijs en dit binnen de limiet van de kostprijs voor Alltricks en een maximale reductie van 40% op de aanbevolen verkoopprijs. <br></br><br></br> De korting geldt het hele jaar door en op alle producten verkocht door Alltricks. <br></br><br></br> De personeelskorting is niet cumuleerbaar met andere promocodes, Alltricks+ cashback of cadeaubonnen verkregen via Troc Vélo verkopen.<br></br><br></br> De bestellingslimiet is vastgesteld op €5.000 per kalenderjaar exclusief volwassen fietsen per medewerker. <br></br><br></br> Wat betreft volwassen fietsen heb je de mogelijkheid om tot twee volwassen fietsen per kalenderjaar* te kopen zonder bedraglimiet.<br></br><br></br> *beperkt tot één volwassen fiets voor een contract / aanwezigheid van 6 maanden of minder in het bedrijf."
         },
         "postError": {
-          "already_used_on_this_command": "Je hebt de korting op deze bestelling al gebruikt.",
-          "blocked_by_canceled_order": "De korting die je probeert te gebruiken is tijdelijk geblokkeerd. Neem telefonisch contact op met onze klantenservice op 01 30 48 90 07 (maandag t/m vrijdag van 9.00 tot 19.00 uur en zaterdag van 10.00 tot 19.00 uur) of via de rubriek https://www.alltricks.fr/contact.",
-          "cart_amount_to_small": "Het minimumbedrag van {bedrag} voor deze kortingscode is niet bereikt.",
-          "discount_expired": "Deze kortingscode bestaat niet of is niet langer geldig.",
-          "empty_cart": "Onmogelijk om korting te gebruiken op een leeg winkelmandje.",
-          "max_of_used_limit": "Deze kortingscode bestaat niet of is niet langer geldig.",
+          "already_used_on_this_command": "Je hebt de korting al gebruikt voor deze bestelling.",
+          "blocked_by_canceled_order": "De korting die je probeert te gebruiken is tijdelijk geblokkeerd. Neem contact op met onze klantenservice per telefoon op 01 30 48 90 07 (maandag tot vrijdag 9u tot 19u en zaterdag van 10u tot 19u) of via https://www.alltricks.fr/contact",
+          "cart_amount_to_small": "Het minimumbedrag van {amount} voor deze kortingscode is niet bereikt.",
+          "discount_expired": "Deze kortingscode bestaat niet of is niet meer geldig.",
+          "empty_cart": "Onmogelijk om een korting te gebruiken op een lege winkelwagen.",
+          "max_of_used_limit": "Deze kortingscode bestaat niet of is niet meer geldig.",
           "not_activated": "De geselecteerde korting is niet gekoppeld aan de huidige bestelling.",
-          "not_alltricks_order": "De geselecteerde korting is alleen van toepassing op artikelen die worden verkocht en verzonden door Alltricks.",
-          "not_available": "Er is al een korting gekoppeld aan je winkelmandje.",
-          "not_compatible": "De inhoud van je winkelmandje komt niet overeen met de beperkingen van deze kortingscode.",
-          "not_compatible_staff": "De personeelskorting is niet van toepassing op dit mandje, aangezien er geen producten in aanmerking komen.",
-          "not_found": "De kortingscode {code} bestaat niet. Probeer het opnieuw.",
-          "not_usable": "De geselecteerde korting kan niet worden gebruikt.",
-          "not_voucher_proprietary": "U bent niet de eigenaar van de geselecteerde loods.",
-          "user_not_compatible": "Deze kortingscode bestaat niet, is niet langer geldig of vereist uw identificatie.",
-          "bicycle_limit_reached": "Je bent beperkt tot 2 fietsen per jaar",
-          "amount_limit_reached": "Je kunt niet meer dan €5000 kopen",
+          "not_alltricks_order": "De geselecteerde korting geldt alleen voor artikelen verkocht en verzonden door Alltricks",
+          "not_available": "Er is al een korting gekoppeld aan je winkelwagen.",
+          "not_compatible": "De inhoud van uw winkelwagen komt niet overeen met de beperkingen van deze kortingscode.",
+          "not_compatible_staff": "De personeelskorting is niet van toepassing op deze winkelwagen, omdat geen enkel product in aanmerking komt.",
+          "not_found": "De kortingscode {code} bestaat niet. Probeer opnieuw.",
+          "not_usable": "De geselecteerde korting is niet bruikbaar.",
+          "not_voucher_proprietary": "U bent niet de eigenaar van de geselecteerde korting.",
+          "user_not_compatible": "Deze kortingscode bestaat niet, is niet meer geldig of vereist uw identificatie.",
+          "bicycle_limit_reached": "U bent beperkt tot 2 fietsen per jaar",
+          "amount_limit_reached": "U kunt niet meer dan € 5000 uitgeven",
           "unknownError": "Er is een fout opgetreden"
         },
         "unknownError": "Er is een fout opgetreden"
       },
       "alertMultiplePackages": {
-        "title": "Je bestelling wordt in verschillende pakketten geleverd.",
-        "shippingModeChoice": "Kies in de volgende stap de aflevermethode die je verkiest voor elke afzender."
+        "title": "Uw bestelling wordt in meerdere pakketten geleverd.",
+        "shippingModeChoice": "Kies in de volgende stap voor elke afzender de leveringsmethode die u het beste uitkomt."
       },
       "alertMergedCart": {
-        "title": "Producten uit je winkelmandje.",
-        "description": "U hebt tijdens een vorig bezoek producten aan uw mandje toegevoegd. We hebben ze opgehaald en vandaag aan uw mandje toegevoegd."
+        "title": "Producten opgehaald uit uw winkelwagen.",
+        "description": "U had producten aan de winkelwagen toegevoegd tijdens een eerder bezoek. We hebben ze opgehaald en toegevoegd aan uw winkelwagen van vandaag."
       },
       "unknownError": "Er is een fout opgetreden",
       "stockAlert": {
-        "notificationButtonLabel": "Informeer mij over beschikbaarheid",
-        "notificationTitle": "Waarschuwing productbeschikbaarheid",
-        "notificationDescription": "Ik wil graag per e-mail op de hoogte worden gebracht zodra dit product weer beschikbaar is.",
+        "notificationButtonLabel": "Waarschuw mij bij beschikbaarheid",
+        "notificationTitle": "Productbeschikbaarheidsalert",
+        "notificationDescription": "Ik wil per e-mail gewaarschuwd worden zodra dit product weer beschikbaar is.",
         "form": {
           "email": "e-mail",
           "placeholder": "Voer uw e-mailadres in",
-          "submit": "Valideren en uit winkelmand verwijderen",
+          "submit": "Valideren en uit winkelwagen verwijderen",
           "cancel": "Annuleren",
           "optinLabel": "Ik wil ook andere aanbiedingen per e-mail ontvangen",
           "postError": {
-            "email": "Ongeldig e-mailadres"
+            "email": "Het e-mailadres is niet geldig"
           }
         },
         "unknownError": "Er is een fout opgetreden"
       },
       "insuranceForm": {
-        "description": "Je hebt zojuist een verzekering voor je motor afgesloten. Om uw verzekeringscontract af te ronden, hebben we enkele gegevens nodig die hieronder moeten worden ingevuld, evenals uw validatie.",
+        "description": "U heeft zojuist een verzekering voor uw fiets toegevoegd. Om uw verzekeringscontract af te ronden, hebben we enkele gegevens nodig die hieronder ingevuld moeten worden, evenals uw validatie.",
         "unknownError": "Er is een fout opgetreden",
         "genderOptions": {
-          "madam": "Mevrouw.",
+          "madam": "Mevrouw",
           "mister": "Meneer"
         },
         "labels": {
           "birthCountryId": "Geboorteland",
           "birthDate": "Geboortedatum",
           "birthPlace": "Geboorteplaats",
-          "consent": "Ik bevestig dat ik het Informatie- en Adviesblad Verzekering, het Informatiedocument Verzekeringsproduct en de Formulering van de Polis heb gelezen, dat ik ze heb gedownload en/of afgedrukt en dat ik ze zonder voorbehoud accepteer. Ik accepteer dat mijn lidmaatschap onmiddellijk ingaat. Ik kan mijn lidmaatschap opzeggen binnen veertien (14) dagen na de datum van inschrijving.",
+          "consent": "Ik erken kennis te hebben genomen van het Informatie- en Adviesblad Verzekeringen, het Productinformatiedocument Verzekering en de Kennisgeving, deze te hebben gedownload en/of afgedrukt en deze zonder voorbehoud te accepteren. Ik ga ermee akkoord dat mijn lidmaatschap onmiddellijk van kracht wordt. Ik heb de mogelijkheid om af te zien van mijn lidmaatschap binnen een termijn van veertien (14) dagen vanaf de datum van lidmaatschap.",
           "firstName": "Voornaam",
-          "gender": "Beleefdheid",
-          "lastName": "Naam"
+          "gender": "Aanhef",
+          "lastName": "Achternaam"
         },
         "placeholders": {
           "birthCountryId": "Voer uw geboorteland in",
-          "birthDate": "XX/XX/XXXX",
-          "birthPlace": "Vul uw geboorteplaats in",
+          "birthDate": "DD/MM/JJJJ",
+          "birthPlace": "Voer uw geboorteplaats in",
           "firstName": "Voer uw voornaam in",
-          "gender": "Kies je titel",
-          "lastName": "Voer uw naam in"
+          "gender": "Kies uw aanhef",
+          "lastName": "Voer uw achternaam in"
         },
         "primaryActions": {
-          "close": "Sluit",
-          "submit": "Mijn gegevens bevestigen"
+          "close": "Sluiten",
+          "submit": "Mijn gegevens valideren"
         },
-        "title": "Verzekering tegen breuk en diefstal",
+        "title": "Fietsverzekering breuk en diefstal",
         "legalNotice": {
-          "description": "AVANIS, handelend onder het merk \" ALLTRICKS \", communiceert informatie met betrekking tot uw identiteit en uw coördinaten aan de verantwoordelijke voor de behandeling, de verzekeringsmaatschappij ONEY INSURANCE (PCC) LIMITED en haar onderaannemers die de verzamelde gegevens behandelen voor de afsluiting en het beheer van de verzekeringsovereenkomst. Om meer te weten te komen over het beheer van uw persoonlijke gegevens en om uw rechten uit te oefenen, verwijzen wij u naar artikel 8 van de informatieve kennisgeving.",
-          "buttonLabel": "Documenten bekijken",
-          "noticeDownloadLabel": "Informatie- en adviesblad voor de Alltricks Pech- & Diefstalverzekering:"
+          "description": "AVANIS handelend onder het merk \"ALLTRICKS\", deelt de informatie betreffende uw identiteit en contactgegevens mee aan de verwerkingsverantwoordelijke, de verzekeringsmaatschappij ONEY INSURANCE (PCC) LIMITED en haar onderaannemers die de verzamelde gegevens verwerken voor het lidmaatschap en het beheer van het verzekeringscontract. Voor meer informatie over het beheer van uw persoonlijke gegevens en om uw rechten uit te oefenen, raadpleeg artikel 8 van de informatiekennisgeving.",
+          "buttonLabel": "Documenten raadplegen",
+          "noticeDownloadLabel": "Informatie- en adviesblad van de Breuk & Diefstal verzekering Alltricks:"
         }
       },
       "cashbackBanner": {
-        "amountOffer": "{bedrag} van poesje",
-        "validatingOrder": "door deze volgorde te valideren",
-        "amountAvailable": "<strong>Uw loyaliteitssaldo:</strong> {bedrag} van prijzenpot",
-        "expirationDate": "Te gebruiken voor {datum}"
+        "amountOffer": "{amount} cashback",
+        "validatingOrder": "bij het valideren van deze bestelling",
+        "amountAvailable": "<strong>Uw loyaliteitssaldo:</strong> {amount} spaarpot",
+        "expirationDate": "Te gebruiken voor {date}"
       },
       "alltricksPlus": {
         "benefits": {
-          "cashback": "<strong>{cashbackAmount} jackpot</strong> met deze opdracht.",
-          "withoutCashbackCurrentCart": "<strong>Pool</strong> op duizenden producten",
-          "delivery": "<Beperkte gratis levering",
-          "return": "<100 dagen</strong> om uw producten te retourneren",
-          "other": "Nog veel meer <strong>exclusieve voordelen</strong>"
+          "cashback": "<strong>{cashbackAmount} spaarpot</strong> dankzij deze bestelling",
+          "withoutCashbackCurrentCart": "<strong>Spaarpot</strong> op duizenden producten",
+          "delivery": "<strong>Gratis</strong> onbeperkte levering",
+          "return": "<strong>100 dagen</strong> om uw producten te retourneren",
+          "other": "Vele andere <strong>exclusieve voordelen</strong>"
         },
         "register": "<strong>Ik word nu lid</strong> voor {annualPrice} / jaar",
-        "switchLabel": "Wel of niet deelnemen aan het Alltricks Plus-programma",
-        "footerText": "Geen verplichtingen: abonnement wordt automatisch opgezegd na 1 jaar.",
-        "infoButtonLabel": "Wettelijke informatie",
+        "switchLabel": "Wel of niet deelnemen aan het Alltricks Plus programma",
+        "footerText": "Vrijblijvend aanbod: abonnement wordt automatisch beëindigd na 1 jaar.",
+        "infoButtonLabel": "Juridische informatie",
         "conditionsModal": {
-          "title": "Alltricks+ Algemene voorwaarden",
-          "closeButton": "Sluit"
+          "title": "Algemene voorwaarden Alltricks+",
+          "closeButton": "Sluiten"
         },
         "unknownError": "Er is een fout opgetreden"
       },
       "alltricksPlusPremiumFreeOffered": {
         "benefits": {
-          "cashback": "<strong>{cashbackAmount} jackpot</strong> met deze opdracht.",
-          "withoutCashbackCurrentCart": "<strong>Pool</strong> op duizenden producten",
-          "delivery": "<Beperkte gratis levering",
-          "return": "<100 dagen</strong> om uw producten te retourneren",
-          "other": "Nog veel meer <strong>exclusieve voordelen</strong>"
+          "cashback": "<strong>{cashbackAmount} spaarpot</strong> dankzij deze bestelling",
+          "withoutCashbackCurrentCart": "<strong>Spaarpot</strong> op duizenden producten",
+          "delivery": "<strong>Gratis</strong> onbeperkte levering",
+          "return": "<strong>100 dagen</strong> om uw producten te retourneren",
+          "other": "Vele andere <strong>exclusieve voordelen</strong>"
         },
-        "register": "Dankzij uw aankopen is <strong>Alltricks+ 1 jaar gratis</strong>.",
-        "switchLabel": "Wel of niet deelnemen aan het Alltricks Plus-programma",
-        "footerText": "Geen verplichting aanbod: abonnement automatisch geannuleerd na 1 jaar. Als u al klant bent van Alltricks+, wordt uw abonnement met nog eens 1 jaar verlengd.",
-        "infoButtonLabel": "Wettelijke informatie",
+        "register": "Dankzij uw aankopen is <strong>Alltricks+ gratis voor 1 jaar</strong>",
+        "switchLabel": "Wel of niet deelnemen aan het Alltricks Plus programma",
+        "footerText": "Vrijblijvend aanbod: abonnement wordt automatisch beëindigd na 1 jaar. Als u al Alltricks+ klant bent, start uw abonnement opnieuw voor nog 1 jaar.",
+        "infoButtonLabel": "Juridische informatie",
         "conditionsModal": {
-          "title": "Alltricks+ Algemene voorwaarden",
-          "closeButton": "Sluit"
+          "title": "Algemene voorwaarden Alltricks+",
+          "closeButton": "Sluiten"
         },
         "unknownError": "Er is een fout opgetreden"
       },
       "AlltricksPlusFrozen": {
-        "expiredBalance": "Uw vervallen saldo :",
-        "amountAvailable": "{bedrag} van poesje",
-        "frozenCashbackExpiryDate": "Profiteer van je prijzenpot door je inschrijving te heractiveren voor {datum}.",
-        "reactivePremium": "<strong>Ik profiteer van mijn kitty</strong> voor {annualPrice} / jaar",
-        "switchLabel": "Wel of niet deelnemen aan het Alltricks Plus-programma",
-        "footerText": "Geen verplichtingen: abonnement wordt automatisch opgezegd na 1 jaar.",
-        "infoButtonLabel": "Wettelijke informatie",
+        "expiredBalance": "Uw verlopen saldo:",
+        "amountAvailable": "{amount} spaarpot",
+        "frozenCashbackExpiryDate": "Profiteer van uw spaarpot door uw abonnement te heractiveren voor {date}",
+        "reactivePremium": "<strong>Ik profiteer van mijn spaarpot</strong> voor {annualPrice} / jaar",
+        "switchLabel": "Wel of niet deelnemen aan het Alltricks Plus programma",
+        "footerText": "Vrijblijvend aanbod: abonnement wordt automatisch beëindigd na 1 jaar.",
+        "infoButtonLabel": "Juridische informatie",
         "conditionsModal": {
-          "title": "Alltricks+ Algemene voorwaarden",
-          "closeButton": "Sluit"
+          "title": "Algemene voorwaarden Alltricks+",
+          "closeButton": "Sluiten"
         },
         "unknownError": "Er is een fout opgetreden"
       }
     },
     "shipping": {
       "unknownError": "Er is een fout opgetreden",
-      "stepTitle": "<strong>{totalCount, meervoud, =1 {Levering} andere {Levering {currentCount}/{totalCount}}</strong>",
-      "nextStep": "Doorgaan naar betaling",
+      "stepTitle": "<strong>{totalCount, plural, =1 {Levering} other {Levering {currentCount}/{totalCount}}}</strong>",
+      "nextStep": "Naar betaling",
       "nextLogisticOrder": "Volgende stap",
-      "previousLogisticOrder": "Retourneer levering {currentCount}/{totalCount}",
+      "previousLogisticOrder": "Terug naar levering {currentCount}/{totalCount}",
       "multiplePackageAlert": {
-        "title": "Je bestelling wordt in meerdere termijnen geleverd.",
-        "description": "Kies de aflevermethode die je verkiest voor elke afzender."
+        "title": "Uw bestelling wordt in meerdere keren geleverd.",
+        "description": "Kies voor elke verzender de leveringsmethode die u het beste uitkomt."
       },
       "noDeliveryOptions": {
-        "title": "Leveringsbeperkingen",
-        "description": "Vanwege het gewicht of de waarde van bepaalde artikelen in je bestelling, kunnen er leveringsbeperkingen van toepassing zijn. Neem voor hulp contact op met ons team via e-mail of op 01 30 48 90 07."
+        "title": "Leveringsbeperking",
+        "description": "Vanwege het gewicht of de waarde van bepaalde artikelen in uw bestelling gelden er leveringsbeperkingen. Voor hulp kunt u contact opnemen met ons team per e-mail of op 01 30 48 90 07."
       },
       "cartSummary": {
-        "discountCode": "Promo code",
+        "discountCode": "Promocode",
         "giftCardUsed": "Cadeaubon",
-        "voucherUsed": "Heb",
-        "cashbackUsed": "Alltricks+ Kitty",
-        "title": "<strong>Recap</strong>"
+        "voucherUsed": "Tegoed",
+        "cashbackUsed": "Alltricks+ spaarpot",
+        "title": "<strong>Samenvatting</strong>"
       },
       "deliveryOptions": {
         "free": "Gratis",
-        "offered": "Gratis",
-        "offeredWith": "Beschikbaar met",
+        "offered": "Aangeboden",
+        "offeredWith": "Aangeboden met",
         "unavailable": "Niet beschikbaar",
-        "committedChoice": "De vastgelegde keuze",
+        "committedChoice": "De toegewijde keuze",
         "home": "Thuisbezorging",
-        "collect": "Collectie in de winkel",
-        "relay": "Punten Relais® & Lockers",
-        "storeChateaudun": "Opheffen magazijn Châteaudun",
+        "collect": "Afhalen in winkel",
+        "relay": "Afhaalpunten & Lockers®",
+        "storeChateaudun": "Afhalen magazijn Châteaudun",
         "email": "E-mail",
         "todayDelivery": "Vanaf vandaag",
         "nextDayDelivery": "Vanaf morgen",
-        "scheduledDelivery": "Van {datum}",
-        "deliveryBetween": "Tussen {earliestDay, select, today {today} tomorrow {tomorrow} other {{earliestDate}} en {latestDay, select, today {today} tomorrow {tomorrow} other {{latestDate}}}",
+        "scheduledDelivery": "Vanaf {date}",
+        "deliveryBetween": "Tussen {earliestDay, select, today {vandaag} tomorrow {morgen} other {{earliestDate}}} en {latestDay, select, today {vandaag} tomorrow {morgen} other {{latestDate}}}",
         "deliveryBetweenInSameMonth": "Tussen {earliestDate} en {latestDate} {month}",
-        "deliveryDayWithAppointment": "{day, select, today {Vandaag} tomorrow {Tomorrow} other {The {date}}",
-        "closeModal": "Sluit",
+        "deliveryDayWithAppointment": "{day, select, today {Vandaag} tomorrow {Morgen} other {Op {date}}}",
+        "closeModal": "Sluiten",
         "alltricksPlusTagLabel": "Alltricks Plus",
         "carrier": {
-          "mondialRelay": "Mondiaal Relais",
-          "colissimo": "Colissimo relais",
+          "mondialRelay": "Mondial Relay",
+          "colissimo": "Colissimo Relais",
           "chronopost": "Chronopost",
-          "byType": "Type verzamelpunt"
+          "byType": "Type afhaalpunt"
         },
-        "carrierRadioGroupLabel": "Selecteer drager",
-        "carrierDropdownLabel": "Selecteer drager",
+        "carrierRadioGroupLabel": "Selecteer de vervoerder",
+        "carrierDropdownLabel": "Selecteer de vervoerder",
         "deliveryType": {
           "email": {
-            "title": "Uw aankoop wordt per e-mail naar het onderstaande adres verzonden zodra uw bestelling is gevalideerd."
+            "title": "Uw aankoop wordt per e-mail verzonden naar het onderstaande adres zodra uw bestelling is bevestigd."
           },
           "relay": {
-            "title": "Kies uw Point Relais"
+            "title": "Kies uw afhaalpunt"
           },
-          "title": "Kies uw leveringsmethode",
+          "title": "Kies uw bezorgmethode",
           "store": {
             "title": "Kies uw Alltricks winkel afhaalpunt"
           },
-          "yourRelay": "Je relaispunt",
-          "standardHomeDelivery": "Standaard levering",
-          "expressHomeDelivery": "Express levering",
-          "signatureOrCodeOnDelivery": "Handtekening of unieke code vereist bij levering",
-          "preciseDelivery": "Thuisbezorging op afspraak",
-          "standardRelayDelivery": "Point Relais® en Lockers® standaard",
-          "expressRelayDelivery": "Point Relais® en Lockers® express",
-          "freeShipping": "Gratis",
-          "onAppointmentDescription": "Begane grond, op afspraak, ook op zaterdag",
-          "deliveryBetweenInSameMonth": "Levering tussen <strong>{geschatteMinDatum}</strong> en <strong>{geschatteMaxDatum}</strong> <strong>{maand}</strong>",
-          "deliveryPeriod": "Levering tussen {minDay, select, today {<strong>today</strong>} tomorrow {<strong>tomorrow</strong>} other {<strong>{estimatedMinDate}</strong>}} en {maxDay, select, today {<strong>today</strong>} tomorrow {<strong>tomorrow</strong>} other {<strong>{estimatedMaxDate}</strong>}}.",
-          "deliveryDateFrom": "Levering vanaf {day, select, vandaag {<strong>today</strong>} morgen {<strong>tomorrow</strong>} andere {<strong>{datum}</strong>}}",
-          "deliveryDatePrecise": "Delivery {day, select, today {<strong>today</strong>} tomorrow {<strong>tomorrow</strong>} other {<strong>{date}</strong>} between <strong>{timeStart}</strong> and <strong>{timeEnd}</strong>",
+          "yourRelay": "Uw afhaalpunt",
+          "standardHomeDelivery": "Standaard bezorging",
+          "expressHomeDelivery": "Express bezorging",
+          "signatureOrCodeOnDelivery": "Handtekening of unieke code vereist bij bezorging",
+          "preciseDelivery": "Bezorging op afspraak thuis",
+          "standardRelayDelivery": "Standaard afhaalpunten & Lockers®",
+          "expressRelayDelivery": "Express afhaalpunten & Lockers®",
+          "freeShipping": "Aangeboden",
+          "onAppointmentDescription": "Op de begane grond, op afspraak, zaterdag inbegrepen",
+          "deliveryBetweenInSameMonth": "Bezorging tussen <strong>{estimatedMinDate}</strong> en <strong>{estimatedMaxDate}</strong> <strong>{month}</strong>",
+          "deliveryPeriod": "Bezorging tussen {minDay, select, today {<strong>vandaag</strong>} tomorrow {<strong>morgen</strong>} other {<strong>{estimatedMinDate}</strong>}} en {maxDay, select, today {<strong>vandaag</strong>} tomorrow {<strong>morgen</strong>} other {<strong>{estimatedMaxDate}</strong>}}",
+          "deliveryDateFrom": "Bezorging vanaf {day, select, today {<strong>vandaag</strong>} tomorrow {<strong>morgen</strong>} other {<strong>{date}</strong>}}",
+          "deliveryDatePrecise": "Bezorging {day, select, today {<strong>vandaag</strong>} tomorrow {<strong>morgen</strong>} other {<strong>{date}</strong>}} tussen <strong>{timeStart}</strong> en <strong>{timeEnd}</strong>",
           "edit": "Bewerken"
         },
         "relaySelectorModal": {
           "carrier": {
-            "mondialRelay": "Mondiaal Relais",
+            "mondialRelay": "Mondial Relay",
             "colissimo": "Colissimo",
             "chronopost": "Chronopost"
           },
+          "noRelayFound": {
+            "title": "Geen afhaalpunt beschikbaar",
+            "description": "De artikelen in uw winkelwagen kunnen momenteel niet worden bezorgd op een afhaalpunt."
+          },
           "listView": "Lijst",
           "mapView": "Kaart",
-          "relaySelectorTabsLabel": "Weergaven relaiskeuze",
-          "closeButtonLabel": "Sluit"
+          "relaySelectorTabsLabel": "Weergaven van de afhaalpunt selector",
+          "closeButtonLabel": "Sluiten"
         }
       },
       "deliveryAddress": {
         "currentAddressTitle": "Mijn adres",
         "listAddressesTitle": "Mijn adressen",
-        "newAddressTitle": "Een nieuw adres maken",
-        "modifyAddressTitle": "Wijzig mijn adres",
-        "validateChanges": "Wijzigingen bevestigen",
-        "chooseAddressButton": "Kies dit adres",
+        "newAddressTitle": "Nieuw adres aanmaken",
+        "modifyAddressTitle": "Mijn adres wijzigen",
+        "validateChanges": "Wijzigingen valideren",
+        "chooseAddressButton": "Dit adres kiezen",
         "currentDeliveryAddress": "Geselecteerd adres",
-        "modifyAddressLink": "Wijzig mijn adres",
-        "chooseOtherAddressButton": "Kies een ander adres",
-        "addNewAddressButton": "Een nieuw adres toevoegen",
+        "modifyAddressLink": "Mijn adres wijzigen",
+        "chooseOtherAddressButton": "Een ander adres kiezen",
+        "addNewAddressButton": "Nieuw adres toevoegen",
         "cancel": "Annuleren",
         "labels": {
           "address": "Adres",
-          "additional": "Extra adres",
+          "additional": "Aanvullend adres",
           "city": "Stad",
           "company": "Bedrijf",
           "country": "Land",
           "name": "Voor- en achternaam",
-          "phone": "Mobiel telefoonnummer",
-          "state": "Status",
+          "phone": "Mobiele telefoon",
+          "state": "Staat",
           "zipCode": "Postcode",
           "optional": "Optioneel"
         },
         "helperMessages": {
-          "phone": "Voor een optimale levering en tracering van uw bestelling"
+          "phone": "Voor optimale levering en tracking van uw bestelling"
         },
-        "missingPhoneAlert": "Dit adres is onvolledig. Voer het telefoonnummer in.",
-        "modifyAlertButton": "Bewerken",
-        "missingPhoneFieldError": "Voer het telefoonnummer in",
+        "missingPhoneAlert": "Dit adres is onvolledig. Gelieve het telefoonnummer in te vullen.",
+        "modifyAlertButton": "Wijzigen",
+        "missingPhoneFieldError": "Vul het telefoonnummer in",
         "placeholders": {
           "address": "Voer uw adres in",
-          "additional": "Toevoegen aan je adres",
+          "additional": "Voeg een aanvulling toe aan uw adres",
           "city": "Voer uw stad in",
           "company": "Voer uw bedrijf in",
           "name": "Voer uw voor- en achternaam in",
@@ -480,63 +484,63 @@
           "zipCode": "Voer uw postcode in"
         },
         "postError": {
-          "address_already_exists": "Adres bestaat al",
+          "address_already_exists": "Het adres bestaat al",
           "french_zip_code": "Onjuist formaat",
           "invalid_phone_number": "Onjuist formaat",
           "unknown_error": "Er is een fout opgetreden"
         },
         "suggestingAddress": {
-          "title": "Adrescontrole",
-          "notification": "We hebben een mogelijke fout ontdekt bij het invoeren van uw adres. Bevestig uw keuze.",
-          "addressGiven": "Gegeven adres",
+          "title": "Adresverificatie",
+          "notification": "We hebben een mogelijke fout gedetecteerd in de invoer van uw adres. Gelieve uw keuze te bevestigen.",
+          "addressGiven": "Ingevoerd adres",
           "suggestedAddress": "Voorgesteld adres",
-          "saveAddress": "Registreer dit adres"
+          "saveAddress": "Dit adres opslaan"
         }
       },
       "deliveryMode": {
         "backButton": "Mijn leveringsmethode wijzigen",
-        "formLabelTitle": "Gegroepeerde of afzonderlijke levering?",
-        "formLabelDescription": "De producten in deze bestelling hebben verschillende leverdata.",
-        "formLabelTooltip": "Gratis voor aankopen van meer dan €100 bij meer dan 6.000 Mondial Relay-punten. Alleen geldig in Frankrijk",
+        "formLabelTitle": "Gegroepeerde of gescheiden levering?",
+        "formLabelDescription": "De producten in deze bestelling hebben verschillende leveringsdatums.",
+        "formLabelTooltip": "Gratis vanaf € 100 aankoop in meer dan 6000 Mondial Relay punten. Alleen geldig in Frankrijk metropolitaan",
         "groupOption": {
           "title": "Gegroepeerde levering",
-          "description": "Je bestelling wordt verzonden als al je artikelen klaar zijn. Ontvang al uw producten vanaf {deliveryDate}."
+          "description": "Uw bestelling wordt verzonden wanneer al uw artikelen klaar zijn. Ontvang al uw producten vanaf {deliveryDate}."
         },
         "splitOption": {
-          "title": "Afzonderlijke levering",
-          "description": "Ontvang uw leveringen {firstDeliveryWindow, select, morgen {vanaf morgen} binnenkort {vanaf {firstDeliveryDate}} overig {op {firstDeliveryDate}}} in een eerste pakket en een tweede pakket met de rest van {nextDeliveryWindow, select, binnenkort {vanaf {nextDeliveryDate}} overig {vanaf {nextDeliveryDate}}}."
+          "title": "Gescheiden levering",
+          "description": "Ontvang uw leverbare producten {firstDeliveryWindow, select, tomorrow {vanaf morgen} soon {vanaf {firstDeliveryDate}} other {op {firstDeliveryDate}}} in een eerste zending en een tweede pakket met de rest vanaf {nextDeliveryWindow, select, soon {{nextDeliveryDate}} other {{nextDeliveryDate}}}."
         },
         "offered": "Gratis",
-        "priceFrom": "van {prijs}",
-        "consciousChoice": "De vastgelegde keuze",
-        "deliveryCharges": "Verzendkosten :",
-        "deliveryChargesCount": "Leveringskosten nr:",
+        "priceFrom": "vanaf {price}",
+        "consciousChoice": "De bewuste keuze",
+        "deliveryCharges": "Verzendkosten: ",
+        "deliveryChargesCount": "Verzendkosten nr. {count}: ",
         "unknownError": "Er is een fout opgetreden"
       },
       "bikeAssemblyPack": {
-        "detailsButtonLabel": "Zie details",
+        "detailsButtonLabel": "Details bekijken",
         "assemblyModal": {
-          "packServicesTitle": "Onze servicepacks",
-          "close": "Sluit",
-          "partialOrTotalAssemblyQuestion": "Gedeeltelijke of 100% montage, wat is het?"
+          "packServicesTitle": "Onze servicepakketten",
+          "close": "Sluiten",
+          "partialOrTotalAssemblyQuestion": "Gedeeltelijke of 100% montage, wat is dat?"
         },
         "packServicesTable": {
-          "serenityPack": "Sereniteit Pack",
-          "confortPack": "Comfort pakket",
-          "expressDelivery": "Express levering",
+          "serenityPack": "Serenity Pakket",
+          "confortPack": "Comfort Pakket",
+          "expressDelivery": "Express Levering",
           "bikeAssembly": "Fiets 100% gemonteerd<sup>(1)</sup>",
-          "expertAccess": "Toegang tot onze experts",
+          "expertAccess": "Voorrangtoegang tot onze experts",
           "bikeMarking": "Fietsmarkering",
-          "bikeMaintenance": "Fiets onderhoud in Alltricks winkels",
-          "additionnalMaintenance": "Extra arbeid (2h)<sup>(2)</sup>",
+          "bikeMaintenance": "Fietsrevisie in Alltricks winkels",
+          "additionnalMaintenance": "Extra arbeid (2u)<sup>(2)</sup>",
           "oneYear": "1 jaar",
           "threeMonths": "3 maanden",
-          "goldService": "3 herzieningen \"Goud\"<sup>(2)</sup>",
-          "bronzeService": "1 revisie \"Brons\"<sup>(3)</sup>",
+          "goldService": "3 \"Goud\" revisies<sup>(2)</sup>",
+          "bronzeService": "1 \"Brons\" revisie<sup>(3)</sup>",
           "details": {
-            "one": "(1) Fiets volledig gemonteerd, gecontroleerd en afgesteld door onze deskundige monteurs. Om de ecologische impact van transport te verminderen, hebben we het voorwiel en de pedalen van je fiets gedemonteerd. Dit vermindert het gewicht en de omvang van het gebruikte karton. Je hoeft ze alleen maar weer in elkaar te zetten en te genieten van je nieuwe fiets. We raden je aan om de zadelhoogte, bandenspanning en vering aan te passen aan jouw voorkeuren.",
-            "two": "(2) Binnen 2 jaar na aankoop.",
-            "three": "(3) Binnen 3 maanden na aankoop. Revisies zijn alleen geldig in een van onze Alltricks winkels. Hier vindt u informatie over bronzen en gouden revisies: <link>www.alltricks.fr/surl/l-atelier</link>"
+            "one": "(1) Fiets volledig gemonteerd, gecontroleerd en afgesteld door onze expertmonteurs. Om de ecologische impact van het transport te verminderen, hebben we het voorwiel en de pedalen van uw fiets gedemonteerd. De gebruikte doos is daardoor minder zwaar en volumineus. U hoeft ze alleen nog maar te monteren en van uw nieuwe fiets te genieten. We raden u aan de zadelhoogte en de bandenspanning en vering aan te passen volgens uw voorkeuren.",
+            "two": "(2) Binnen 2 jaar na aankoop van de fiets.",
+            "three": "(3) Binnen 3 maanden na aankoop van de fiets. De revisies zijn alleen geldig in een van onze Alltricks winkels. Vind informatie over de details van Brons en Goud revisies hier: <link>www.alltricks.fr/surl/l-atelier</link>"
           },
           "includedLabel": "Inbegrepen",
           "excludedLabel": "Uitgesloten"
@@ -546,52 +550,52 @@
           "totalAssembly": "100% montage",
           "totalAssemblySup": "100% montage<sup>(1)</sup>",
           "delivery": "Levering",
-          "storeCollect": "Winkelcollectie",
+          "storeCollect": "Afhalen in winkel",
           "assembledBike": "Voorgemonteerde fiets",
-          "preset": "Voorinstellingen transmissie, remmen, sturen<sup>(2)</sup>",
-          "transmission": "Instelling transmissie",
-          "brake": "Rem afstellen",
-          "steering": "Cockpit",
+          "preset": "Voorafstellingen transmissie, remmen, stuur<sup>(2)</sup>",
+          "transmission": "Afstelling van de transmissie",
+          "brake": "Afstelling van de remmen",
+          "steering": "Montage van de stuurpost",
           "wheel": "Bandenspanning",
-          "saddle": "Zadelhoogte, pedaal",
-          "frontWheel": "Montage voorwiel",
-          "details": "(1) Fiets volledig gemonteerd, gecontroleerd en afgesteld door onze deskundige monteurs. Om de ecologische impact van transport te verminderen, hebben we het voorwiel en de pedalen van je fiets gedemonteerd. Dit vermindert het gewicht en de omvang van het gebruikte karton. Het enige wat jij nog hoeft te doen is de fiets weer in elkaar zetten en genieten van je nieuwe fiets. We raden je aan om de zadelhoogte, bandenspanning en vering aan te passen aan jouw voorkeuren.",
+          "saddle": "Zadelhoogte, montage van de pedalen",
+          "frontWheel": "Montage van het voorwiel",
+          "details": "(1) Fiets volledig gemonteerd, gecontroleerd en afgesteld door onze expertmonteurs. Om de ecologische impact van het transport te verminderen, hebben we het voorwiel en de pedalen van uw fiets gedemonteerd. De gebruikte doos is daardoor minder zwaar en volumineus. U hoeft ze alleen nog maar te monteren en van uw nieuwe fiets te genieten. We raden u aan de zadelhoogte en de bandenspanning en vering aan te passen volgens uw voorkeuren.",
           "includedLabel": "Inbegrepen",
           "excludedLabel": "Uitgesloten"
         },
         "partialAssembly": {
           "title": "Gedeeltelijk gemonteerde fiets",
           "items": {
-            "note": "Er zijn een aantal montagestappen nodig voordat u kunt rijden"
+            "note": "Een aantal montagestappen zal nodig zijn om te kunnen rijden"
           }
         },
         "fullAssembly": {
           "title": "Fiets 100% gemonteerd",
           "items": {
-            "note": "Gemonteerd, gecontroleerd en afgesteld door onze deskundige monteurs"
+            "note": "Gemonteerd, gecontroleerd en afgesteld door onze expertmonteurs"
           }
         },
         "confort": {
-          "title": "Comfort Pack inbegrepen",
+          "title": "Comfort Pakket inbegrepen",
           "items": {
             "assembly": "Fiets 100% gemonteerd",
-            "service": "1e servicebeurt gratis in een Alltricks winkel",
-            "access": "Snellere toegang tot onze experts gedurende 3 maanden",
-            "tagging": "Gratis branding"
+            "service": "Eerste revisie gratis in Alltricks winkel",
+            "access": "Voorrangtoegang tot onze experts gedurende 3 maanden",
+            "tagging": "Gratis markering"
           }
         },
         "serenity": {
-          "title": "Serenity Pakket inbegrepen",
+          "title": "Serenity Pack inbegrepen",
           "items": {
             "shipping": "Express levering",
             "assembly": "Fiets 100% gemonteerd",
-            "service": "3 onderhoudsbeurten + 2 uur arbeid gratis gedurende 2 jaar",
-            "access": "1 jaar lang toegang tot onze experts",
-            "tagging": "Gratis branding"
+            "service": "3 onderhoudsbeurten + 2u arbeid gratis gedurende 2 jaar",
+            "access": "Voorrangtoegang tot onze experts gedurende 1 jaar",
+            "tagging": "Gratis markering"
           }
         },
         "storeChateaudun": {
-          "storeChateaudunNotification": "Je bestelling is binnen 24 tot 48 werkuren beschikbaar in ons magazijn. Je ontvangt een sms en een e-mail zodra het pakket klaar is om te worden opgehaald. Het pakket blijft 10 dagen tot je beschikking."
+          "storeChateaudunNotification": "Uw bestelling zal binnen 24 tot 48 werkuren beschikbaar zijn in het magazijn. U ontvangt een SMS en e-mail zodra deze klaar is om opgehaald te worden. Het pakket blijft 10 dagen tot uw beschikking."
         }
       },
       "openingHours": {
@@ -607,182 +611,182 @@
       },
       "relayFinder": {
         "listView": "Lijstweergave",
-        "mapView": "Kaart bekijken",
-        "showList": "Toon lijst",
-        "enlargeMap": "Grotere kaart weergeven",
+        "mapView": "Kaartweergave",
+        "showList": "Lijst tonen",
+        "enlargeMap": "Kaart vergroten",
         "unknownError": "Onbekende fout",
         "searchButtonLabel": "Zoeken",
-        "searchPlaceholder": "Stad of postcode",
-        "relayLoadingError": "Er is een fout opgetreden tijdens het laden van de verzamelpunten. Laad de pagina opnieuw of start een nieuwe zoekopdracht.",
-        "enableGeolocation": "We konden geen toegang krijgen tot uw locatie. U kunt geolocatie activeren in uw browserinstellingen om deze functie te gebruiken.",
-        "geolocationError": "We konden uw positie niet bepalen. Dit kan komen door een zwak GPS-signaal of een verbindingsprobleem. Probeer het opnieuw.",
-        "locateMe": "Zoek mij",
-        "chooseThisStore": "Kies deze winkel",
-        "chooseThisRelay": "Kies deze Point Relais® winkel",
-        "chooseYourStore": "Kies je winkel",
-        "chooseYourRelay": "Kies uw Point Relais",
-        "closeModalLabel": "Sluit",
-        "searchZone": "Zoeken in deze zone",
+        "searchPlaceholder": "Stad of Postcode",
+        "relayLoadingError": "Er is een fout opgetreden bij het laden van de afhaalpunten. Herlaad de pagina of start een nieuwe zoekopdracht.",
+        "enableGeolocation": "We konden uw locatie niet bereiken. U kunt geolocatie inschakelen in uw browserinstellingen om deze functie te gebruiken.",
+        "geolocationError": "We konden uw locatie niet bepalen. Dit kan te wijten zijn aan een zwak GPS-signaal of een verbindingsprobleem. Probeer het opnieuw.",
+        "locateMe": "Lokaliseer mij",
+        "chooseThisStore": "Deze winkel kiezen",
+        "chooseThisRelay": "Dit Afhaalpunt® kiezen",
+        "chooseYourStore": "Kies uw winkel",
+        "chooseYourRelay": "Kies uw Afhaalpunt®",
+        "closeModalLabel": "Sluiten",
+        "searchZone": "Zoeken in dit gebied",
         "myLocation": "Mijn locatie",
         "searchbarLabel": "Zoekbalk",
-        "clearButtonLabel": "Verwijder",
+        "clearButtonLabel": "Wissen",
         "searchResultsLabel": "Zoekresultaten",
         "noResultsFound": "Geen resultaten",
         "noRelayFound": {
-          "title": "Geen relaispunten gevonden voor deze zoekopdracht",
+          "title": "Geen afhaalpunt gevonden voor deze zoekopdracht",
           "description": "Probeer het opnieuw met een ander adres"
         },
-        "relayListLabel": "Relaislijst",
-        "currentSelectedRelay": "Geselecteerd relaispunt"
+        "relayListLabel": "Lijst van afhaalpunten",
+        "currentSelectedRelay": "Geselecteerd afhaalpunt"
       }
     },
     "confirmation": {
       "orderSummary": {
         "title": "Samenvatting",
-        "order": "Commando",
-        "orderReference": "n°{verwijzing}",
-        "totalAmount": "Totaal bedrag",
-        "totalAmountTaxesIncluded": "{bedrag} incl. btw",
+        "order": "Bestelling",
+        "orderReference": "nr.{reference}",
+        "totalAmount": "Totaalbedrag",
+        "totalAmountTaxesIncluded": "{amount} incl. BTW",
         "trackOrder": "Mijn bestelling volgen"
       },
       "instructions": {
-        "title": "Mijn betaling afronden",
+        "title": "Mijn betaling voltooien",
         "cheque": {
-          "stepOne": "-Druk de bevestigingsmail van je bestelling af en voeg deze bij je cheque,",
-          "stepTwo": "-Gelieve te betalen aan AVANIS,",
-          "stepThree": "-Schrijf uw bestelnummer op de achterkant van de cheque,",
-          "stepFour": "-Stuur uw cheque naar het volgende adres",
-          "chequeReceived": "Zodra we je cheque hebben ontvangen, doen onze teams hun uiterste best om je bestelling zo snel mogelijk te leveren."
+          "stepOne": "-Print uw orderbevestigingsmail om bij uw cheque te voegen,",
+          "stepTwo": "-Vul de naam in ten gunste van AVANIS,",
+          "stepThree": "-Noteer uw ordernummer op de achterkant van de cheque,",
+          "stepFour": "-Stuur uw cheque naar het volgende adres:",
+          "chequeReceived": "Zodra we uw cheque hebben ontvangen, zullen onze teams er alles aan doen om uw bestelling zo snel mogelijk te leveren."
         },
         "bankTransfer": {
-          "stepOne": "Voer uw overschrijving uit met behulp van de onderstaande bankgegevens:",
-          "accountHolder": "Rekeninghouder : HiPay SAS",
-          "iban": "IBAN : {iban}",
-          "bic": "BIC : {bic}",
+          "stepOne": "Gelieve uw overschrijving uit te voeren met behulp van onderstaande bankgegevens:",
+          "accountHolder": "Rekeninghouder: HiPay SAS",
+          "iban": "IBAN: {iban}",
+          "bic": "BIC: {bic}",
           "totalAmount": "Bedrag: {totalAmount}",
-          "transferReassure": "Hipay SAS is een van onze betalingsproviders. Uw betaling is veilig en bestemd voor Alltricks.",
-          "transferReceived": "Zodra we je overschrijving hebben ontvangen, doen onze teams hun uiterste best om je bestelling zo snel mogelijk te leveren."
+          "transferReassure": "Hipay SAS is een van onze betalingsproviders. Uw betaling is beveiligd en bestemd voor Alltricks.",
+          "transferReceived": "Zodra we uw bankoverschrijving hebben ontvangen, zullen onze teams er alles aan doen om uw bestelling zo snel mogelijk te leveren."
         },
         "byCheque": "Betaling per cheque",
-        "byBankTransfer": "Betaling via overschrijving",
-        "order": "Commando",
-        "orderReference": "n°{verwijzing}",
-        "totalAmount": "Totaal bedrag",
-        "contactUs": "Neem contact met ons op",
+        "byBankTransfer": "Betaling per bankoverschrijving",
+        "order": "Bestelling",
+        "orderReference": "nr.{reference}",
+        "totalAmount": "Totaalbedrag",
+        "contactUs": "Contact opnemen",
         "accessAccount": "Mijn account",
-        "totalAmountTaxesIncluded": "{bedrag} incl. btw"
+        "totalAmountTaxesIncluded": "{amount} incl. BTW"
       },
       "confirmationStatus": {
         "title": {
           "success": "Bestelling gevalideerd",
-          "warning": "Bevestigde bestelling in afwachting van betaling",
-          "cancelled": "Uw bestelling is mislukt",
-          "refused": "Uw betaling is niet gelukt",
-          "unfinished": "Uw bestelling is mislukt"
+          "warning": "Bestelling bevestigd in afwachting van betaling",
+          "cancelled": "Uw bestelling is niet voltooid",
+          "refused": "Uw betaling is niet voltooid",
+          "unfinished": "Uw bestelling is niet voltooid"
         },
         "message": {
-          "success": "Hartelijk dank voor uw vertrouwen! Het Alltricks team zal zijn uiterste best doen om uw bestelling zo snel mogelijk voor u klaar te maken.",
-          "warning": "Hartelijk dank voor uw vertrouwen! Zodra wij uw betaling hebben ontvangen, zal het Alltricks team zijn uiterste best doen om uw bestelling zo snel mogelijk klaar te maken.",
-          "cancelled": "Wees gerust, er worden geen kosten in rekening gebracht. Hier zijn een paar tips om je bestelling af te ronden:",
-          "refused": "Wees gerust, er worden geen kosten in rekening gebracht. Hier zijn een paar tips om je bestelling af te ronden:",
-          "unfinished": "Wees gerust, er worden geen kosten in rekening gebracht. Hier zijn een paar tips om je bestelling af te ronden:"
+          "success": "Hartelijk dank voor uw vertrouwen! Het Alltricks team doet er alles aan om uw bestelling zo snel mogelijk voor te bereiden.",
+          "warning": "Hartelijk dank voor uw vertrouwen! Zodra we uw betaling hebben ontvangen, zal het Alltricks team er alles aan doen om uw bestelling zo snel mogelijk voor te bereiden.",
+          "cancelled": "Wees gerust, u wordt niet belast. Hier zijn enkele tips om uw bestelling af te ronden:",
+          "refused": "Wees gerust, u wordt niet belast. Hier zijn enkele tips om uw bestelling af te ronden:",
+          "unfinished": "Wees gerust, u wordt niet belast. Hier zijn enkele tips om uw bestelling af te ronden:"
         },
         "actionMessage": {
           "cancelled": {
-            "backToPaymentStep": "Ga terug naar de betalingsfase en probeer het opnieuw,",
-            "tryAnotherMethod": "Probeer een andere methode (bankoverschrijving, betaling in termijnen, enz.),",
-            "ifProblemPersists": "Als het probleem zich blijft voordoen, maak je dan geen zorgen, onze teams werken eraan. Kom over een paar minuten terug."
+            "backToPaymentStep": "Ga terug naar de betalingsstap en probeer opnieuw,",
+            "tryAnotherMethod": "Probeer een andere methode (overschrijving, betaling in termijnen...),",
+            "ifProblemPersists": "Als het probleem aanhoudt, geen zorgen, onze teams zijn ermee bezig, kom over enkele minuten terug."
           },
           "refused": {
-            "checkCardDetails": "Controleer je kaartgegevens en verificatiestappen,",
-            "tryAnotherMethod": "Probeer een andere methode (bankoverschrijving, betaling in termijnen, enz.),",
+            "checkCardDetails": "Controleer uw kaartgegevens en de authenticatiestappen,",
+            "tryAnotherMethod": "Probeer een andere methode (overschrijving, betaling in termijnen...),",
             "contactBank": "Neem indien nodig contact op met uw bank."
           },
-          "finalize": "In het geval van een afhandelingsfout (onjuiste invoer van betalingsmethode, betalingslimiet, enz.), verzoeken wij u uw bestelling opnieuw in te voeren en af te ronden.",
+          "finalize": "In geval van een manipulatiefout (verkeerde invoer van betaalmiddel, betalingslimiet...) nodigen we u uit om uw bestelling opnieuw op te nemen en af te ronden.",
           "unfinished": {
-            "backToPaymentStep": "Ga terug naar de betalingsfase en probeer het opnieuw,",
-            "tryAnotherMethod": "Probeer een andere methode (bankoverschrijving, betaling in termijnen, enz.),",
-            "ifProblemPersists": "Als het probleem zich blijft voordoen, maak je dan geen zorgen, onze teams werken eraan. Kom over een paar minuten terug."
+            "backToPaymentStep": "Ga terug naar de betalingsstap en probeer opnieuw,",
+            "tryAnotherMethod": "Probeer een andere methode (overschrijving, betaling in termijnen...),",
+            "ifProblemPersists": "Als het probleem aanhoudt, geen zorgen, onze teams zijn ermee bezig, kom over enkele minuten terug."
           }
         },
         "actionButton": {
-          "finalizeOrder": "Terug naar de betalingsfase"
+          "finalizeOrder": "Terug naar de betalingsstap"
         }
       },
       "packageCard": {
-        "packageNumber": "Pakket {huidig}/{totaal}",
+        "packageNumber": "Pakket {current}/{total}",
         "shippedBy": "Verzonden door",
-        "sentBy": "Verzonden door",
-        "storeCollect": "Winkel ophalen",
-        "email": "e-mail",
-        "deliveryAddress": "Afleveradres",
-        "sentByEmail": "Verzonden per e-mail",
-        "deliveryDate": "Datum levering",
+        "sentBy": "Verstuurd door",
+        "storeCollect": "Afhaling in winkel",
+        "email": "email",
+        "deliveryAddress": "Bezorgadres",
+        "sentByEmail": "Verstuurd per email",
+        "deliveryDate": "Bezorgdatum",
         "deliveryDateWaitingPayment": "Uw leveringsdatum wordt meegedeeld na ontvangst van uw betaling.",
-        "deliveryInterval": "Levering tussen <strong>{from}</strong> en <strong>{to}</strong>.",
-        "deliveryFrom": "Levering van <strong>{van}</strong>",
-        "receptionDate": "Datum ontvangen",
-        "receptionFrom": "Ontvangen op <strong>{van}</strong>",
-        "refurbishedName": "Status",
+        "deliveryInterval": "Levering tussen <strong>{from}</strong> en <strong>{to}</strong>",
+        "deliveryFrom": "Levering vanaf <strong>{from}</strong>",
+        "receptionDate": "Ontvangstdatum",
+        "receptionFrom": "Ontvangst op <strong>{from}</strong>",
+        "refurbishedName": "Staat",
         "refurbishedValue": "Gereviseerd",
-        "mailAlt": "Illustratie e-mail",
-        "truckAlt": "Verzendillustratie"
+        "mailAlt": "E-mail illustratie",
+        "truckAlt": "Verzending illustratie"
       },
       "unknownError": "Er is een fout opgetreden"
     },
     "payment": {
-      "title": "<strong>Betalingsmethode</strong>",
+      "title": "<strong>Betaalmethode</strong>",
       "paymentOption": {
         "other": {
-          "groupLabel": "Kies een andere betaalmethode",
+          "groupLabel": "Keuze van een andere betaalmethode",
           "label": "Andere betaalmethoden",
           "alert": {
-            "title": "Je bestelling wordt verwerkt na ontvangst van je betaling.",
-            "description": "Afhankelijk van de beschikbaarheid van het product. Om de voorbereiding van uw bestelling te versnellen, raden wij u aan te betalen met creditcard of Paypal."
+            "title": "De verwerking van uw bestelling gebeurt bij ontvangst van uw betaling",
+            "description": "Onder voorbehoud van beschikbaarheid van de producten. Om de voorbereiding van uw bestelling te versnellen, raden wij u aan om de voorkeur te geven aan betaling per bankkaart of Paypal"
           },
           "methods": {
             "cheque": {
-              "description": "Om uw bestelling af te ronden, wordt u gevraagd een cheque te sturen naar het adres dat op uw orderbevestiging staat.",
-              "title": "Betaling per cheque"
+              "description": "Om uw bestelling af te ronden, wordt u uitgenodigd om ons een cheque te sturen naar de gegevens vermeld op uw bestelbevestiging.",
+              "title": "Betaling per bankcheque"
             },
             "virement_via_hipay": {
-              "description": "Om uw bestelling af te ronden, wordt u gevraagd een bankoverschrijving te sturen naar de gegevens op uw orderbevestiging.",
-              "title": "Betaling via overschrijving"
+              "description": "Om uw bestelling af te ronden, wordt u uitgenodigd om ons een bankoverschrijving te sturen naar de gegevens vermeld op uw bestelbevestiging.",
+              "title": "Betaling per bankoverschrijving"
             }
           },
           "submit": "Betaal {finalPrice}"
         },
         "discount": {
           "label": "Cadeaubon",
-          "instructions": "Voer hieronder uw cadeauboncode in. Na validatie wordt de waarde automatisch afgetrokken van je totaalbedrag. Je kunt meerdere cadeaubonnen toevoegen.",
+          "instructions": "Voer hieronder de code van uw cadeaubon in. Eenmaal gevalideerd, wordt de waarde automatisch afgetrokken van uw totaalbedrag. U kunt meerdere cadeaubonnen toevoegen.",
           "infoTitle": "Goed om te weten",
-          "infoDescription": "Als je cadeaubon het bedrag van de bestelling overschrijdt, wordt alleen het laatste bedrag afgetrokken; het restant wordt gecrediteerd voor een toekomstige aankoop.",
-          "discountCode": "Promo code",
+          "infoDescription": "Als uw cadeaubon het bedrag van de bestelling overschrijdt, wordt alleen dit laatste afgetrokken; de rest wordt gecrediteerd voor een toekomstige aankoop.",
+          "discountCode": "Promocode",
           "enterCode": "Voer een code in",
-          "delete": "Cadeaubon opnemen",
-          "amountUsed": "Gebruikt bedrag: {bedrag}",
-          "giftCard": "Cadeaubon : {code}",
-          "remainingAmount": "Resterend bedrag: {bedrag}",
-          "submit": "Valideer",
-          "codeSuccess": "De promotiecode {code} is toegepast op je winkelmandje.",
-          "codeInvalid": "De promotiecode {code} bestaat niet. Probeer het opnieuw.",
+          "delete": "Cadeaubon verwijderen",
+          "amountUsed": "Gebruikt bedrag: {amount}",
+          "giftCard": "Cadeaubon: {code}",
+          "remainingAmount": "Resterend bedrag: {amount}",
+          "submit": "Valideren",
+          "codeSuccess": "De promocode {code} is succesvol toegepast op uw winkelwagen.",
+          "codeInvalid": "De promocode {code} bestaat niet. Probeer opnieuw.",
           "postError": {
-            "already_used_on_this_command": "Je hebt deze cadeaubon al gebruikt voor deze bestelling.",
-            "amount_limit_reached": "Je kunt niet meer dan €5000 kopen",
-            "bicycle_limit_reached": "Je bent beperkt tot 2 fietsen per jaar",
-            "blocked_by_canceled_order": "De cadeaubon die je probeert in te wisselen is tijdelijk geblokkeerd. Neem contact op met onze klantenservice via telefoonnummer 01 30 48 90 07 (maandag t/m vrijdag van 9.00 tot 19.00 uur en zaterdag van 10.00 tot 19.00 uur) of via https://www.alltricks.fr/contact.",
-            "cart_amount_to_small": "Het minimumbedrag van {bedrag} voor deze cadeaubon is niet bereikt.",
+            "already_used_on_this_command": "U heeft deze cadeaubon al gebruikt voor deze bestelling.",
+            "amount_limit_reached": "U kunt niet meer dan € 5000 uitgeven",
+            "bicycle_limit_reached": "U bent beperkt tot 2 fietsen per jaar",
+            "blocked_by_canceled_order": "De cadeaubon die u probeert te gebruiken is tijdelijk geblokkeerd. Neem contact op met onze klantenservice per telefoon op 01 30 48 90 07 (maandag tot vrijdag 9u tot 19u en zaterdag van 10u tot 19u) of via de rubriek https://www.alltricks.fr/contact",
+            "cart_amount_to_small": "Het minimumbedrag van {amount} van deze cadeaubon is niet bereikt.",
             "discount_expired": "Deze cadeaubon bestaat niet of is niet meer geldig.",
-            "empty_cart": "Onmogelijk om een cadeaubon te gebruiken voor een leeg mandje.",
+            "empty_cart": "Onmogelijk om een cadeaubon te gebruiken op een lege winkelwagen.",
             "max_of_used_limit": "Deze cadeaubon bestaat niet of is niet meer geldig.",
             "not_activated": "De geselecteerde cadeaubon is niet gekoppeld aan de huidige bestelling.",
-            "not_alltricks_order": "De cadeaubon kan niet worden gebruikt voor een bestelling die uitsluitend bestaat uit producten die niet door Alltricks worden verkocht.",
-            "not_available": "De geselecteerde cadeaubon is al gebruikt in een bestelling.",
-            "not_compatible": "De inhoud van uw mandje komt niet overeen met de beperkingen van deze cadeaubon.",
-            "not_found": "De cadeaubon {code} bestaat niet. Probeer het opnieuw.",
-            "not_usable": "De geselecteerde cadeaubon kan niet worden gebruikt.",
-            "not_voucher_proprietary": "Je bent niet de eigenaar van de geselecteerde cadeaubon.",
-            "user_not_compatible": "Deze cadeaubon bestaat niet, is niet meer geldig of je moet je identificeren.",
+            "not_alltricks_order": "De cadeaubon kan niet worden gebruikt op een bestelling die uitsluitend bestaat uit producten die niet door Alltricks worden verkocht.",
+            "not_available": "De geselecteerde cadeaubon wordt al gebruikt in een bestelling.",
+            "not_compatible": "De inhoud van uw winkelwagen komt niet overeen met de beperkingen van deze cadeaubon.",
+            "not_found": "De cadeaubon {code} bestaat niet. Probeer opnieuw.",
+            "not_usable": "De geselecteerde cadeaubon is niet bruikbaar.",
+            "not_voucher_proprietary": "U bent niet de eigenaar van de geselecteerde cadeaubon.",
+            "user_not_compatible": "Deze cadeaubon bestaat niet, is niet meer geldig of vereist uw identificatie.",
             "unknownError": "Er is een fout opgetreden"
           },
           "unknownError": "Er is een fout opgetreden"
@@ -790,96 +794,96 @@
         "instalment": {
           "methods": {
             "oney_x3_hipay": {
-              "title": "Oney - 3x gratis betalen<sup>(10)</sup>",
-              "monthlyInstalments": "Maandelijkse betaling: 3 x {maandelijksBedrag}"
+              "title": "Oney - Betaling 3x zonder kosten<sup>(10)</sup>",
+              "monthlyInstalments": "Maandelijkse termijn: 3 x {monthlyAmount}"
             },
             "oney_x4_hipay": {
-              "title": "Oney - Gratis 4x betalen<sup>(10)</sup>.",
-              "monthlyInstalments": "Maandelijkse betaling: 4 x {maandelijksBedrag}"
+              "title": "Oney - Betaling 4x zonder kosten<sup>(10)</sup>",
+              "monthlyInstalments": "Maandelijkse termijn: 4 x {monthlyAmount}"
             }
           },
-          "taegAndFee": "Vast APR: {tae} of, kosten: {feeAmount}",
-          "totalChargesIncluded": "Totaal (inclusief kosten): {totalAmount}",
+          "taegAndFee": "Vast jaarlijks effectief percentage: {tae} oftewel, kosten: {feeAmount}",
+          "totalChargesIncluded": "Totaal (kosten inbegrepen): {totalAmount}",
           "feeAmount": "Kosten: {feeAmount}",
-          "readMore": "Voor meer informatie",
-          "close": "Sluit"
+          "readMore": "Meer weten",
+          "close": "Sluiten"
         },
         "instalmentCredit": {
           "methods": {
             "oney_x10_hipay": {
-              "title": "Oney - 10x financiering",
-              "monthlyInstalments": "Maandelijkse betaling: {installmentCount} x {monthlyAmount}"
+              "title": "Oney - Financiering 10x",
+              "monthlyInstalments": "Maandelijkse termijn: {installmentCount} x {monthlyAmount}"
             }
           },
-          "depositAmount": "Verplichte bijdrage: {depositAmount}",
-          "depositAmountMore": "+ Verplichte bijdrage van {depositAmount}",
+          "depositAmount": "Verplichte aanbetaling: {depositAmount}",
+          "depositAmountMore": "+ Verplichte aanbetaling van {depositAmount}",
           "monthlyAmount": "{installmentCount} x {monthlyAmount}",
-          "taegAndFee": "Vast APR: {tae} of, kosten: {feeAmount}",
-          "totalChargesIncluded": "Totaal (inclusief kosten): {totalAmount}",
-          "readMore": "Voor meer informatie",
-          "disclaimer": "Een lening verplicht je en moet worden terugbetaald <br></br>Controleer je terugbetalingscapaciteit voordat je jezelf verplicht.",
-          "close": "Sluit"
+          "taegAndFee": "Vast jaarlijks effectief percentage: {tae} oftewel, kosten: {feeAmount}",
+          "totalChargesIncluded": "Totaal (kosten inbegrepen): {totalAmount}",
+          "readMore": "Meer weten",
+          "disclaimer": "Een krediet verplicht u en moet worden terugbetaald.<br></br>Controleer uw terugbetalingscapaciteit voordat u zich verbindt",
+          "close": "Sluiten"
         },
         "paypal": {
           "label": "PayPal",
-          "instructions": "Als u deze betaalmethode kiest, wordt u doorgestuurd naar de beveiligde server van PayPal om verbinding te maken met uw account. Uw bestelling wordt bevestigd zodra uw betaling is gevalideerd op de PayPal-site."
+          "instructions": "Door deze betaalmethode te kiezen, wordt u doorgestuurd naar de beveiligde server van PayPal om in te loggen op uw account. Uw bestelling wordt bevestigd zodra uw betaling is gevalideerd op de PayPal-site."
         },
         "purse": {
           "label": "Betaling met portemonnee",
           "submit": "Betaal {finalPrice}"
         },
         "hipay": {
-          "label": "Kredietkaart",
+          "label": "Bankkaart",
           "submit": "Betaal {finalPrice}",
-          "securePayment": "100% veilige betaling",
-          "cardHolderLabel": "Eigenaar",
+          "securePayment": "100% beveiligde betaling",
+          "cardHolderLabel": "Kaarthouder",
           "cardExpirationDateLabel": "Vervaldatum",
           "widget": {
             "carousel-empty": "Geen betaalmethode beschikbaar",
-            "placeholder-cardHolder": "Voornaam",
+            "placeholder-cardHolder": "ACHTERNAAM Voornaam",
             "placeholder-cardNumber": "XXXX-XXXX-XXXX-XXXX",
-            "placeholder-expiryDate": "MM/AA",
+            "placeholder-expiryDate": "MM/JJ",
             "placeholder-issuer_bank_id": "ABCDEFAA123",
-            "placeholder-iban": "GB00 AAAA 0000 0000 0000 00",
+            "placeholder-iban": "NL00 AAAA 0000 0000 0000 00",
             "placeholder-firstname": "Voornaam",
-            "placeholder-lastname": "Naam",
-            "placeholder-bank_name": "Naam bank",
+            "placeholder-lastname": "Achternaam",
+            "placeholder-bank_name": "Naam van de bank",
             "placeholder-cpf": "111.222.333-44",
             "placeholder-curp": "AABB801118MBSYAA11",
             "placeholder-company": "Bedrijf",
-            "cvc-message": "De Card Verification Code (CVC) is een veiligheidscode van 3 cijfers die meestal op de achterkant van de bankkaart staat. Voor American Express-kaarten is het een 4-cijferige code die zich op de voorkant van de kaart bevindt.",
+            "cvc-message": "De kaartverificatiecode (CVC) is een 3-cijferige beveiligingscode die meestal op de achterkant van de bankkaart staat. Voor American Express-kaarten is dit een 4-cijferige code op de voorkant van de kaart.",
             "ERROR_CARD_HOLDER_ALPHANUMERICAL": "De kaarthouder moet alfanumeriek zijn.",
             "ERROR_CARD_HOLDER_MAX_LENGTH": "De maximale lengte van de kaarthouder is overschreden.",
             "ERROR_CARD_HOLDER_MAX_DIGITS": "De kaarthouder mag niet meer dan 8 cijfers bevatten.",
             "ERROR_CARD_HOLDER_INVALID": "De kaarthouder is ongeldig.",
             "ERROR_CARD_NUMBER_INVALID": "Het kaartnummer is ongeldig.",
-            "ERROR_CARD_BRAND_NOT_ALLOWED": "De kaartsoort is niet geautoriseerd.",
+            "ERROR_CARD_BRAND_NOT_ALLOWED": "Het kaarttype is niet toegestaan.",
             "ERROR_EXPIRY_DATE_INVALID_FORMAT": "Het formaat van de vervaldatum is ongeldig.",
             "ERROR_EXPIRY_DATE_PAST_DATE": "De vervaldatum kan niet in het verleden liggen.",
             "ERROR_EXPIRY_DATE_INVALID": "De vervaldatum is ongeldig.",
-            "ERROR_EXPIRY_MONTH_INVALID_FORMAT": "De vervalmaandnotatie is ongeldig.",
+            "ERROR_EXPIRY_MONTH_INVALID_FORMAT": "Het formaat van de vervalmaand is ongeldig.",
             "ERROR_EXPIRY_MONTH_LENGTH_MAX": "De maximale lengte van de vervalmaand is overschreden.",
             "ERROR_EXPIRY_MONTH_INVALID": "De vervalmaand is ongeldig.",
-            "ERROR_EXPIRY_YEAR_INVALID_FORMAT": "De indeling voor het vervaljaar is ongeldig.",
+            "ERROR_EXPIRY_YEAR_INVALID_FORMAT": "Het formaat van het vervaljaar is ongeldig.",
             "ERROR_EXPIRY_YEAR_LENGTH_MAX": "De maximale lengte van het vervaljaar is overschreden.",
             "ERROR_EXPIRY_YEAR_PAST_DATE": "Het vervaljaar kan niet in het verleden liggen.",
             "ERROR_EXPIRY_YEAR_INVALID": "Het vervaljaar is ongeldig.",
-            "ERROR_CARD_CVC_FORMAT": "De CVC-indeling is ongeldig.",
+            "ERROR_CARD_CVC_FORMAT": "Het formaat van de CVC is ongeldig.",
             "ERROR_CARD_CVC_MAX_LENGTH": "De maximale lengte van de CVC is overschreden.",
             "ERROR_CARD_CVC_INVALID": "De CVC is ongeldig.",
             "ERROR_CARD_HOLDER_MISSING": "De kaarthouder ontbreekt.",
             "ERROR_CARD_NUMBER_MISSING": "Het kaartnummer ontbreekt.",
             "ERROR_EXPIRY_DATE_MISSING": "De vervaldatum ontbreekt.",
             "ERROR_CARD_CVC_MISSING": "De CVC ontbreekt.",
-            "ERROR_CARD_TOKENIZATION": "Er is een fout opgetreden tijdens het tokenen.",
-            "ERROR_BIC_FORMAT": "De BIC-indeling is ongeldig.",
+            "ERROR_CARD_TOKENIZATION": "Er is een fout opgetreden tijdens de tokenisatie.",
+            "ERROR_BIC_FORMAT": "Het formaat van de BIC is ongeldig.",
             "ERROR_BIC_MAX_LENGTH": "De maximale lengte van de BIC is overschreden.",
             "ERROR_BIC_INVALID": "De BIC is ongeldig.",
-            "ERROR_IBAN_FORMAT": "Het IBAN-formaat is ongeldig.",
-            "ERROR_IBAN_NOT_ALPHANUMERICAL": "Het IBAN moet alfanumeriek zijn.",
-            "ERROR_IBAN_INVALID": "Het IBAN is ongeldig.",
-            "ERROR_IBAN_INVALID_COUNTRY_CODE": "De IBAN landcode is ongeldig.",
-            "ERROR_IBAN_MAX_LENGTH": "De maximale lengte van het IBAN is overschreden.",
+            "ERROR_IBAN_FORMAT": "Het formaat van de IBAN is ongeldig.",
+            "ERROR_IBAN_NOT_ALPHANUMERICAL": "De IBAN moet alfanumeriek zijn.",
+            "ERROR_IBAN_INVALID": "De IBAN is ongeldig.",
+            "ERROR_IBAN_INVALID_COUNTRY_CODE": "De landcode van de IBAN is ongeldig.",
+            "ERROR_IBAN_MAX_LENGTH": "De maximale lengte van de IBAN is overschreden.",
             "label-cardHolder": "Kaarthouder",
             "label-cardNumber": "Kaartnummer",
             "label-expiryDate": "Vervaldatum",
@@ -887,47 +891,47 @@
             "label-issuer_bank_id": "BIC",
             "label-iban": "IBAN",
             "label-firstname": "Voornaam",
-            "label-lastname": "Naam",
-            "label-bank_name": "Naam bank",
-            "label-gender": "Type",
+            "label-lastname": "Achternaam",
+            "label-bank_name": "Banknaam",
+            "label-gender": "Geslacht",
             "label-cpf": "CPF",
             "label-curp": "CURP/CPN",
-            "label-gender-M": "Mannen",
+            "label-gender-M": "Man",
             "label-gender-F": "Vrouw",
             "label-gender-U": "Onbekend",
-            "label-client_type": "Type klant",
+            "label-client_type": "Klanttype",
             "label-client_type-B2B": "Bedrijf",
-            "label-client_type-B2C": "Individueel",
+            "label-client_type-B2C": "Particulier",
             "label-company": "Bedrijf",
-            "label-company_type": "Type bedrijf",
+            "label-company_type": "Bedrijfstype",
             "label-company_type-SA": "SA",
             "label-company_type-SAS": "SAS",
             "label-company_type-SARL": "SARL",
             "label-company_type-EURL": "EURL",
-            "label-company_type-SELARL": "ZELARL",
+            "label-company_type-SELARL": "SELARL",
             "label-company_type-SASU": "SASU",
             "label-company_type-SNC": "SNC",
             "label-company_type-SCP": "SCP",
             "label-company_type-EI": "EI",
             "label-company_type-EIRL": "EIRL",
-            "label-save-card": "Veilig en snel: Onthoud mijn creditcard voor toekomstige bestellingen.",
+            "label-save-card": "Veilig en snel: Mijn bankkaart onthouden voor mijn volgende bestellingen.",
             "label-pay-saved-card": "Opgeslagen kaarten",
             "ERROR_TEXT_FIELD_INVALID": "Het tekstveld is ongeldig.",
             "ERROR_TEXT_FIELD_INVALID_CHARACTERS": "Het tekstveld bevat ongeldige tekens.",
             "ERROR_TEXT_FIELD_MAX_LENGTH": "De maximale lengte van het tekstveld is overschreden.",
             "ERROR_TEXT_FIELD_MAX_DIGITS": "Het tekstveld mag niet meer dan 8 cijfers bevatten.",
             "ERROR_CPF_INVALID": "Het CPF is ongeldig.",
-            "ERROR_CPF_NUMERICAL": "Het CPF moet digitaal zijn.",
+            "ERROR_CPF_NUMERICAL": "Het CPF moet numeriek zijn.",
             "ERROR_CPF_MAX_LENGTH": "De maximale lengte van het CPF is overschreden.",
-            "ERROR_CURP_INVALID": "De CURP is ongeldig.",
-            "ERROR_CURP_ALPHANUMERICAL": "De CURP moet alfanumeriek zijn.",
-            "ERROR_CURP_MAX_LENGTH": "De maximale CURP-lengte is overschreden.",
-            "payment-means-redirection": "Je wordt doorgestuurd naar een externe betalingspagina om de transactie te voltooien.",
+            "ERROR_CURP_INVALID": "Het CURP is ongeldig.",
+            "ERROR_CURP_ALPHANUMERICAL": "Het CURP moet alfanumeriek zijn.",
+            "ERROR_CURP_MAX_LENGTH": "De maximale lengte van het CURP is overschreden.",
+            "payment-means-redirection": "U wordt doorgestuurd naar een externe betalingspagina om de transactie af te ronden.",
             "ERROR_BANK_NAME_MISSING": "De banknaam ontbreekt.",
-            "ERROR_FIRSTNAME_MISSING": "Voornaam ontbreekt.",
-            "ERROR_LASTNAME_MISSING": "De naam ontbreekt.",
+            "ERROR_FIRSTNAME_MISSING": "De voornaam ontbreekt.",
+            "ERROR_LASTNAME_MISSING": "De achternaam ontbreekt.",
             "ERROR_COMPANY_MISSING": "De bedrijfsnaam ontbreekt.",
-            "ERROR_IBAN_MISSING": "IBAN ontbreekt.",
+            "ERROR_IBAN_MISSING": "Het IBAN ontbreekt.",
             "ERROR_ISSUER_BANK_ID_MISSING": "De BIC ontbreekt.",
             "ERROR_NATIONAL_IDENTIFICATION_NUMBER_MISSING": "Het nationale identificatienummer ontbreekt.",
             "ERROR_OCCURED": "Er is een fout opgetreden."
@@ -935,176 +939,179 @@
         },
         "purseHeadless": {
           "sectionTitles": {
-            "hipayCreditCard": "Kredietkaart",
+            "hipayCreditCard": "Bankkaart",
             "paypal": "PayPal",
-            "oney3x": "Betaal met creditcard in 3 gratis termijnen",
-            "oney4x": "Betaal gratis met creditcard in 4 termijnen",
-            "oney10x": "Betaal met creditcard in 10 termijnen"
+            "oney3x": "Betalen met bankkaart in 3 keer zonder kosten",
+            "oney4x": "Betalen met bankkaart in 4 keer zonder kosten",
+            "oney10x": "Betalen met bankkaart in 10 keer"
           },
           "creditCardSection": {
             "securePayment": "100% veilige betaling"
           },
           "oneySection": {
-            "installmentTitle": "Oney - Betaling {count}x {hasFee, select, yes {} other {geen kosten}}<sup>({note})</sup>",
-            "firstInstallmentAmount": "Betaal vandaag :",
-            "additionalInstallmentAmount": "Betaling in {dagen} dagen :",
-            "creditCostDetails": "VAST JKP: {percentage}% d.w.z., kosten: {bedrag}",
-            "totalAmount": "Totaal (inclusief kosten): {bedrag}",
+            "installmentTitle": "Oney - Betaling {count}x {hasFee, select, yes {} other {zonder kosten}}<sup>({note})</sup>",
+            "firstInstallmentAmount": "Betaal vandaag: ",
+            "additionalInstallmentAmount": "Betaling over {days} dagen: ",
+            "creditCostDetails": {
+              "withoutApcr": "Kosten: {amount}",
+              "withApcr": "VASTE JKP: {percent}% oftewel, kosten: {amount}"
+            },
+            "totalAmount": "Totaal {hasFee, select, yes {(kosten inbegrepen)} other {}}: {amount}",
             "additionalInfoModal": {
-              "linkName": "Voor meer informatie",
-              "closeButton": "Sluit"
+              "linkName": "Meer weten",
+              "closeButton": "Sluiten"
             },
             "unknownError": "Er is een fout opgetreden"
           }
         },
         "purseHeadlessHostedForm": {
-          "birthdateCannotBeEmptyError": "TODO: birthdateCannotBeEmptyError vertalen",
-          "birthdateFormatError": "TODO: birthdateFormatError vertalen",
-          "birthdateInputLabel": "TODO: birthdateInputLabel vertalen",
-          "birthdateOutOfRangeError": "TODO: birthdateOutOfRangeError vertalen",
-          "birthdatePlaceholder": "TODO: birthdatePlaceholder vertalen",
-          "birthdateRequiredError": "TODO: birthdateRequiredError vertalen",
-          "consentInputLabel": "TODO: consentInputLabel vertalen",
-          "consentRequiredError": "TODO: consentRequiredError vertalen",
-          "consentText": "TODO: consentText vertalen",
+          "birthdateCannotBeEmptyError": "TODO: translate birthdateCannotBeEmptyError",
+          "birthdateFormatError": "TODO: translate birthdateFormatError",
+          "birthdateInputLabel": "TODO: translate birthdateInputLabel",
+          "birthdateOutOfRangeError": "TODO: translate birthdateOutOfRangeError",
+          "birthdatePlaceholder": "TODO: translate birthdatePlaceholder",
+          "birthdateRequiredError": "TODO: translate birthdateRequiredError",
+          "consentInputLabel": "TODO: translate consentInputLabel",
+          "consentRequiredError": "TODO: translate consentRequiredError",
+          "consentText": "TODO: translate consentText",
           "cvv4InputLabel": "Cryptogram (CVC)",
           "cvv4Placeholder": "1234",
-          "cvvCannotBeEmptyError": "Het cryptogram kan niet leeg zijn.",
+          "cvvCannotBeEmptyError": "Het cryptogram mag niet leeg zijn.",
           "cvvFormatError": "Het cryptogram is ongeldig.",
           "cvvInputLabel": "Cryptogram (CVC)",
           "cvvPlaceholder": "123",
-          "cvvRequiredError": "TTHet cryptogram ontbreekt.",
-          "cvvTooltipText": "De kaartverificatiecode (CVC) is een veiligheidscode van 3 cijfers die meestal op de achterkant van de bankkaart staat. Voor American Express-kaarten is het een 4-cijferige code op de voorkant van de kaart.",
-          "emailCannotBeEmptyError": "TODO: vertaal emailCannotBeEmptyError",
-          "emailFormatError": "TODO: vertaal emailFormatError",
-          "emailInputLabel": "TODO: vertaal emailInputLabel",
-          "emailPlaceholder": "TODO: vertaal emailPlaceholder",
-          "emailRequiredError": "TODO: vertaal emailRequiredError",
-          "expirationCannotBeEmptyError": "De vervaldatum kan niet leeg zijn.",
+          "cvvRequiredError": "Het cryptogram ontbreekt.",
+          "cvvTooltipText": "De kaartverificatiecode (CVC) is een 3-cijferige beveiligingscode die meestal op de achterkant van de bankkaart staat. Voor American Express kaarten is dit een 4-cijferige code op de voorkant van de kaart.",
+          "emailCannotBeEmptyError": "TODO: translate emailCannotBeEmptyError",
+          "emailFormatError": "TODO: translate emailFormatError",
+          "emailInputLabel": "TODO: translate emailInputLabel",
+          "emailPlaceholder": "TODO: translate emailPlaceholder",
+          "emailRequiredError": "TODO: translate emailRequiredError",
+          "expirationCannotBeEmptyError": "De vervaldatum mag niet leeg zijn.",
           "expirationFormatError": "De vervaldatum is ongeldig.",
           "expirationInputLabel": "Vervaldatum",
-          "expirationOutOfRangeError": "TODO: expirationOutOfRangeError vertalen",
-          "expirationPlaceholder": "MM/AA",
+          "expirationOutOfRangeError": "TODO: translate expirationOutOfRangeError",
+          "expirationPlaceholder": "MM/JJ",
           "expirationRequiredError": "De vervaldatum ontbreekt.",
-          "expirationTooltipText": "TODO: panTooltipText vertalen",
-          "explicitBrandText": "TODO: explicitBrandText vertalen",
-          "holderCannotBeEmptyError": "De kaarthouder kan niet leeg zijn.",
+          "expirationTooltipText": "TODO: translate panTooltipText",
+          "explicitBrandText": "TODO: translate explicitBrandText",
+          "holderCannotBeEmptyError": "De kaarthouder mag niet leeg zijn.",
           "holderFormatError": "De kaarthouder is ongeldig.",
           "holderInputLabel": "Kaarthouder",
-          "holderPlaceholder": "Voornaam",
+          "holderPlaceholder": "ACHTERNAAM Voornaam",
           "holderRequiredError": "De kaarthouder ontbreekt.",
-          "ibanCannotBeEmptyError": "TODO: ibanCannotBeEmptyError vertalen",
-          "ibanFormatError": "TODO: ibanFormatError vertalen",
-          "ibanInputLabel": "TODO: ibanInputLabel vertalen",
-          "ibanPlaceholder": "TODO: ibanPlaceholder vertalen",
-          "ibanRequiredError": "TODO: ibanRequiredError vertalen",
+          "ibanCannotBeEmptyError": "TODO: translate ibanCannotBeEmptyError",
+          "ibanFormatError": "TODO: translate ibanFormatError",
+          "ibanInputLabel": "TODO: translate ibanInputLabel",
+          "ibanPlaceholder": "TODO: translate ibanPlaceholder",
+          "ibanRequiredError": "TODO: translate ibanRequiredError",
           "panCannotBeEmptyError": "Het kaartnummer mag niet leeg zijn.",
           "panFormatError": "Het kaartnummer is ongeldig.",
           "panInputLabel": "Kaartnummer",
           "panPlaceholder": "XXXX-XXXX-XXXX-XXXX",
           "panRequiredError": "Het kaartnummer ontbreekt.",
-          "panTooltipText": "TODO: panTooltipText vertalen",
-          "phoneCannotBeEmptyError": "TODO: phoneCannotBeEmptyError vertalen",
-          "phoneFormatError": "TODO: phoneFormatError vertalen",
-          "phoneInputLabel": "TODO: phoneInputLabel vertalen",
-          "phonePlaceholder": "TODO: phonePlaceholder vertalen",
-          "phoneRequiredError": "TODO: phoneRequiredError vertalen"
+          "panTooltipText": "TODO: translate panTooltipText",
+          "phoneCannotBeEmptyError": "TODO: translate phoneCannotBeEmptyError",
+          "phoneFormatError": "TODO: translate phoneFormatError",
+          "phoneInputLabel": "TODO: translate phoneInputLabel",
+          "phonePlaceholder": "TODO: translate phonePlaceholder",
+          "phoneRequiredError": "TODO: translate phoneRequiredError"
         },
         "oney": {
-          "groupLabel": "Kies uw Oney betalingsmethode",
-          "label": "Betaal gratis per creditcard in 3 of 4 termijnen",
-          "legalsTitle": "Wettelijk 3x, 4x en 10x",
+          "groupLabel": "Keuze van Oney betaalmethode",
+          "label": "Betalen met bankkaart in 3 of 4 termijnen zonder kosten",
+          "legalsTitle": "Juridische vermeldingen Oney 3x, 4x en 10x",
           "submit": "Betaal {finalPrice}",
-          "oneyUnavailable": "De geselecteerde betaalmethode is momenteel niet beschikbaar. Probeer het later nog eens.",
+          "oneyUnavailable": "De geselecteerde betaalmethode is momenteel niet beschikbaar. Probeer het later opnieuw.",
           "unknownError": "Er is een fout opgetreden"
         },
         "oneyCredit": {
-          "groupLabel": "Keuze voor Oney 10x betalingsmethode",
-          "label": "Kredietkaart financiering in 10 termijnen",
-          "legalsTitle": "Wettelijke kennisgeving Oney 3x, 4x en 10x"
+          "groupLabel": "Keuze van Oney 10x betaalmethode",
+          "label": "Financiering met bankkaart in 10 termijnen",
+          "legalsTitle": "Juridische vermeldingen Oney 3x, 4x en 10x"
         },
         "voucher": {
-          "label": "Heb",
-          "details": "Kredietgegevens",
-          "instructions": "Je kunt een of meer van de beschikbare creditnota's hieronder kiezen. Deze worden automatisch van je totaalbedrag afgetrokken.",
-          "add": "Gebruik dit tegoed",
-          "delete": "Tegoed opnemen",
-          "amountAvailable": "Beschikbaar bedrag: {bedrag}",
-          "amountUsed": "Gebruikt bedrag: {bedrag}",
-          "codeLabel": "Kredietcode: {code}",
-          "remainingAmount": "Resterend bedrag: {bedrag}",
+          "label": "Tegoed",
+          "details": "Tegoed details",
+          "instructions": "U kunt een of meerdere beschikbare tegoeden hieronder kiezen. Deze worden automatisch afgetrokken van uw totaalbedrag.",
+          "add": "Dit tegoed gebruiken",
+          "delete": "Tegoed verwijderen",
+          "amountAvailable": "Beschikbaar bedrag: {amount}",
+          "amountUsed": "Gebruikt bedrag: {amount}",
+          "codeLabel": "Tegoed code: {code}",
+          "remainingAmount": "Resterend bedrag: {amount}",
           "alert": {
             "title": "Goed om te weten",
-            "description": "Als je tegoed hoger is dan het bedrag van de bestelling, wordt alleen het laatste bedrag afgetrokken; het resterende bedrag wordt gecrediteerd voor een toekomstige aankoop."
+            "description": "Als uw tegoed het bestelbedrag overschrijdt, wordt alleen dit laatste afgetrokken; de rest wordt teruggeboekt voor een toekomstige aankoop."
           },
           "creditNoteDetails": {
-            "title": "Kredietgegevens",
-            "closeButton": "Sluit"
+            "title": "Tegoed details",
+            "closeButton": "Sluiten"
           },
           "postError": {
             "unknownError": "Er is een fout opgetreden"
           }
         },
         "cashback": {
-          "title": "Alltricks+ Kitty",
-          "availableAmount": "Bedrag: {bedrag}",
-          "expirationDate": "Te gebruiken voor {datum}",
-          "toggleLabel": "<strong>{bedrag} dat in aanmerking komt</strong> voor deze opdracht",
-          "tooltip": "Met Alltricks+ krijgt u cashback op producten die daarvoor in aanmerking komen. De cashback die door uw huidige bestelling wordt gegenereerd, wordt bij verzending gecrediteerd en kan op uw volgende bestelling worden gebruikt. Cashback vervalt aan het einde van uw Alltricks+ abonnement.",
+          "title": "Alltricks+ spaarpot",
+          "availableAmount": "Bedrag: {amount}",
+          "expirationDate": "Te gebruiken voor {date}",
+          "toggleLabel": "<strong>{amount} geschikt</strong> voor deze bestelling",
+          "tooltip": "Met Alltricks+ genereert u cashback op producten die als geschikt zijn gemarkeerd. De cashback die door uw huidige bestelling wordt gegenereerd, wordt bij verzending bijgeschreven en kan bij uw volgende bestelling worden gebruikt. Cashback verloopt aan het einde van uw Alltricks+ abonnement.",
           "postError": {
             "unknownError": "Er is een fout opgetreden"
           }
         },
-        "cgv": "Door mijn bestelling te valideren, bevestig ik dat ik de <link>Verkoopvoorwaarden</link> heb gelezen en geaccepteerd.",
+        "cgv": "Door mijn bestelling te valideren, erken ik de <link>algemene verkoopvoorwaarden</link> te hebben gelezen en geaccepteerd.",
         "unknownError": "Er is een fout opgetreden"
       },
       "cartSummary": {
-        "title": "<strong>Recap</strong>",
-        "discountCode": "Promo code",
+        "title": "<strong>Overzicht</strong>",
+        "discountCode": "Promocode",
         "giftCardUsed": "Cadeaubon",
-        "voucherUsed": "Heb",
-        "cashbackUsed": "Alltricks+ Kitty",
+        "voucherUsed": "Tegoed",
+        "cashbackUsed": "Alltricks+ spaarpot",
         "submit": "Betaal {finalPrice}"
       },
       "paymentAddress": {
         "addressTitle": "Factuuradres",
-        "chooseAddressButton": "Kies dit adres",
-        "saveAddress": "Register",
+        "chooseAddressButton": "Dit adres kiezen",
+        "saveAddress": "Opslaan",
         "listAddressesTitle": "Mijn factuuradressen",
-        "validateChanges": "Wijzigingen bevestigen",
-        "newAddressTitle": "Een nieuw adres maken",
-        "chooseOtherAddressButton": "Kies een ander adres",
+        "validateChanges": "Wijzigingen valideren",
+        "newAddressTitle": "Nieuw adres aanmaken",
+        "chooseOtherAddressButton": "Ander adres kiezen",
         "currentDeliveryAddress": "Geselecteerd adres",
-        "modifyAddressTitle": "Wijzig mijn adres",
-        "modifyAddressLink": "Bewerken",
-        "addNewAddressButton": "Een adres toevoegen",
+        "modifyAddressTitle": "Mijn adres wijzigen",
+        "modifyAddressLink": "Wijzigen",
+        "addNewAddressButton": "Adres toevoegen",
         "cancel": "Annuleren",
         "labels": {
           "address": "Adres",
-          "additional": "Extra adres",
+          "additional": "Aanvullend adres",
           "city": "Stad",
           "company": "Bedrijf",
           "country": "Land",
           "name": "Voor- en achternaam",
-          "phone": "Mobiel telefoonnummer",
-          "state": "Status",
+          "phone": "Mobiele telefoon",
+          "state": "Staat",
           "zipCode": "Postcode",
           "optional": "Optioneel"
         },
         "helperMessages": {
-          "phone": "Voor een optimale levering en tracering van uw bestelling"
+          "phone": "Om optimale levering en tracking van uw bestelling te garanderen"
         },
         "placeholders": {
           "address": "Voer uw adres in",
-          "additional": "Voeg een aanvulling toe aan je adres",
+          "additional": "Voeg een aanvulling toe aan uw adres",
           "city": "Voer uw stad in",
           "company": "Voer uw bedrijf in",
-          "name": "Voer je voor- en achternaam in",
+          "name": "Voer uw Voor- en Achternaam in",
           "phone": "06 00 00 00 00",
           "zipCode": "Voer uw postcode in"
         },
         "postError": {
-          "address_already_exists": "Adres bestaat al",
+          "address_already_exists": "Het adres bestaat al",
           "french_zip_code": "Onjuist formaat",
           "invalid_phone_number": "Onjuist formaat",
           "unknown_error": "Er is een fout opgetreden"
@@ -1113,8 +1120,8 @@
       "unknownError": "Er is een fout opgetreden",
       "getError": {
         "forbidden_billing_country": {
-          "title": "Verzekering tegen breuk en diefstal niet beschikbaar",
-          "description": "De gekozen verzekering is alleen beschikbaar voor een factuuradres in Frankrijk. <br></br>Om verder te gaan, kunt u: <ul><li>Het factuuradres wijzigen door \"Hetzelfde adres gebruiken als bij levering\"</li> <li>Of de verzekering verwijderen om uw bestelling af te ronden.</li></ul> <link>Lidmaatschapsvoorwaarden raadplegen</link>"
+          "title": "Fietsverzekering tegen breuk en diefstal niet beschikbaar",
+          "description": "De gekozen verzekering is alleen beschikbaar voor een factuuradres in Frankrijk. <br></br>Om door te gaan kunt u: <ul><li>Het factuuradres wijzigen door \"Hetzelfde adres gebruiken als voor levering\" uit te schakelen</li> <li>Of de verzekering verwijderen om uw bestelling af te ronden.</li></ul> <link>Raadpleeg de lidmaatschapsvoorwaarden</link>"
         }
       },
       "removeServices": "Verzekering verwijderen"
@@ -1125,42 +1132,42 @@
     },
     "error": {
       "title": "Er is een fout opgetreden",
-      "description": "Probeer het later nog eens"
+      "description": "Probeer het later opnieuw"
     }
   },
   "reassurance": {
     "expert": {
       "description": "Ontdek onze online hulp",
-      "heading": "Heb je\n advies nodig?"
+      "heading": "Hulp\n nodig?"
     },
     "expressDelivery": {
-      "description": "Wanneer u bestelt\n voor {afsnijding}",
-      "heading": "Morgen\n thuis<sup>(6)</sup>"
+      "description": "Bij bestelling\n voor {cutoff}",
+      "heading": "Morgen\n bij u thuis<sup>(6)</sup>"
     },
     "fastDelivery": {
-      "description": "Levertijd: 24/72u",
-      "heading": "Levering\n Express<sup>(10)</sup>"
+      "description": "Geconstateerde levertijden: 24/72u",
+      "heading": "Express\n levering<sup>(10)</sup>"
     },
     "freeDelivery": {
-      "description": "Vanaf {freeDeliveryThreshold} van aankoop,\n keert terug vanaf {returnPrice}.",
-      "heading": "Levering\n gratis<sup>(4)</sup>"
+      "description": "Vanaf {freeDeliveryThreshold} aankoop,\n retourzendingen vanaf {returnPrice}",
+      "heading": "Gratis\n levering<sup>(4)</sup>"
     },
     "oney": {
-      "description": "Gratis,\n per creditcard",
+      "description": "Zonder kosten,\n per bankkaart",
       "heading": "Betaling in\n 3x of 4x<sup>(10)</sup>"
     },
     "paymentSecure": {
-      "description": "Uw aankopen\n gemoedsrust",
-      "heading": "Betaling\n beveilig"
+      "description": "Uw aankopen in\n alle rust",
+      "heading": "Veilige\n betaling"
     },
     "staffSelection": {
       "description": "Producten geselecteerd door onze experts",
-      "heading": "Marktplaats\n gecertificeerd"
+      "heading": "Gecertificeerde\n marketplace"
     }
   },
   "secondaryReassurance": {
     "paymentHeading": "100% veilige betaling",
-    "helpHeading": "Hulp nodig\n hulp nodig?",
-    "helpContactButton": "We beantwoorden je vragen"
+    "helpHeading": "Hulp\n nodig?",
+    "helpContactButton": "Wij beantwoorden uw vragen"
   }
 }
