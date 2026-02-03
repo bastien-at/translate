@@ -123,107 +123,7 @@
         },
         "delete": "Supprimer"
       },
-      "orderProduct": {
-        "deliveryDay": "Chez vous <strong>{ weekDay, select, nextDay {dès demain } other {dès {weekDay}}}</strong>",
-        "deliveryInterval": "Livré entre le <strong>{start}</strong> et le <strong>{end}</strong>",
-        "increaseProductQuantity": "Augmenter la quantité du produit",
-        "decreaseProductQuantity": "Diminuer la quantité du produit",
-        "productQuantityFieldLabel": "Changer la quantité du produit",
-        "reference": "Référence : {reference}",
-        "refurbishedName": "État",
-        "refurbishedValue": "Reconditionné",
-        "scheduledDelivery": "Chez vous <strong>dès le {date}</strong>",
-        "removeLabel": "Supprimer",
-        "discountCodeTagDetails": "{discountCode} ({discountValue}) soit : <strong>{finalPrice}</strong>"
-      },
-      "cartSummary": {
-        "expand": "Ouvrir",
-        "minimize": "Fermer",
-        "cartLabel": "Panier ({count})",
-        "title": "<strong>Récapitulatif</strong>",
-        "discountCode": "Code promo",
-        "estimatedShippingPrice": "Frais de livraison estimés",
-        "buttonLabel": "Choisir ma livraison",
-        "meterLabel": "Plus que {valueText}",
-        "meterDetails": "pour bénéficier de <strong>la livraison offerte</strong>",
-        "homeShippingLabel": "Livraison",
-        "relayShippingLabel": "Points Relais® & Lockers®",
-        "storeShippingLabel": "Retrait en magasin",
-        "showroomShippingLabel": "Retrait entrepôt",
-        "emailShippingLabel": "Email",
-        "shippingCount": "{count}/{total}",
-        "deliveryCharges": "Frais de livraison",
-        "freeShipping": "Offert",
-        "freeShippingRecap": "Offert",
-        "cutoffLabel": "pour être livré dès demain",
-        "ecoTax": "<span>dont frais d'éco-part.</span><span>{tax}</span>",
-        "shippingDateFrom": "{day, select, today {Dès aujourd'hui} tomorrow {Dès demain} other {Dès le {date}}}",
-        "shippingDatePrecise": "{day, select, today {Aujourd'hui} tomorrow {Demain} other {Le {date}}} entre {timeStart} et {timeEnd}",
-        "shippingDetails": "{mode, select, collect {Détails du retrait} other {Détails de livraison}}",
-        "shippingExpeditor": "Expédié par <strong>{expeditorName}</strong>",
-        "shippingRowTitle": "{partIndex}/{partCount} <strong>{expeditorName}</strong>",
-        "shippingMode": "{mode, select, home {Livraison à domicile} relay {Livraison en Point Relais®} collect {Retrait en magasin} other {}}",
-        "giftCardUsed": "Chèque cadeau",
-        "voucherUsed": "Avoir",
-        "cashbackUsed": "Cagnotte Alltricks+"
-      },
-      "clear": {
-        "buttonOpenModal": "Vider mon panier",
-        "modalTitle": "Suppression du panier",
-        "modalContent": "Êtes-vous sûr de supprimer l’ensemble des articles présents dans votre panier ?<br></br>Pour mettre de côté vos articles, pensez à les ajouter à votre wishlist en cliquant sur l’icone \"cœur\" sur la page de votre produit.",
-        "modalActionDeleteAll": "Tout supprimer",
-        "modalActionPreserve": "Conserver mon panier"
-      },
-      "discount": {
-        "applyDiscount": "Appliquer une remise",
-        "discountCode": "Code promo",
-        "enterCode": "Saisir un code",
-        "ok": "Ok",
-        "codeSuccess": "Le code promo a bien été appliqué à votre panier.",
-        "infoAlert": "Si vous disposez d'un avoir ou d'un chèque cadeau, vous pourrez l'utiliser à l'étape Paiement.",
-        "infoAlertPremium": "L'application d'un code promotionnel peut modifier le montant du cashback affiché.",
-        "backToCart": "Revenir au panier",
-        "deleteDiscount": "Supprimer le code promo",
-        "staff": {
-          "label": "Remise Staff",
-          "switchLabel": "Appliquer ou supprimer la remise Staff",
-          "cgv": "J'ai pris connaissance des conditions concernant les remises accordées au personnel.",
-          "validity": {
-            "successMessage": "Ta remise staff a bien été appliquée aux produits éligibles (vendus par Alltricks).",
-            "errorMessage": "Il y a eu une erreur. Merci de réessayer."
-          },
-          "overviewTableProductsColumn": "Produit(s) éligible(s) à la remise staff",
-          "overviewTableDiscountColumn": "Remise",
-          "overviewTableTotalDiscount": "Total de la remise",
-          "seeConditions": "Voir conditions",
-          "conditionsDescription": "Tous les collaborateurs de la société AVANIS (CDI, CDD, stagiaires et alternants) peuvent bénéficier de cette remise (dès leur arrivée et ce pendant toute la durée de leur contrat). <br></br><br></br> L'achat d'un ou plusieurs produits, avec application de la remise, est réservé exclusivement à destination des collaborateurs et de leur foyer (conjoint.e et enfants) et ce sans but lucratif / de revente. <br></br><br></br> Concernant le règlement, la commande doit être payée avec un moyen de paiement au nom du collaborateur. <br></br><br></br> Pour information, la remise est calculée selon la règle suivante : jusqu'à 30% de remise par rapport au prix de vente Alltricks et ce dans la limite du prix de revient pour Alltricks et d'une réduction maximale de 40% sur le prix public conseillé. <br></br><br></br> La remise s'applique toute l'année et sur tous les produits vendus par Alltricks. <br></br><br></br> La remise staff n'est pas cumulable avec d'autres codes promotionnels, le cashback Alltricks+ ou les chèques cadeaux obtenus via des ventes Troc Vélo.<br></br><br></br> La limite de commande est fixée à 5 000€ par année civile hors vélos adultes par collaborateur. <br></br><br></br> En ce qui concerne les vélos adultes, vous avez la possibilité d'acheter jusqu'à deux vélos adultes par année civile* et ce sans limite de montant.<br></br><br></br> *limité à un vélo adulte pour un contrat / une présence inférieure ou égale à 6 mois dans l'entreprise."
-        },
-        "postError": {
-          "already_used_on_this_command": "Vous avez déjà utilisé la remise sur cette commande.",
-          "blocked_by_canceled_order": "La remise que vous cherchez à utiliser a été bloqué momentanément. Merci de contacter notre service client par téléphone au 01 30 48 90 07 (du lundi au vendredi 9h à 19h et le samedi de 10h à 19h) ou via la rubrique https://www.alltricks.fr/contact",
-          "cart_amount_to_small": "Le montant minimum de {amount} de ce code remise n'est pas atteint.",
-          "discount_expired": "Ce code remise n'est pas existant ou n'est plus valable.",
-          "empty_cart": "Impossible d'utiliser une remise sur un panier vide.",
-          "max_of_used_limit": "Ce code remise n'est pas existant ou n'est plus valable.",
-          "not_activated": "La remise sélectionnée n'a pas été associé à la commande courante.",
-          "not_alltricks_order": "La remise sélectionnée s'applique uniquement sur les articles vendus et expédiés par Alltricks",
-          "not_available": "Une remise est déjà associée à votre panier.",
-          "not_compatible": "Le contenu de votre panier ne correspond pas aux restrictions de ce code remise.",
-          "not_compatible_staff": "La remise staff ne s’applique pas à ce panier, car aucun produit n’est éligible.",
-          "not_found": "Le code remise {code} n'existe pas. Réessayez.",
-          "not_usable": "La remise sélectionnée n'est pas utilisable.",
-          "not_voucher_proprietary": "Vous n'êtes pas le propriétaire de la remise sélectionnée.",
-          "user_not_compatible": "Ce code remise n'est pas existant, n'est plus valable ou nécessite votre identification.",
-          "bicycle_limit_reached": "Vous êtes limités à 2 vélos par an",
-          "amount_limit_reached": "Vous ne pouvez pas dépasser 5000 € d'achat",
-          "unknownError": "Une erreur est survenue"
-        },
-        "unknownError": "Une erreur est survenue"
-      },
-      "alertMultiplePackages": {
-        "title": "Votre commande sera livrée en plusieurs colis.",
-        "shippingModeChoice": "Choisissez, à l'étape suivante, pour chaque expéditeur, le mode de livraison qui vous convient."
-      },
+
       "alertMergedCart": {
         "title": "Produits récupérés dans votre panier.",
         "description": "Vous aviez ajouté des produits au panier lors d’une précédente visite. Nous les avons récupérés et ajoutés à votre panier d’aujourd’hui."
@@ -280,56 +180,10 @@
           "noticeDownloadLabel": "Fiche d'informations et de conseils de l'assurance Casse & Vol Alltricks :"
         }
       },
-      "cashbackBanner": {
-        "amountOffer": "{amount} de cagnotte",
-        "validatingOrder": "en validant cette commande",
-        "amountAvailable": "<strong>Votre solde fidélité :</strong> {amount} de cagnotte",
-        "expirationDate": "À utiliser avant le {date}"
-      },
-      "alltricksPlus": {
-        "benefits": {
-          "cashback": "<strong>{cashbackAmount} de cagnotte</strong> grâce à cette commande",
-          "withoutCashbackCurrentCart": "<strong>Cagnotte</strong> sur des milliers de produits",
-          "delivery": "<strong>Livraison</strong> offerte illimitée",
-          "return": "<strong>100 jours</strong> pour retourner vos produits",
-          "other": "De nombreux autres <strong>avantages exclusifs</strong>"
-        },
-        "register": "<strong>J’adhère maintenant</strong> pour {annualPrice} / an",
-        "switchLabel": "Adhérer ou non au programme Alltricks Plus",
-        "footerText": "Offre sans engagement : abonnement résilié automatiquement après 1 an.",
-        "infoButtonLabel": "Informations légales",
-        "conditionsModal": {
-          "title": "Conditions générales Alltricks+",
-          "closeButton": "Fermer"
-        },
-        "unknownError": "Une erreur est survenue"
-      },
-      "alltricksPlusPremiumFreeOffered": {
-        "benefits": {
-          "cashback": "<strong>{cashbackAmount} de cagnotte</strong> grâce à cette commande",
-          "withoutCashbackCurrentCart": "<strong>Cagnotte</strong> sur des milliers de produits",
-          "delivery": "<strong>Livraison</strong> offerte illimitée",
-          "return": "<strong>100 jours</strong> pour retourner vos produits",
-          "other": "De nombreux autres <strong>avantages exclusifs</strong>"
-        },
-        "register": "Grâce à vos achats, <strong>Alltricks+ est offert pendant 1 an</strong>",
-        "switchLabel": "Adhérer ou non au programme Alltricks Plus",
-        "footerText": "Offre sans engagement : abonnement résilié automatiquement après 1 an. Si vous êtes déjà client Alltricks+, votre abonnement redémarre pour 1 an supplémentaire.",
-        "infoButtonLabel": "Informations légales",
-        "conditionsModal": {
-          "title": "Conditions générales Alltricks+",
-          "closeButton": "Fermer"
-        },
-        "unknownError": "Une erreur est survenue"
-      },
+
+
       "AlltricksPlusFrozen": {
         "expiredBalance": "Votre solde expiré :",
-        "amountAvailable": "{amount} de cagnotte",
-        "frozenCashbackExpiryDate": "Profitez de votre cagnotte en réactivant votre abonnement avant le {date}",
-        "reactivePremium": "<strong>Je profite de ma cagnotte</strong> pour {annualPrice} / an",
-        "switchLabel": "Adhérer ou non au programme Alltricks Plus",
-        "footerText": "Offre sans engagement : abonnement résilié automatiquement après 1 an.",
-        "infoButtonLabel": "Informations légales",
         "conditionsModal": {
           "title": "Conditions générales Alltricks+",
           "closeButton": "Fermer"
@@ -360,28 +214,6 @@
       },
       "deliveryOptions": {
         "free": "Gratuit",
-        "offered": "Offert",
-        "offeredWith": "Offert avec",
-        "unavailable": "Indisponible",
-        "committedChoice": "Le choix engagé",
-        "home": "Livraison à domicile",
-        "collect": "Retrait en magasin",
-        "relay": "Points Relais® & Lockers®",
-        "storeChateaudun": "Retrait entrepôt Châteaudun",
-        "email": "Email",
-        "todayDelivery": "Dès aujourd'hui",
-        "nextDayDelivery": "Dès demain",
-        "scheduledDelivery": "Dès {date}",
-        "deliveryBetween": "Entre {earliestDay, select, today {aujourd'hui} tomorrow {demain} other {{earliestDate}}} et {latestDay, select, today {aujourd'hui} tomorrow {demain} other {{latestDate}}}",
-        "deliveryBetweenInSameMonth": "Entre {earliestDate} et {latestDate} {month}",
-        "deliveryDayWithAppointment": "{day, select, today {Aujourd'hui} tomorrow {Demain} other {Le {date}}}",
-        "closeModal": "Fermer",
-        "alltricksPlusTagLabel": "Alltricks Plus",
-        "carrier": {
-          "mondialRelay": "Mondial Relay",
-          "colissimo": "Colissimo Relais",
-          "chronopost": "Chronopost",
-          "byType": "Type de point de retrait"
         },
         "carrierRadioGroupLabel": "Sélectionner le transporteur",
         "carrierDropdownLabel": "Sélectionner le transporteur",
@@ -397,19 +229,6 @@
             "title": "Choisissez votre point de retrait magasin Alltricks"
           },
           "yourRelay": "Votre point relais",
-          "standardHomeDelivery": "Livraison standard",
-          "expressHomeDelivery": "Livraison express",
-          "signatureOrCodeOnDelivery": "Signature ou code unique requis à la livraison",
-          "preciseDelivery": "Livraison sur RDV à domicile",
-          "standardRelayDelivery": "Point Relais® et Lockers® standard",
-          "expressRelayDelivery": "Point Relais® et Lockers® express",
-          "freeShipping": "Offert",
-          "onAppointmentDescription": "Au rez-de-chaussée, sur rendez-vous, samedi inclus",
-          "deliveryBetweenInSameMonth": "Livraison entre <strong>{estimatedMinDate}</strong> et <strong>{estimatedMaxDate}</strong> <strong>{month}</strong>",
-          "deliveryPeriod": "Livraison entre {minDay, select, today {<strong>aujourd'hui</strong>} tomorrow {<strong>demain</strong>} other {<strong>{estimatedMinDate}</strong>}} et {maxDay, select, today {<strong>aujourd'hui</strong>} tomorrow {<strong>demain</strong>} other {<strong>{estimatedMaxDate}</strong>}}",
-          "deliveryDateFrom": "Livraison dès {day, select, today {<strong>aujourd'hui</strong>} tomorrow {<strong>demain</strong>} other {<strong>{date}</strong>}}",
-          "deliveryDatePrecise": "Livraison {day, select, today {<strong>aujourd'hui</strong>} tomorrow {<strong>demain</strong>} other {<strong>{date}</strong>}} entre <strong>{timeStart}</strong> et <strong>{timeEnd}</strong>",
-          "edit": "Modifier"
         },
         "relaySelectorModal": {
           "carrier": {
@@ -454,144 +273,19 @@
         "helperMessages": {
           "phone": "Pour assurer une livraison et un suivi optimal de votre commande"
         },
-        "missingPhoneAlert": "Cette adresse est incomplète. Veuillez renseigner le numéro de téléphone.",
-        "modifyAlertButton": "Modifier",
-        "missingPhoneFieldError": "Renseignez le numéro de téléphone",
-        "placeholders": {
-          "address": "Entrez votre adresse",
-          "additional": "Ajouter un complément à votre adresse",
-          "city": "Entrez votre ville",
-          "company": "Entrez votre société",
-          "name": "Entrez votre Nom et Prénom",
-          "phone": "Entrez votre numéro de téléphone",
-          "zipCode": "Entrez votre code postal"
+       
         },
-        "postError": {
-          "address_already_exists": "L'adresse existe déjà",
-          "french_zip_code": "Format incorrect",
-          "invalid_phone_number": "Format incorrect",
-          "unknown_error": "Une erreur est survenue"
-        },
-        "suggestingAddress": {
-          "title": "Vérification d'adresse",
-          "notification": "Nous avons détecté une erreur potentielle dans la saisie de votre adresse. Merci de confirmer votre choix.",
-          "addressGiven": "Adresse renseignée",
-          "suggestedAddress": "Adresse suggérée",
-          "saveAddress": "Enregistrer cette adresse"
-        }
+      
       },
-      "deliveryMode": {
-        "backButton": "Modifier mon mode de livraison",
-        "formLabelTitle": "Livraison groupée ou séparée ?",
-        "formLabelDescription": "Les produits de cette commande ont des dates de livraison différentes.",
-        "formLabelTooltip": "Offert à partir de 100 € d'achat dans plus de 6000 points Mondial Relay. Valable uniquement en France métropolitaine",
-        "groupOption": {
-          "title": "Livraison groupée",
-          "description": "Votre commande sera envoyée lorsque l’ensemble de vos articles seront prêts. Recevez l’ensemble de vos produits à partir du {deliveryDate}."
-        },
-        "splitOption": {
-          "title": "Livraison séparée",
-          "description": "Recevez vos produits livrables {firstDeliveryWindow, select, tomorrow {dès demain} soon {dès {firstDeliveryDate}} other {le {firstDeliveryDate}}} dans un premier envoi et un second colis avec le reste à partir {nextDeliveryWindow, select, soon {de {nextDeliveryDate}} other {du {nextDeliveryDate}}}."
-        },
-        "offered": "Offert",
-        "priceFrom": "dès {price}",
-        "consciousChoice": "Le choix engagé",
-        "deliveryCharges": "Frais de livraison : ",
-        "deliveryChargesCount": "Frais de livraison n°{count} : ",
-        "unknownError": "Une erreur est survenue"
+
+
+       
+
+
+
+ 
       },
-      "bikeAssemblyPack": {
-        "detailsButtonLabel": "Voir les détails",
-        "assemblyModal": {
-          "packServicesTitle": "Nos packs de service",
-          "close": "Fermer",
-          "partialOrTotalAssemblyQuestion": "Montage partiel ou 100%, qu’est-ce que c’est ?"
-        },
-        "packServicesTable": {
-          "serenityPack": "Pack Sérénité",
-          "confortPack": "Pack Confort",
-          "expressDelivery": "Livraison Express",
-          "bikeAssembly": "Vélo monté à 100%<sup>(1)</sup>",
-          "expertAccess": "Accès coupe file à nos experts",
-          "bikeMarking": "Marquage vélo",
-          "bikeMaintenance": "Révision vélo en magasins Alltricks",
-          "additionnalMaintenance": "Main d’œuvre supplémentaire (2h)<sup>(2)</sup>",
-          "oneYear": "1 an",
-          "threeMonths": "3 mois",
-          "goldService": "3 révisions “Or”<sup>(2)</sup>",
-          "bronzeService": "1 révision “Bronze”<sup>(3)</sup>",
-          "details": {
-            "one": "(1) Vélo totalement monté, vérifié et réglé par nos mécaniciens experts. Afin de réduire l’impact écologique du transport, nous avons démonté la roue avant et les pédales de votre vélo. Le carton utilisé est ainsi moins lourd et volumineux. Il ne vous restera plus qu'à  les remonter et profiter de votre nouveau vélo. Nous vous conseillons d’ajuster la hauteur de selle ainsi que la pression des pneus et suspensions selon vos préférences.",
-            "two": "(2) Dans les 2 ans suivant l’achat du vélo.",
-            "three": "(3) Dans les 3 mois suivant l’achat de vélo. Les révisions sont valables uniquement dans l’un de nos magasins Alltricks. Trouvez les informations sur les détails des révisions Bronze et Or ici : <link>www.alltricks.fr/surl/l-atelier</link>"
-          },
-          "includedLabel": "Inclus",
-          "excludedLabel": "Exclus"
-        },
-        "basicServicesTable": {
-          "partialAssembly": "Montage partiel",
-          "totalAssembly": "Montage 100%",
-          "totalAssemblySup": "Montage 100%<sup>(1)</sup>",
-          "delivery": "Livraison",
-          "storeCollect": "Retrait magasin",
-          "assembledBike": "Vélo pré-monté",
-          "preset": "Pré-réglages transmission, freins, direction<sup>(2)</sup>",
-          "transmission": "Réglage de la transmission",
-          "brake": "Réglage des freins",
-          "steering": "Montage du poste de pilotage",
-          "wheel": "Pression des pneus",
-          "saddle": "Hauteur de la selle, montage des pédales",
-          "frontWheel": "Montage de la roue avant",
-          "details": "(1) Vélo totalement monté, vérifié et réglé par nos mécaniciens experts. Afin de réduire l’impact écologique du transport, nous avons démonté la roue avant et les pédales de votre vélo. Le carton utilisé est ainsi moins lourd et volumineux. Il ne vous restera plus qu’à la remonter et profiter de votre nouveau vélo. Nous vous conseillons d’ajuster la hauteur de selle ainsi que la pression des pneus et suspensions selon vos préférences.",
-          "includedLabel": "Inclus",
-          "excludedLabel": "Exclus"
-        },
-        "partialAssembly": {
-          "title": "Vélo monté partiellement",
-          "items": {
-            "note": "Un certain nombre d’étapes de montage sera nécessaire pour rouler"
-          }
-        },
-        "fullAssembly": {
-          "title": "Vélo monté à 100%",
-          "items": {
-            "note": "Monté, vérifié et réglé par nos mécaniciens experts"
-          }
-        },
-        "confort": {
-          "title": "Pack Confort inclus",
-          "items": {
-            "assembly": "Vélo monté à 100%",
-            "service": "1ère révision offerte en magasin Alltricks",
-            "access": "Accès coupe file à nos experts pendant 3 mois",
-            "tagging": "Marquage offert"
-          }
-        },
-        "serenity": {
-          "title": "Pack Sérénité inclus",
-          "items": {
-            "shipping": "Livraison express",
-            "assembly": "Vélo monté à 100%",
-            "service": "3 révisions + 2h de main d'oeuvre offertes pendant 2 ans",
-            "access": "Accès coupe file à nos experts pendant 1 an",
-            "tagging": "Marquage offert"
-          }
-        },
-        "storeChateaudun": {
-          "storeChateaudunNotification": "Votre commande sera disponible en entrepôt sous 24 à 48h ouvrées. Vous recevrez un SMS et un email dès qu’elle sera prête à être retirée. Le colis restera à votre disposition pendant 10 jours."
-        }
-      },
-      "openingHours": {
-        "label": "Horaires d'ouverture",
-        "closed": "Fermé",
-        "monday": "Lundi",
-        "tuesday": "Mardi",
-        "wednesday": "Mercredi",
-        "thursday": "Jeudi",
-        "friday": "Vendredi",
-        "saturday": "Samedi",
-        "sunday": "Dimanche"
-      },
+
 
     },
 
