@@ -2,7 +2,7 @@
   "common": {
     "metadata": {
       "title": {
-        "cart": "Mon paniers",
+        "cart": "Ma corbeille",
         "confirmation": "Confirmation",
         "login": "Connexion",
         "payment": "Paiement",
@@ -12,9 +12,8 @@
     "steps": {
       "cartStepLabel": "Panier",
       "loginStepLabel": "Connexion",
-      "shippingStepLabel": "Livraison",
+      "shippingStepLabel": "Livraison devant la porte",
       "paymentStepLabel": "Paiement",
-      "confirmationStepLabel": "Confirmation",
       "backStepLabel": "Retour vers étape précédente"
     },
     "nextStep": "Étape suivante : { step }",
