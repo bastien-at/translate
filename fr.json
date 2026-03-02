@@ -3,10 +3,10 @@
     "metadata": {
       "title": {
         "cart": "Ma corbeille",
-        "confirmation": "Confirmation",
+        "confirmation": "Confirmation de la page",
         "login": "Connexion",
         "payment": "Paiement",
-        "shipping": "Livraison à lasvvv quo gt3ete2i4"
+        "shipping": "Livraison devant la porte "
       }
     },
     "steps": {
@@ -18,7 +18,6 @@
     },
     "nextStep": "Étape suivante : { step }",
     "tunnelLayout": {
-      "back": "Continuer mes achats",
       "footerMenu": {
         "terms": "CGU / CGV",
         "legals": "Mentions légales",
