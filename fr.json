@@ -3,14 +3,14 @@
     "metadata": {
       "title": {
         "cart": "Ma corbeille",
-        "confirmation": "Confirmation de la page de ses morts",
+        "confirmation": "Confirmation de la page de ses morts sa mer",
         "login": "Connexion",
         "payment": "Paiement",
         "shipping": "Livraison devant la porte "
       }
     },
     "steps": {
-      "cartStepLabel": "Panier de la 1ere page",
+      "cartStepLabel": "Panier de la 1ere page et la 2e",
       "loginStepLabel": "Connexion",
       "shippingStepLabel": "Livraison devant la porte",
       "paymentStepLabel": "Paiement",
