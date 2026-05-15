@@ -2,8 +2,8 @@
   "common": {
     "metadata": {
       "title": {
-        "cart": "Mi carrito de prueba",
-        "confirmation": "Confirmación de la página de sus muertos se dice su mamá",
+        "cart": "Mi carrito de prueba de su mamá",
+        "confirmation": "Confirmación de la página de sus muertos, se dice su mamá",
         "login": "Iniciar sesión",
         "payment": "Pago",
         "shipping": "Entrega en la puerta"
@@ -12,8 +12,7 @@
     "nextStep": "Siguiente paso: { step }",
     "tunnelLayout": {
       "footerMenu": {
-        "terms": "CGU / CGV",
-        "legals": "Menciones legales",
+        "legals": "Aviso legal",
         "cookies": "Datos personales",
         "managingCookies": "Gestión de cookies"
       },
