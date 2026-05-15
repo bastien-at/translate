@@ -9,13 +9,6 @@
         "shipping": "Entrega en la puerta"
       }
     },
-    "steps": {
-      "cartStepLabel": "Carrito de la primera y segunda página",
-      "loginStepLabel": "Iniciar sesión",
-      "shippingStepLabel": "Entrega en la puerta",
-      "paymentStepLabel": "Pago",
-      "backStepLabel": "Volver al paso anterior"
-    },
     "nextStep": "Siguiente paso: { step }",
     "tunnelLayout": {
       "footerMenu": {
