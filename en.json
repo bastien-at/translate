@@ -11,5 +11,6 @@
   "claude_desc_shortest2": "Claude est vraiment très super",
   "chagpt_desc_shortest2": "ChatGPT est vraiment très bon aussi",
   "claude_desc_shortest2_with_chatgpt": "Claude est vraiment très super, mais ChatGPT est vraiment très bon aussi",
-  "ok": "Alright"
+  "ok": "D'accord",
+  "test": "This is a test"
 }
