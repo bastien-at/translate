@@ -3,5 +3,6 @@
   "goodbye": "Au revoir", 
   "thanks": "Merci", 
   "trigger": "déclencheur", 
-  "claude" : "Claudiena"
+  "claude" : "Claude", 
+  "claude_desc" : "Claude est super sympa"
 }
