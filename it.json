@@ -1,30 +1,6 @@
-={
-  "common": {
-    "metadata": {
-      "title": {
-        "cart": "Il mio carrello di prova",
-        "confirmation": "Conferma della pagina dei suoi morti si dice sua mamma",
-        "login": "Accesso",
-        "payment": "Pagamento",
-        "shipping": "Consegna davanti alla porta"
-      }
-    },
-    "steps": {
-      "cartStepLabel": "Carrello della 1a pagina e la 2a",
-      "loginStepLabel": "Accesso",
-      "shippingStepLabel": "Consegna davanti alla porta",
-      "paymentStepLabel": "Pagamento",
-      "backStepLabel": "Torna al passo precedente"
-    },
-    "nextStep": "Passo successivo: { step }",
-    "tunnelLayout": {
-      "footerMenu": {
-        "terms": "CGU / CGV",
-        "legals": "Note legali",
-        "cookies": "Dati personali",
-        "managingCookies": "Gestione dei cookie"
-      },
-      "footerLegals": "(1) Sconto calcolato sul prezzo Alltricks più basso praticato negli ultimi 30 giorni precedenti la data di inizio dell'operazione promozionale di questo prodotto (2) Sconto calcolato sul prezzo Alltricks più basso praticato negli ultimi 30 giorni precedenti la data di inizio dei saldi. (3) Sconto calcolato sul prezzo Alltricks più basso praticato negli ultimi 30 giorni precedenti la data di inizio dell'operazione di svuotamento di questo prodotto. (4) Spese di spedizione gratuite a partire da 100 € con DPD. Valido solo in Francia metropolitana e su tutti i prodotti venduti e spediti da Alltricks. (5) Dal fuso orario GMT+1. (6) A seconda dell'orario di passaggio dell'ordine, del luogo di consegna e a condizione di un pagamento immediato. Valido solo su tutti i prodotti in stock venduti e spediti da Alltricks. (7) Tempi generalmente riscontrati. (8) Tempo generalmente riscontrato per la preparazione del tuo ordine per tutti i prodotti in stock venduti e spediti da Alltricks. (9) Codice da inserire prima della convalida del carrello. (10) Offerta di finanziamento senza assicurazione con contributo obbligatorio, riservata ai privati e valida per ogni acquisto da 80 a 6000€. Soggetto ad accettazione da parte di Oney Bank. Hai un periodo di recesso di 14 giorni per rinunciare al tuo credito. Esempio in 3 rate per un acquisto di 150€, contributo di 52,51€, poi 2 rate di 50€. Credito su 2 mesi al TAEG fisso del 22,59%. Costo del finanziamento 2,51€ entro un limite massimo di 30€. Esempio in 4 rate per un acquisto di 400€, contributo di 110€, poi 3 rate di 100€. Credito su 3 mesi al TAEG fisso del 22,63%. Costo del finanziamento: 10€ entro un limite massimo di 60€. Condizioni al 13/11/2024 soggette a revisioni. Per ulteriori informazioni visita [www.oney.fr](https://www.oney.fr/). Oney Bank- SA con capitale di 71 801 205€ - 34 Avenue de Flandre 59 170 Croix – RCS Lille Métropole – 546 380 197 – n° Orias 07 023 261 www.orias.fr – Corrispondenza: CS 60 006 – 59 895 Lille Cedex 9 – www.oney.fr. (11) Soggetto a pagamento immediato. (12) Il 10% degli ordini può essere soggetto a un controllo casuale da parte di Oney che richiede 24 ore aggiuntive. (13) Spedizione gratuita e illimitata valida 1 anno per la Francia metropolitana esclusa la Corsica dopo l'iscrizione all'offerta Alltricks+ in Chronopost punto di ritiro, Mondial Relay, Colissimo e France Express senza minimo d'acquisto. Offerto a partire da 25€ di acquisto su Chronopost domicilio. Valido solo su tutti i prodotti venduti e spediti da Alltricks. (14) -10% di sconto aggiuntivo valido senza minimo d'acquisto su tutti i prodotti venduti e spediti da Alltricks. Sconto inviato via e-mail il giorno del tuo compleanno dopo l'iscrizione all'offerta Alltricks+, valido una sola volta. (15) Prezzo pubblico consigliato dal fornitore (o prezzo pubblico comunicato dal venditore partner nel caso di prodotti di venditori partner) (16) A gennaio 2015, tramite un voto degli utenti Trustpilot, tra i siti di e-commerce presenti sulla piattaforma Trustpilot. (17) Un credito ti impegna e deve essere rimborsato. Controlla le tue capacità di rimborso prima di impegnarti. (18) Esclusi i prodotti dei venditori partner."
-    }
-  }
+{
+  "hello": "Ciao",
+  "goodbye": "Arrivederci",
+  "yes": "Sì",
+  "no": "No"
 }
