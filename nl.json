@@ -1,30 +1,4 @@
-={
-  "common": {
-    "metadata": {
-      "title": {
-        "cart": "Mijn testmandje",
-        "confirmation": "Bevestiging van de pagina van zijn doden zegt zijn moeder",
-        "login": "Inloggen",
-        "payment": "Betaling",
-        "shipping": "Levering voor de deur"
-      }
-    },
-    "steps": {
-      "cartStepLabel": "Mandje van de 1e pagina en de 2e",
-      "loginStepLabel": "Inloggen",
-      "shippingStepLabel": "Levering voor de deur",
-      "paymentStepLabel": "Betaling",
-      "backStepLabel": "Terug naar vorige stap"
-    },
-    "nextStep": "Volgende stap: { step }",
-    "tunnelLayout": {
-      "footerMenu": {
-        "terms": "Algemene voorwaarden",
-        "legals": "Juridische vermeldingen",
-        "cookies": "Persoonsgegevens",
-        "managingCookies": "Cookiebeheer"
-      },
-      "footerLegals": "(1) Korting berekend op de laagste Alltricks-prijs die in de afgelopen 30 dagen vóór de startdatum van de promotie van dit product is toegepast (2) Korting berekend op de laagste Alltricks-prijs die in de afgelopen 30 dagen vóór de startdatum van de uitverkoop is toegepast. (3) Korting berekend op de laagste Alltricks-prijs die in de afgelopen 30 dagen vóór de startdatum van de uitverkoop van dit product is toegepast. (4) Verzendkosten gratis vanaf 100 € met DPD. Geldig alleen in het Franse vasteland en op alle producten die door Alltricks worden verkocht en verzonden. (5) Vanaf de GMT+1 tijdzone. (6) Afhankelijk van het tijdstip van de bestelling, de leverplaats en onder voorbehoud van onmiddellijke betaling. Geldig alleen op alle op voorraad zijnde producten die door Alltricks worden verkocht en verzonden. (7) Gewoonlijk waargenomen termijnen. (8) Gewoonlijk waargenomen tijd voor de voorbereiding van uw bestelling voor alle op voorraad zijnde producten die door Alltricks worden verkocht en verzonden. (9) Code in te voeren vóór de validatie van het mandje. (10) Financieringsaanbieding zonder verzekering met verplichte eigen bijdrage, gereserveerd voor particulieren en geldig voor elke aankoop van 80 tot 6000€. Onder voorbehoud van acceptatie door Oney Bank. U heeft een herroepingsperiode van 14 dagen om uw krediet te annuleren. Voorbeeld in 3 termijnen voor een aankoop van 150€, eigen bijdrage van 52,51€, daarna 2 maandlasten van 50€. Krediet over 2 maanden tegen een vaste TAEG van 22,59%. Kosten van de financiering 2,51€ met een maximum van 30€. Voorbeeld in 4 termijnen voor een aankoop van 400€, eigen bijdrage van 110€, daarna 3 maandlasten van 100€. Krediet over 3 maanden tegen een vaste TAEG van 22,63%. Kosten van de financiering: 10€ met een maximum van 60€. Voorwaarden op 13/11/2024 onderhevig aan wijzigingen. Voor meer informatie ga naar [www.oney.fr](https://www.oney.fr/). Oney Bank- SA met een kapitaal van 71 801 205€ - 34 Avenue de Flandre 59 170 Croix – RCS Lille Métropole – 546 380 197 – nr. Orias 07 023 261 www.orias.fr – Correspondentie: CS 60 006 – 59 895 Lille Cedex 9 – www.oney.fr. (11) Onder voorbehoud van onmiddellijke betaling. (12) 10 % van de bestellingen kunnen onderworpen zijn aan een willekeurige controle door Oney die 24 uur extra vereist. (13) Gratis en onbeperkte levering geldig 1 jaar voor het Franse vasteland, behalve Corsica, na inschrijving voor het Alltricks+ aanbod via Chronopost relais, Mondial Relay, Colissimo en France Express zonder minimum aankoop. Gratis vanaf 25€ aankoop op Chronopost thuislevering. Geldig alleen op alle producten die door Alltricks worden verkocht en verzonden. (14) -10 % extra korting geldig zonder minimum aankoop op alle producten die door Alltricks worden verkocht en verzonden. Korting verzonden per e-mail op de dag van uw verjaardag na inschrijving voor het Alltricks+ aanbod, geldig één keer. (15) Door de leverancier aanbevolen verkoopprijs (of door de verkoper partner gecommuniceerde verkoopprijs in het geval van producten van partnerverkopers) (16) In januari 2015, via een stemming van Trustpilot-gebruikers, onder de e-commerce sites die op het Trustpilot-platform aanwezig zijn. (17) Een krediet verplicht u en moet worden terugbetaald. Controleer uw terugbetalingscapaciteiten voordat u zich verbindt. (18) Behalve producten van partnerverkopers."
-    }
-  }
+{
+  "hello": "Hallo",
+  "goodbye": "Tot ziens"
 }
