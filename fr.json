@@ -40,12 +40,12 @@
     "summaryCard": {
       "ecoTax": "<span>dont frais d'éco-part.</span><span>{tax}</span>",
       "total": "Total <span>{vat, select, vat_excluded {(HT)} other {(TTC)}}</span>",
-      "notSubjectToVAT": "(non soumis TVA)"
+      "notSubjectToVAT": "(non soumis TVA)",
+      "title": "<strong>Récapitulatif</strong>"
     }
   },
   "pages": {
     "cart": {
-      "cartTitle": "<strong>Mon panier</strong> {count, plural, =0 {} =1 {({count} article)} other {({count} articles)}}",
       "emptyCartCard": {
         "title": "Votre panier est vide",
         "description": "Bien s'équiper n'a jamais été aussi simple",
@@ -119,7 +119,8 @@
         "shippedBy": "Expédié par",
         "storePickUp": "Retrait magasin",
         "sendByEmail": "Envoyé par <strong>{terminalArea}</strong>",
-        "shipperOrStoreName": "<strong>{terminalArea}</strong>"
+        "shipperOrStoreName": "<strong>{terminalArea}</strong>",
+        "productCount": "<span>({count, plural, =1 {{count} article} other {{count} articles}})</span>"
       },
       "inadequateStock": {
         "outOfStock": {
@@ -151,7 +152,7 @@
         "increaseProductQuantity": "Augmenter la quantité du produit",
         "decreaseProductQuantity": "Diminuer la quantité du produit",
         "productQuantityFieldLabel": "Changer la quantité du produit",
-        "reference": "Référence : {reference}",
+        "reference": "Référence",
         "refurbishedName": "État",
         "refurbishedValue": "Reconditionné",
         "scheduledDelivery": "Chez vous <strong>dès le {date}</strong>",
@@ -864,6 +865,10 @@
           "readMore": "En savoir plus",
           "disclaimer": "Un crédit vous engage et doit être remboursé.<br></br>Vérifiez vos capacités de remboursement avant de vous engager",
           "close": "Fermer"
+        },
+        "deffered": {
+          "label": "Paiement par virement différé",
+          "instructions": "Traitement immédiat de ma commande. Règlement par virement sous 30 jours."
         },
         "paypal": {
           "label": "PayPal",
