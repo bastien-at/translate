@@ -1,4 +1,7 @@
 {
   "hello": "Hola",
-  "goodbye": "Adiós"
+  "goodbye": "Adiós",
+  "thanks": "Gracias",
+  "trigger": "disparador",
+  "claude": "Claudiena"
 }

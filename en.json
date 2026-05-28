@@ -1,4 +1,7 @@
 {
   "hello": "Hello",
-  "goodbye": "Goodbye"
+  "goodbye": "Goodbye",
+  "thanks": "Thank you",
+  "trigger": "trigger",
+  "claude": "Claudiena"
 }

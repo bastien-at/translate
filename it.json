@@ -1,4 +1,7 @@
 {
   "hello": "Ciao",
-  "goodbye": "Arrivederci"
+  "goodbye": "Arrivederci",
+  "thanks": "Grazie",
+  "trigger": "innesco",
+  "claude": "Claudiena"
 }
