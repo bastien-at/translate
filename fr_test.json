@@ -5,5 +5,6 @@
   "trigger": "déclencheur", 
   "claude" : "Claude", 
   "claude_desc" : "Claude est vraiment très super sympa et géniale et inteligent",
-  "claude_desc_short" : "Claude est vraiment très super sympa et géniale et inteligent"
+  "claude_desc_short" : "Claude est vraiment très super sympa et géniale et inteligent",
+  "claude_desc_shorter" : "Claude est vraiment très super sympa et géniale"
 }
