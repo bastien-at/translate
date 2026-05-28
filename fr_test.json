@@ -11,4 +11,5 @@
   "claude_desc_shortest2" : "Claude est vraiment très super",
   "chagpt_desc_shortest2" : "ChatGPT est vraiment très bon aussi",
   "claude_desc_shortest2_with_chatgpt" : "Claude est vraiment très super, mais ChatGPT est vraiment très bon aussi",
+  "claude_desc_shortest2_with_chatgpt_and_more" : "Claude est vraiment très super, mais ChatGPT est vraiment très bon aussi, et il y a aussi d'autres modèles de langage qui sont vraiment très bons"
 }
