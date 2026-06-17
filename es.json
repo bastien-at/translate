@@ -1,83 +1,16 @@
 {
-  "common": {
-    "metadata": {
-      "title": {
-        "cart": "Mon panier et ouai on met a jour nous je te jure",
-        "confirmation": "Confirmation sartek",
-        "login": "Connexion marseille bébé",
-        "payment": "Pago con tarjeta",
-        "shipping": "Livraison"
-      },
-      "ok": "Ok",
-      "cancel": "Annuler",
-      "expand": "Ouvrir",
-      "minimize": "Fermer",
-      "requiredField": "Obligatoire"
-    },
-    "tunnel": {
-      "summaryCard": {
-        "ecoTax": "<span>dont frais d'éco-part.</span><span>{tax}</span>",
-        "total": "Total <span>{vat, select, vat_excluded {(HT)} other {(TTC)}}</span>",
-        "notSubjectToVAT": "(non soumis TVA)",
-        "title": "<strong>Récapitulatif</strong>"
-      }
-    },
-    "pages": {
-      "cart": {
-        "emptyCartCard": {
-          "title": "Votre panier est vide",
-          "description": "Bien s'équiper n'a jamais été aussi simple",
-          "loginLabel": "Me connecter",
-          "continueShoppingButtonLabel": "Commencer mes achats"
-        },
-        "insurance": {
-          "header": {
-            "title": "Protégez votre vélo !",
-            "description": "Optez pour une assurance et roulez tranquille !",
-            "link": "En savoir plus"
-          },
-          "content": {
-            "noInsurance": "Sans assurance",
-            "insuranceTB": "Assurance Casse et Vol",
-            "coverage": {
-              "breakage": "Couverture contre les dommages matériels accidentels",
-              "theft": "Couverture contre le vol"
-            }
-          }
-        },
-        "logisticOrder": {
-          "email": "email",
-          "shippedBy": "Expédié par",
-          "storePickUp": "Retrait magasin",
-          "sendByEmail": "Envoyé par <strong>{terminalArea}</strong>",
-          "shipperOrStoreName": "<strong>{terminalArea}</strong>",
-          "productCount": "<span>({count, plural, =1 {{count} article} other {{count} articles}})</span>"
-        },
-        "inadequateStock": {
-          "outOfStock": {
-            "banner": "Action requise : Article(s) épuisé(s)",
-            "alert": {
-              "title": "Un article de votre panier est épuisé",
-              "description": "Pour continuer votre achat, veuillez le supprimer. Vous pouvez créer une alerte pour être informé dès son retour en stock."
-            }
-          },
-          "partOfStockReserved": {
-            "banner": "Action requise : Dernière quantité réservée",
-            "alert": {
-              "title": "Le dernier produit en stock est actuellement dans un panier",
-              "description": "Pour continuer votre achat, vous pouvez patienter car il sera peut être à nouveau disponible dans quelques heures ou choisir un article similaire."
-            }
-          },
-          "notEnoughStock": {
-            "banner": "Action requise : Quantité indisponible",
-            "alert": {
-              "title": "La quantité souhaitée n'est plus disponible",
-              "description": "Pour continuer votre achat, veuillez ajuster la quantité ou supprimer le produit."
-            }
-          },
-          "delete": "Supprimer"
-        }
-      }
-    }
-  }
+  "hello": "Hola",
+  "goodbye": "Adiós",
+  "thanks": "Gracias",
+  "trigger": "disparador",
+  "claude": "Claude",
+  "claude_desc": "Claude es realmente muy simpático, genial e inteligente",
+  "claude_desc_short": "Claude es realmente muy simpático, genial e inteligente",
+  "claude_desc_shorter": "Claude es realmente muy simpático y genial",
+  "claude_desc_shortest": "Claude es realmente muy super simpático",
+  "claude_desc_shortest2": "Claude es realmente muy genial",
+  "chagpt_desc_shortest2": "ChatGPT es realmente muy bueno también",
+  "claude_desc_shortest2_with_chatgpt": "Claude es realmente muy genial, pero ChatGPT también es realmente muy bueno",
+  "ok": "De acuerdo",
+  "test": "Esto es una prueba"
 }
