@@ -1,0 +1,1244 @@
+{
+  "common": {
+    "metadata": {
+      "title": {
+        "cart": "Mein Warenkorb",
+        "confirmation": "Bestätigung",
+        "login": "Anmeldung",
+        "payment": "Zahlung",
+        "shipping": "Versand"
+      }
+    },
+    "steps": {
+      "cartStepLabel": "Warenkorb",
+      "loginStepLabel": "Anmeldung",
+      "shippingStepLabel": "Versand",
+      "paymentStepLabel": "Zahlung",
+      "confirmationStepLabel": "Bestätigung",
+      "backStepLabel": "Zur vorherigen Stufe zurück"
+    },
+    "nextStep": "Nächster Schritt: { step }",
+    "tunnelLayout": {
+      "back": "Weiter einkaufen",
+      "start": "Mit dem Einkaufen beginnen",
+      "help": "Hilfe",
+      "footerMenu": {
+        "terms": "AGB",
+        "legals": "Rechtliche Hinweise",
+        "cookies": "Personenbezogene Daten",
+        "managingCookies": "Cookie-Verwaltung"
+      },
+      "footerLegals": "(1) Versandkostenfrei ab 100 € mit DPD. Gültig nur in Frankreichs Festland und für alle von Alltricks verkauften und versendeten Produkte. (2) Abhängig von der Uhrzeit der Bestellung, dem Lieferort und vorbehaltlich einer sofortigen Zahlung. (3) Kostenloser und unbegrenzter Versand für 1 Jahr gültig für das französische Festland ohne Korsika nach Abschluss des Alltricks+-Angebots per Chronopost-Paketshop, Mondial Relay, Colissimo und France Express ohne Mindestbestellwert. Kostenlos ab 25 € Bestellwert mit Chronopost-Zustellung nach Hause. Gültig nur für alle von Alltricks verkauften und versendeten Produkte."
+    },
+    "ok": "Ok",
+    "cancel": "Abbrechen",
+    "expand": "Öffnen",
+    "minimize": "Schließen",
+    "requiredField": "Pflichtfeld"
+  },
+  "tunnel": {
+    "summaryCard": {
+      "ecoTax": "<span>zzgl. Ökobeitrag.</span><span>{tax}</span>",
+      "total": "Gesamt <span>{vat, select, vat_excluded {(zzgl. MwSt.)} other {(inkl. MwSt.)}}</span>",
+      "notSubjectToVAT": "(nicht der Mehrwertsteuer unterworfen)",
+      "title": "<strong>Zusammenfassung</strong>"
+    }
+  },
+  "pages": {
+    "cart": {
+      "emptyCartCard": {
+        "title": "Ihr Warenkorb ist leer",
+        "description": "Sich gut auszustatten war noch nie so einfach",
+        "loginLabel": "Anmelden",
+        "continueShoppingButtonLabel": "Mit dem Einkauf fortfahren"
+      },
+      "insurance": {
+        "header": {
+          "title": "Schützen Sie Ihr Fahrrad!",
+          "description": "Wählen Sie eine Versicherung und fahren Sie unbeschwert!",
+          "link": "Mehr erfahren"
+        },
+        "content": {
+          "noInsurance": "Ohne Versicherung",
+          "insuranceTB": "Versicherung gegen Bruch und Diebstahl",
+          "coverage": {
+            "breakage": "Deckung bei zufälligen Sachschäden",
+            "theft": "Deckung bei Diebstahl"
+          }
+        },
+        "drawer": {
+          "title": "Fahrradversicherung gegen Bruch und Diebstahl",
+          "detailsButton": "Mehr erfahren",
+          "utilityTable": {
+            "header": {
+              "insurance": "Alltricks Versicherung",
+              "guarantee": "Handelsgarantie"
+            },
+            "coverage": {
+              "accessories": "Deckung des Zubehörs",
+              "bikeType": "Alle neuen und generalüberholten Fahrräder",
+              "breakage": "Deckung bei Bruch",
+              "claims": "Vereinfachte Online-Schadensabwicklung",
+              "claimsYear": "Bis zu 2 Schadensfälle pro Jahr",
+              "compensation": "Entschädigung bis zu 9000€ ",
+              "depreciation": "Kein Wertverlust im 1. Jahr",
+              "franchise": "Keine Selbstbeteiligung",
+              "theft": "Diebstahldeckung (jegliche Ursache)"
+            }
+          },
+          "faq": {
+            "heading": "Häufige Fragen",
+            "disclosure": {
+              "goods": {
+                "title": "Abgedeckte Güter",
+                "content": "Alle von Alltricks verkauften Fahrräder (E-Bikes, MTB, Rennrad, Citybikes, Kinderfahrräder usw.) können gegen Diebstahl und Bruch versichert werden."
+              },
+              "breakage": {
+                "title": "Abgedeckter Bruch",
+                "content": "Im Falle eines zufälligen Bruchs übernimmt die Versicherung die Reparatur oder den Austausch des Fahrrads oder zahlt eine finanzielle Entschädigung, wenn eine Reparatur nicht möglich ist. Die Versicherung deckt diese Produkte für eine nicht gewerbliche Nutzung und außerhalb von Wettbewerben, Sportveranstaltungen, Prüfungen und Rennen ab."
+              },
+              "theft": {
+                "title": "Abgedeckter Diebstahl",
+                "content": "Die Versicherung deckt Diebstahl zu Hause, auf öffentlichen Straßen (außerhalb von 23h-7h) oder bei Fahrten innerhalb des französischen Festlands einschließlich Korsika und Monaco ab. Die Versicherung zahlt Ihnen eine finanzielle Entschädigung direkt auf Ihr Bankkonto. "
+              },
+              "conditions": {
+                "title": "Bedingungen",
+                "details": {
+                  "residence": "Die versicherte Person muss ihren Hauptwohnsitz in Frankreich haben.",
+                  "billing": "Die Rechnungsadresse entspricht der Adresse des Hauptwohnsitzes der versicherten Person.",
+                  "claim": "Zwei Schadensfälle pro Jahr sind abgedeckt, mit einem Maximum von 9.000 € inkl. MwSt. pro Schadensfall.",
+                  "depreciation": "Im Falle eines Schadens im zweiten Jahr gilt ab dem 13. Monat eine Wertminderung von 1% pro Monat."
+                }
+              }
+            }
+          }
+        }
+      },
+      "logisticOrder": {
+        "email": "E-Mail",
+        "shippedBy": "Versendet von",
+        "storePickUp": "Abholung im Geschäft",
+        "sendByEmail": "Gesendet per <strong>{terminalArea}</strong>",
+        "shipperOrStoreName": "<strong>{terminalArea}</strong>",
+        "productCount": "<span>({count, plural, =1 {{count} Artikel} other {{count} Artikel}})</span>"
+      },
+      "inadequateStock": {
+        "outOfStock": {
+          "banner": "Aktion erforderlich: Artikel ausverkauft",
+          "alert": {
+            "title": "Ein Artikel in Ihrem Warenkorb ist ausverkauft",
+            "description": "Um Ihren Einkauf fortzusetzen, entfernen Sie ihn bitte. Sie können einen Alarm erstellen, um benachrichtigt zu werden, sobald er wieder auf Lager ist."
+          }
+        },
+        "partOfStockReserved": {
+          "banner": "Aktion erforderlich: Letzte verfügbare Menge reserviert",
+          "alert": {
+            "title": "Das letzte Produkt auf Lager befindet sich derzeit in einem Warenkorb",
+            "description": "Um Ihren Einkauf fortzusetzen, können Sie warten, da es möglicherweise in einigen Stunden wieder verfügbar sein wird, oder einen ähnlichen Artikel auswählen."
+          }
+        },
+        "notEnoughStock": {
+          "banner": "Aktion erforderlich: Menge nicht verfügbar",
+          "alert": {
+            "title": "Die gewünschte Menge ist nicht mehr verfügbar",
+            "description": "Um Ihren Einkauf fortzusetzen, passen Sie bitte die Menge an oder entfernen Sie das Produkt."
+          }
+        },
+        "delete": "Entfernen"
+      },
+      "orderProduct": {
+        "deliveryDay": "Bei Ihnen <strong>{ weekDay, select, nextDay {bereits morgen } other {bereits {weekDay}}}</strong>",
+        "deliveryInterval": "Geliefert zwischen dem <strong>{start}</strong> und dem <strong>{end}</strong>",
+        "increaseProductQuantity": "Menge des Produkts erhöhen",
+        "decreaseProductQuantity": "Menge des Produkts verringern",
+        "productQuantityFieldLabel": "Menge des Produkts ändern",
+        "reference": "Referenz",
+        "refurbishedName": "Zustand",
+        "refurbishedValue": "Generalüberholt",
+        "scheduledDelivery": "Bei Ihnen <strong>ab dem {date}</strong>",
+        "removeLabel": "Entfernen",
+        "discountCodeTagDetails": "{discountCode} ({discountValue}) also: <strong>{finalPrice}</strong>",
+        "logisticOrderProductPrice": "{price} {vat, select, vat_included {} other {HT}}"
+      },
+      "cartSummary": {
+        "expand": "Öffnen",
+        "minimize": "Schließen",
+        "cartLabel": "Warenkorb {vat, select, vat_included {} other {(HT)}} ({count})",
+        "title": "<strong>Zusammenfassung</strong>",
+        "discountCode": "Gutscheincode {vat, select, vat_included {} other {(HT)}}",
+        "estimatedShippingPrice": "Geschätzte Versandkosten {vat, select, vat_included {} other {(HT)}}",
+        "buttonLabel": "Meine Lieferung auswählen",
+        "meterLabel": "Nur noch {valueText}",
+        "meterDetails": "um von <strong>kostenloser Lieferung</strong> zu profitieren",
+        "homeShippingLabel": "Versand {vat, select, vat_included {} other {(HT)}}",
+        "relayShippingLabel": "Paketshops® & Lockers® {vat, select, vat_included {} other {(HT)}}",
+        "storeShippingLabel": "Abholung im Geschäft {vat, select, vat_included {} other {(HT)}}",
+        "showroomShippingLabel": "Abholung im Lager {vat, select, vat_included {} other {(HT)}}",
+        "emailShippingLabel": "E-Mail",
+        "shippingCount": "{count}/{total}",
+        "deliveryCharges": "Versandkosten",
+        "freeShipping": "Kostenlos",
+        "freeShippingRecap": "Kostenlos",
+        "cutoffLabel": "für eine Lieferung schon morgen",
+        "shippingDateFrom": "{day, select, today {Schon heute} tomorrow {Schon morgen} other {Ab {date}}}",
+        "shippingDatePrecise": "{day, select, today {Heute} tomorrow {Morgen} other {Am {date}}} zwischen {timeStart} und {timeEnd}",
+        "shippingDetails": "{mode, select, collect {Abholdetails} other {Lieferdetails}}",
+        "shippingExpeditor": "Versendet von <strong>{expeditorName}</strong>",
+        "shippingRowTitle": "{partIndex}/{partCount} <strong>{expeditorName}</strong>",
+        "shippingMode": "{mode, select, home {Lieferung nach Hause} collect {Abholung im Geschäft} other {}}",
+        "shippingModeRelay": "{mode, select, relay {Lieferung in den Paketshop®} shop {Abholung im Geschäft} other {}}",
+        "giftCardUsed": "Geschenkgutschein",
+        "voucherUsed": "Guthaben",
+        "cashbackUsed": "Cagnotte Alltricks+",
+        "vatIncluded": "(inkl. MwSt.)",
+        "vatExcluded": "(exkl. MwSt.)",
+        "VAT": "MwSt.",
+        "notSubjectToVAT": "(nicht der MwSt. unterworfen)",
+        "totalVatExcluded": "Gesamt (exkl. MwSt.)"
+      },
+      "clear": {
+        "buttonOpenModal": "Warenkorb leeren",
+        "modalTitle": "Warenkorb löschen",
+        "modalContent": "Sind Sie sicher, dass Sie alle Artikel in Ihrem Warenkorb löschen möchten ?<br></br>Um Ihre Artikel zur Seite zu legen, denken Sie daran, sie zu Ihrer Wunschliste hinzuzufügen, indem Sie auf das Symbol \"Herz\" auf der Produktseite klicken.",
+        "modalActionDeleteAll": "Alles löschen",
+        "modalActionPreserve": "Meinen Warenkorb behalten"
+      },
+      "discount": {
+        "applyDiscount": "Gutscheincode anwenden",
+        "discountCode": "Gutscheincode",
+        "enterCode": "Code eingeben",
+        "ok": "Ok",
+        "codeSuccess": "Der Gutscheincode wurde erfolgreich auf Ihren Warenkorb angewendet.",
+        "promoClubPartial": "Ihr Club-/CSE-/Vereinscode wurde angewendet! Er wurde auf die berechtigten Artikel aktiviert, kann jedoch nicht mit Produkten kombiniert werden, die bereits von unserem besten Preis profitieren.",
+        "clubInfoAlert": {
+          "title": "Die Vorteile des Club-/CSE-/Vereinscodes gelten ausschließlich für den Unverbindlichen Verkaufspreis (UVP).",
+          "description": "Wenn der Rabatt nicht aktiviert wird, liegt das daran, dass der Artikel bereits von unserem besten Preis profitiert: entweder von einem bereits reduzierten „Alltricks“-Preis oder von einer laufenden Aktion. Das System wählt automatisch den niedrigsten Preis für Sie aus."
+        },
+        "infoAlert": "Wenn Sie über eine Gutschrift oder einen Geschenkgutschein verfügen, können Sie diesen im Schritt Zahlung verwenden.",
+        "infoAlertPremium": "Die Anwendung eines Promotioncodes kann den angezeigten Cashback-Betrag ändern.",
+        "backToCart": "Zurück zum Warenkorb",
+        "deleteDiscount": "Gutscheincode löschen",
+        "staff": {
+          "label": "Mitarbeiterrabatt",
+          "switchLabel": "Mitarbeiterrabatt anwenden oder entfernen",
+          "cgv": "Ich habe die Bedingungen zu den dem Personal gewährten Rabatten zur Kenntnis genommen.",
+          "validity": {
+            "successMessage": "Ihr Mitarbeiterrabatt wurde erfolgreich auf die berechtigten Produkte angewendet (verkauft von Alltricks).",
+            "errorMessage": "Es ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut."
+          },
+          "overviewTableProductsColumn": "Für den Mitarbeiterrabatt berechtigtes Produkt/die berechtigten Produkte",
+          "overviewTableDiscountColumn": "Rabatt",
+          "overviewTableTotalDiscount": "Gesamtrabatt",
+          "seeConditions": "Bedingungen anzeigen",
+          "conditionsDescription": "Alle Mitarbeitenden des Unternehmens AVANIS (unbefristeter Vertrag, befristeter Vertrag, Praktikant:innen und Auszubildende) können von diesem Rabatt profitieren (ab ihrem Eintritt und während der gesamten Vertragslaufzeit). <br></br><br></br> Der Kauf von einem oder mehreren Produkten mit Anwendung des Rabatts ist ausschließlich für Mitarbeitende und deren Haushalt (Ehepartner:in und Kinder) und ohne gewerblichen Weiterverkauf bestimmt. <br></br><br></br> Hinsichtlich der Bezahlung muss die Bestellung mit einem Zahlungsmittel bezahlt werden, das auf den Namen der Mitarbeitenden lautet. <br></br><br></br> Zur Information: Der Rabatt wird nach folgender Regel berechnet: bis zu 30 % Rabatt auf den Alltricks-Verkaufspreis, und zwar bis zur Höhe des Selbstkostenpreises für Alltricks und mit einer maximalen Reduzierung von 40 % auf den empfohlenen Verkaufspreis. <br></br><br></br> Der Rabatt gilt das ganze Jahr über und für alle von Alltricks verkauften Produkte. <br></br><br></br> Der Staff-Rabatt ist nicht mit anderen Aktionscodes, dem Alltricks+-Cashback oder Geschenkgutscheinen aus Troc Vélo-Verkäufen kombinierbar.<br></br><br></br> Das Bestelllimit ist auf 5.000 € pro Kalenderjahr ohne Erwachsenenfahrräder pro Mitarbeitenden festgelegt. <br></br><br></br> Was Erwachsenenfahrräder betrifft, haben Sie die Möglichkeit, bis zu zwei Erwachsenenfahrräder pro Kalenderjahr* und ohne Betragsbegrenzung zu kaufen.<br></br><br></br> *begrenzt auf ein Erwachsenenfahrrad bei einem Vertrag / einer Anwesenheit von weniger als oder gleich 6 Monaten im Unternehmen."
+        },
+        "postError": {
+          "already_used_on_this_command": "Sie haben den Rabatt bereits in dieser Bestellung verwendet.",
+          "amount_limit_reached": "Sie können 5.000 € Einkauf nicht überschreiten",
+          "bicycle_limit_reached": "Sie sind auf 2 Fahrräder pro Jahr begrenzt",
+          "blocked_by_canceled_order": "Der Rabatt, den Sie verwenden möchten, wurde vorübergehend blockiert. Bitte kontaktieren Sie unseren Kundenservice telefonisch unter 01 30 48 90 07 (Montag bis Freitag von 9 bis 19 Uhr und Samstag von 10 bis 19 Uhr) oder über den Bereich https://www.alltricks.fr/contact",
+          "cart_amount_to_small": "Der Mindestbetrag von {amount} für diesen Rabattcode wurde nicht erreicht.",
+          "discount_expired": "Dieser Rabattcode existiert nicht oder ist nicht mehr gültig.",
+          "empty_cart": "Ein Rabatt kann nicht auf einen leeren Warenkorb angewendet werden.",
+          "gift_code_invalid_step": "Code als Zahlungsmittel gültig, im Schritt Zahlung zu verwenden.",
+          "limit_reached_per_user": "Sie haben das Nutzungslimit für diesen Code erreicht.",
+          "max_of_used_limit": "Dieser Rabattcode existiert nicht oder ist nicht mehr gültig.",
+          "not_activated": "Der ausgewählte Rabatt wurde nicht mit der aktuellen Bestellung verknüpft.",
+          "not_alltricks_order": "Der ausgewählte Rabatt gilt nur für Artikel, die von Alltricks verkauft und versendet werden",
+          "not_available": "Ein Rabatt ist bereits mit Ihrem Warenkorb verknüpft.",
+          "not_compatible": "Der Inhalt Ihres Warenkorbs entspricht nicht den Einschränkungen dieses Rabattcodes.",
+          "not_compatible_staff": "Der Mitarbeiterrabatt gilt nicht für diesen Warenkorb, da kein Produkt berechtigt ist.",
+          "not_found": "Der Rabattcode {code} existiert nicht. Bitte versuchen Sie es erneut.",
+          "not_usable": "Der ausgewählte Rabatt ist nicht nutzbar.",
+          "not_voucher_proprietary": "Sie sind nicht der Eigentümer des ausgewählten Rabatts.",
+          "promo_club_ineligible": "Dieser Code gilt nur für den empfohlenen Preis der berechtigten Artikel. Produkte, die bereits standardmäßig von einem höheren Rabatt als dem Club-/Betriebsrat-/Vereinsrabatt profitieren, sind daher nicht rabattberechtigt.",
+          "user_not_compatible": "Dieser Rabattcode existiert nicht, ist nicht mehr gültig oder erfordert Ihre Identifikation.",
+          "unknownError": "Ein Fehler ist aufgetreten"
+        },
+        "unknownError": "Ein Fehler ist aufgetreten"
+      },
+      "alertMultiplePackages": {
+        "title": "Ihre Bestellung wird in mehreren Paketen geliefert.",
+        "shippingModeChoice": "Wählen Sie im nächsten Schritt für jeden Versanddienstleister die für Sie passende Versandart."
+      },
+      "alertMergedCart": {
+        "title": "Produkte in Ihrem Warenkorb wiederhergestellt.",
+        "description": "Sie hatten bei einem früheren Besuch Produkte in den Warenkorb gelegt. Wir haben sie wiederhergestellt und Ihrem heutigen Warenkorb hinzugefügt."
+      },
+      "alertIncoherentInternationalVat": {
+        "title": "Prüfen Sie Ihre Umsatzsteuer-Identifikationsnummer",
+        "description": "Ihre Nummer scheint ungültig zu sein oder stimmt nicht mit dem Lieferland überein. Sie können dennoch bestellen, aber die Mehrwertsteuer wird bis zur Aktualisierung dieser Angaben berechnet.",
+        "action": "Meine Informationen aktualisieren"
+      },
+      "unknownError": "Ein Fehler ist aufgetreten",
+      "stockAlert": {
+        "notificationButtonLabel": "Über Verfügbarkeit benachrichtigen",
+        "notificationTitle": "Benachrichtigung zur Produktverfügbarkeit",
+        "notificationDescription": "Ich möchte per E-Mail benachrichtigt werden, sobald dieses Produkt wieder verfügbar ist.",
+        "form": {
+          "email": "E-Mail",
+          "placeholder": "Geben Sie Ihre E-Mail-Adresse ein",
+          "submit": "Bestätigen und aus dem Warenkorb entfernen",
+          "cancel": "Abbrechen",
+          "optinLabel": "Ich möchte auch andere Angebote per E-Mail erhalten",
+          "postError": {
+            "email": "Die E-Mail-Adresse ist nicht gültig"
+          }
+        },
+        "unknownError": "Ein Fehler ist aufgetreten"
+      },
+      "insuranceForm": {
+        "description": "Sie haben gerade eine Versicherung für Ihr Fahrrad hinzugefügt. Um Ihren Versicherungsvertrag abzuschließen, benötigen wir einige Angaben, die Sie unten eintragen müssen, sowie Ihre Bestätigung.",
+        "unknownError": "Ein Fehler ist aufgetreten",
+        "genderOptions": {
+          "madam": "Frau",
+          "mister": "Herr"
+        },
+        "labels": {
+          "birthCountryId": "Geburtsland",
+          "birthDate": "Geburtsdatum",
+          "birthPlace": "Geburtsort",
+          "consent": "Ich bestätige, das Informations- und Beratungsschreiben zur Versicherung, das Produktinformationsdokument zur Versicherung sowie die Bedingungen zur Kenntnis genommen, heruntergeladen und/oder ausgedruckt zu haben und sie vorbehaltlos zu akzeptieren. Ich stimme zu, dass meine Mitgliedschaft sofort wirksam wird. Ich habe die Möglichkeit, innerhalb von vierzehn (14) Tagen ab dem Datum des Beitritts von meiner Mitgliedschaft zurückzutreten.",
+          "firstName": "Vorname",
+          "gender": "Anrede",
+          "lastName": "Nachname"
+        },
+        "placeholders": {
+          "birthCountryId": "Geben Sie Ihr Geburtsland ein",
+          "birthDate": "TT.MM.JJJJ",
+          "birthPlace": "Geben Sie Ihren Geburtsort ein",
+          "firstName": "Geben Sie Ihren Vornamen ein",
+          "gender": "Wählen Sie Ihre Anrede",
+          "lastName": "Geben Sie Ihren Nachnamen ein"
+        },
+        "primaryActions": {
+          "close": "Schließen",
+          "submit": "Meine Angaben bestätigen"
+        },
+        "title": "Versicherung für Fahrradbruch und Diebstahl",
+        "legalNotice": {
+          "description": "AVANIS, handelnd unter der Marke « ALLTRICKS », übermittelt die Informationen zu Ihrer Identität und Ihren Kontaktdaten an den Verantwortlichen, die Versicherungsgesellschaft ONEY INSURANCE (PCC) LIMITED, sowie an deren Unterauftragsverarbeiter, die die erhobenen Daten für den Abschluss und die Verwaltung des Versicherungsvertrags verarbeiten. Weitere Informationen zur Verwaltung Ihrer personenbezogenen Daten und zur Ausübung Ihrer Rechte finden Sie in Artikel 8 der Informationsmitteilung.",
+          "buttonLabel": "Dokumente ansehen",
+          "noticeDownloadLabel": "Informations- und Beratungsschrift zur Alltricks Casse & Vol-Versicherung:"
+        }
+      },
+      "cashbackBanner": {
+        "amountOffer": "{amount} Guthaben",
+        "validatingOrder": "bei Bestätigung dieser Bestellung",
+        "amountAvailable": "<strong>Ihr Treueguthaben:</strong> {amount} Guthaben",
+        "expirationDate": "Vor dem {date} verwenden"
+      },
+      "alltricksPlus": {
+        "benefits": {
+          "cashback": "<strong>{cashbackAmount} Guthaben</strong> dank dieser Bestellung",
+          "withoutCashbackCurrentCart": "<strong>Cashback</strong> auf Tausenden von Produkten",
+          "delivery": "<strong>Versand</strong> kostenlos und unbegrenzt",
+          "return": "<strong>100 Tage</strong> für die Rückgabe Ihrer Produkte",
+          "other": "Viele weitere <strong>exklusive Vorteile</strong>"
+        },
+        "register": "<strong>Jetzt beitreten</strong> für {annualPrice} / Jahr",
+        "switchLabel": "Dem Programm Alltricks Plus beitreten oder nicht",
+        "footerText": "Angebot ohne Verpflichtung: Abonnement wird nach 1 Jahr automatisch gekündigt.",
+        "infoButtonLabel": "Rechtliche Informationen",
+        "conditionsModal": {
+          "title": "Alltricks+-Allgemeine Geschäftsbedingungen",
+          "closeButton": "Schließen"
+        },
+        "unknownError": "Ein Fehler ist aufgetreten"
+      },
+      "alltricksPlusPremiumFreeOffered": {
+        "benefits": {
+          "cashback": "<strong>{cashbackAmount} Guthaben</strong> dank dieser Bestellung",
+          "withoutCashbackCurrentCart": "<strong>Cashback</strong> auf Tausenden von Produkten",
+          "delivery": "<strong>Kostenloser Versand</strong> unbegrenzt",
+          "return": "<strong>100 Tage</strong> für die Rückgabe Ihrer Produkte",
+          "other": "Viele weitere <strong>exklusive Vorteile</strong>"
+        },
+        "register": "Dank Ihrer Einkäufe ist <strong>Alltricks+ 1 Jahr lang kostenlos</strong>",
+        "switchLabel": "Dem Alltricks Plus-Programm beitreten oder nicht",
+        "footerText": "Angebot ohne Verpflichtung: Das Abonnement wird nach 1 Jahr automatisch gekündigt. Wenn Sie bereits Kunde von Alltricks+ sind, beginnt Ihr Abonnement für 1 weiteres Jahr neu.",
+        "infoButtonLabel": "Rechtliche Informationen",
+        "conditionsModal": {
+          "title": "Alltricks+ Allgemeine Bedingungen",
+          "closeButton": "Schließen"
+        },
+        "unknownError": "Ein Fehler ist aufgetreten"
+      },
+      "AlltricksPlusFrozen": {
+        "expiredBalance": "Ihr abgelaufenes Guthaben:",
+        "amountAvailable": "{amount} Guthaben",
+        "frozenCashbackExpiryDate": "Nutzen Sie Ihr Guthaben, indem Sie Ihr Abonnement vor dem {date} reaktivieren",
+        "reactivePremium": "<strong>Ich nutze mein Guthaben</strong> für {annualPrice} / Jahr",
+        "switchLabel": "Dem Alltricks Plus-Programm beitreten oder nicht",
+        "footerText": "Angebot ohne Verpflichtung: Das Abonnement wird nach 1 Jahr automatisch gekündigt.",
+        "infoButtonLabel": "Rechtliche Informationen",
+        "conditionsModal": {
+          "title": "Alltricks+-Allgemeine Geschäftsbedingungen",
+          "closeButton": "Schließen"
+        },
+        "unknownError": "Ein Fehler ist aufgetreten"
+      }
+    },
+    "shipping": {
+      "unknownError": "Ein Fehler ist aufgetreten",
+      "stepTitle": "<strong>{totalCount, plural, =1 {Versand} other {Versand {currentCount}/{totalCount}}}</strong>",
+      "nextStep": "Zur Kasse",
+      "nextLogisticOrder": "Nächster Schritt",
+      "previousLogisticOrder": "Zurück zur Lieferung {currentCount}/{totalCount}",
+      "multiplePackageAlert": {
+        "title": "Ihre Bestellung wird in mehreren Teillieferungen zugestellt.",
+        "description": "Wählen Sie für jeden Versanddienstleister die für Sie passende Versandart."
+      },
+      "noDeliveryOptions": {
+        "title": "Lieferbeschränkung für {country}",
+        "description": "Aufgrund des Gewichts, des Werts oder der Art bestimmter Artikel in Ihrer Bestellung gelten Lieferbeschränkungen. Für Hilfe kontaktieren Sie bitte unser Team per E-Mail oder unter 01 30 48 90 07."
+      },
+      "cartSummary": {
+        "discountCode": "Gutscheincode {vat, select, vat_included {} other {(HT)}}",
+        "giftCardUsed": "Geschenkgutschein",
+        "voucherUsed": "Guthaben",
+        "cashbackUsed": "Alltricks+-Guthaben",
+        "title": "<strong>Zusammenfassung</strong>",
+        "VAT": "MwSt."
+      },
+      "deliveryOptions": {
+        "free": "Kostenlos",
+        "offered": "Kostenlos",
+        "offeredWith": "Kostenlos mit",
+        "unavailable": "Nicht verfügbar",
+        "committedChoice": "Die gewählte Option",
+        "home": "Lieferung nach Hause",
+        "precise": "Lieferung nach Terminvereinbarung",
+        "collect": "Abholung im Geschäft",
+        "relay": "Points Relais® & Lockers®",
+        "storeChateaudun": "Abholung im Lager Châteaudun",
+        "email": "E-Mail",
+        "todayDelivery": "Schon heute",
+        "nextDayDelivery": "Schon morgen",
+        "scheduledDelivery": "Ab {date}",
+        "deliveryBetween": "Zwischen {earliestDay, select, today {heute} tomorrow {morgen} other {{earliestDate}}} und {latestDay, select, today {heute} tomorrow {morgen} other {{latestDate}}}",
+        "deliveryBetweenInSameMonth": "Zwischen {earliestDate} und {latestDate} {month}",
+        "deliveryDayWithAppointment": "{day, select, today {Heute} tomorrow {Morgen} other {Am {date}}}",
+        "closeModal": "Schließen",
+        "alltricksPlusTagLabel": "Alltricks Plus",
+        "carrier": {
+          "mondialRelay": "Mondial Relay",
+          "colissimo": "Colissimo Relais",
+          "chronopost": "Chronopost",
+          "byType": "Art der Abholstelle"
+        },
+        "carrierRadioGroupLabel": "Transporteur auswählen",
+        "carrierDropdownLabel": "Transporteur auswählen",
+        "deliveryType": {
+          "email": {
+            "title": "Ihr Einkauf wird Ihnen nach Bestätigung Ihrer Bestellung an die unten angegebene E-Mail-Adresse gesendet."
+          },
+          "relay": {
+            "title": "Wählen Sie Ihren Point Relais®"
+          },
+          "store": {
+            "title": "Wählen Sie Ihre Alltricks-Abholstelle im Geschäft"
+          },
+          "yourRelay": "Ihr Point Relais®",
+          "yourStore": "Ihr Geschäft",
+          "standardHomeDelivery": "Standardlieferung",
+          "economicHomeDelivery": "Economy-Lieferung",
+          "expressHomeDelivery": "Expresslieferung",
+          "signatureOrCodeOnDelivery": "Unterschrift oder einmaliger Code bei der Lieferung erforderlich",
+          "preciseDelivery": "Lieferung nach Terminvereinbarung nach Hause",
+          "standardRelayDelivery": "Point Relais® und Lockers® Standard",
+          "expressRelayDelivery": "Point Relais® und Lockers® Express",
+          "freeShipping": "Kostenlos",
+          "onAppointmentDescription": "Im Erdgeschoss, nach Terminvereinbarung, auch samstags",
+          "deliveryBetweenInSameMonth": "Zwischen <strong>{estimatedMinDate}</strong> und <strong>{estimatedMaxDate}</strong> <strong>{month}</strong>",
+          "deliveryPeriod": "Zwischen {minDay, select, today {<strong>heute</strong>} tomorrow {<strong>morgen</strong>} other {<strong>{estimatedMinDate}</strong>}} und {maxDay, select, today {<strong>heute</strong>} tomorrow {<strong>morgen</strong>} other {<strong>{estimatedMaxDate}</strong>}}",
+          "deliveryDateFrom": "Ab {day, select, today {<strong>heute</strong>} tomorrow {<strong>morgen</strong>} other {<strong>{date}</strong>}}",
+          "deliveryDatePrecise": "{day, select, today {<strong>Heute</strong>} tomorrow {<strong>Morgen</strong>} other {<strong>{date}</strong>}} zwischen <strong>{timeStart}</strong> und <strong>{timeEnd}</strong>",
+          "edit": "Bearbeiten"
+        },
+        "relaySelectorModal": {
+          "carrier": {
+            "allCarriers": "Alle Versanddienstleister",
+            "mondialRelay": "Mondial Relay",
+            "colissimo": "Colissimo",
+            "chronopost": "Chronopost",
+            "shop": "Geschäft"
+          },
+          "noRelayFound": {
+            "title": "Kein Point Relais® verfügbar",
+            "description": "Die Artikel in Ihrem Warenkorb können derzeit nicht an einen Point Relais® geliefert werden."
+          },
+          "noStoreFound": {
+            "title": "Kein Geschäft für diese Suche gefunden",
+            "description": "Bitte versuchen Sie es erneut mit einer anderen Adresse"
+          },
+          "listView": "Liste",
+          "mapView": "Karte",
+          "relaySelectorTabsLabel": "Ansichten des Relais-Auswahldialogs",
+          "closeButtonLabel": "Schließen"
+        },
+        "listOfReducedCollectionPoints": "Liste der reduzierten Paketshops",
+        "mediumSizedItem": "Ihr Warenkorb enthält einen Artikel mittlerer Größe.<br></br>Es werden nur Paketshops angezeigt, die diese Art von Paket annehmen können"
+      },
+      "deliveryAddress": {
+        "currentAddressTitle": "Meine Adresse",
+        "listAddressesTitle": "Meine Adressen",
+        "newAddressTitle": "Neue Adresse erstellen",
+        "modifyAddressTitle": "Meine Adresse ändern",
+        "validateChanges": "Änderungen bestätigen",
+        "chooseAddressButton": "Diese Adresse wählen",
+        "currentDeliveryAddress": "Ausgewählte Adresse",
+        "modifyAddressLink": "Meine Adresse ändern",
+        "chooseOtherAddressButton": "Eine andere Adresse wählen",
+        "addNewAddressButton": "Neue Adresse hinzufügen",
+        "cancel": "Abbrechen",
+        "labels": {
+          "address": "Adresse",
+          "additional": "Adresszusatz",
+          "city": "Ort",
+          "company": "Firma",
+          "country": "Land",
+          "name": "Name und Vorname",
+          "phone": "Mobiltelefon",
+          "state": "Bundesland",
+          "zipCode": "Postleitzahl",
+          "optional": "Optional"
+        },
+        "helperMessages": {
+          "phone": "Um eine optimale Lieferung und Sendungsverfolgung Ihrer Bestellung zu gewährleisten"
+        },
+        "missingPhoneAlert": "Diese Adresse ist unvollständig. Bitte geben Sie die Telefonnummer an.",
+        "modifyAlertButton": "Ändern",
+        "missingPhoneFieldError": "Telefonnummer angeben",
+        "placeholders": {
+          "address": "Geben Sie Ihre Adresse ein",
+          "additional": "Fügen Sie Ihrer Adresse einen Zusatz hinzu",
+          "city": "Geben Sie Ihren Ort ein",
+          "company": "Geben Sie Ihre Firma ein",
+          "name": "Geben Sie Ihren Namen und Vornamen ein",
+          "phone": "Geben Sie Ihre Telefonnummer ein",
+          "zipCode": "Geben Sie Ihre Postleitzahl ein"
+        },
+        "postError": {
+          "address_already_exists": "Die Adresse existiert bereits",
+          "french_zip_code": "Ungültiges Format",
+          "invalid_phone_number": "Ungültiges Format",
+          "unknown_error": "Ein Fehler ist aufgetreten"
+        },
+        "suggestingAddress": {
+          "title": "Adressprüfung",
+          "notification": "Wir haben einen möglichen Fehler bei der Eingabe Ihrer Adresse festgestellt. Bitte bestätigen Sie Ihre Auswahl.",
+          "addressGiven": "Eingegebene Adresse",
+          "suggestedAddress": "Vorgeschlagene Adresse",
+          "saveAddress": "Diese Adresse speichern",
+          "cancel": "Meine Adresse ändern"
+        }
+      },
+      "deliveryMode": {
+        "backButton": "Meinen Liefermodus ändern",
+        "formLabelTitle": "Gemeinsam oder getrennt liefern?",
+        "formLabelDescription": "Die Produkte dieser Bestellung haben unterschiedliche Liefertermine.",
+        "formLabelTooltip": "Kostenlos ab 100 € Einkaufswert in mehr als 6000 Mondial Relay Paketshops. Nur in Frankreichs Festland gültig",
+        "groupOption": {
+          "title": "Gemeinsame Lieferung",
+          "description": "Ihre Bestellung wird versendet, sobald alle Artikel bereit sind. Erhalten Sie alle Produkte ab dem {deliveryDate}."
+        },
+        "splitOption": {
+          "title": "Getrennte Lieferung",
+          "description": "Erhalten Sie Ihre lieferbaren Produkte {firstDeliveryWindow, select, tomorrow {bereits morgen} soon {ab {firstDeliveryDate}} other {am {firstDeliveryDate}}} in einer ersten Sendung und ein zweites Paket mit dem Rest ab {nextDeliveryWindow, select, soon {dem {nextDeliveryDate}} other {dem {nextDeliveryDate}}}."
+        },
+        "offered": "Kostenlos",
+        "priceFrom": "ab {price}",
+        "consciousChoice": "Die bewusste Wahl",
+        "deliveryCharges": "Versandkosten: ",
+        "deliveryChargesCount": "Versandkosten Nr. {count}: ",
+        "unknownError": "Ein Fehler ist aufgetreten"
+      },
+      "bikeAssemblyPack": {
+        "detailsButtonLabel": "Details ansehen",
+        "assemblyModal": {
+          "packServicesTitle": "Unsere Servicepakete",
+          "close": "Schließen",
+          "partialOrTotalAssemblyQuestion": "Teilmontage oder 100 %, was bedeutet das?"
+        },
+        "packServicesTable": {
+          "serenityPack": "Serenity-Paket",
+          "confortPack": "Comfort-Paket",
+          "expressDelivery": "Express-Lieferung",
+          "bikeAssembly": "Fahrrad zu 100 % montiert<sup>(1)</sup>",
+          "expertAccess": "Bevorzugter Zugang zu unseren Experten",
+          "bikeMarking": "Fahrradkennzeichnung",
+          "bikeMaintenance": "Fahrradinspektion in Alltricks-Stores",
+          "additionnalMaintenance": "Zusätzliche Arbeitszeit (2h)<sup>(2)</sup>",
+          "oneYear": "1 Jahr",
+          "threeMonths": "3 Monate",
+          "goldService": "3 Inspektionen „Gold“<sup>(2)</sup>",
+          "bronzeService": "1 Bronze-Inspektion<sup>(3)</sup>",
+          "details": {
+            "one": "(1) Fahrrad vollständig montiert, geprüft und von unseren erfahrenen Mechanikern eingestellt. Um die ökologische Belastung des Transports zu reduzieren, haben wir das Vorderrad und die Pedale Ihres Fahrrads demontiert. Der verwendete Karton ist dadurch leichter und weniger voluminös. Sie müssen sie nur noch wieder montieren und Ihr neues Fahrrad genießen. Wir empfehlen Ihnen, die Sattelhöhe sowie den Druck der Reifen und Federungen nach Ihren Vorlieben anzupassen.",
+            "two": "(2) Innerhalb von 2 Jahren nach dem Kauf des Fahrrads.",
+            "three": "(3) Innerhalb von 3 Monaten nach dem Fahrradkauf. Die Inspektionen sind nur in einem unserer Alltricks-Geschäfte gültig. Finden Sie die Informationen zu den Details der Bronze- und Gold-Inspektionen hier: <link>www.alltricks.fr/surl/l-atelier</link>"
+          },
+          "includedLabel": "Inklusive",
+          "excludedLabel": "Exklusive"
+        },
+        "basicServicesTable": {
+          "partialAssembly": "Teilmontage",
+          "totalAssembly": "100 % Montage",
+          "totalAssemblySup": "100 % Montage<sup>(1)</sup>",
+          "delivery": "Lieferung",
+          "storeCollect": "Abholung im Geschäft",
+          "assembledBike": "Vorab montiertes Fahrrad",
+          "preset": "Voreinstellungen für Antrieb, Bremsen, Lenkung<sup>(2)</sup>",
+          "transmission": "Einstellung des Antriebs",
+          "brake": "Einstellung der Bremsen",
+          "steering": "Montage des Cockpits",
+          "wheel": "Reifendruck",
+          "saddle": "Sattelhöhe, Montage der Pedale",
+          "frontWheel": "Montage des Vorderrads",
+          "details": "(1) Fahrrad vollständig montiert, geprüft und von unseren erfahrenen Mechanikern eingestellt. Um die ökologische Belastung des Transports zu verringern, haben wir das Vorderrad und die Pedale Ihres Fahrrads demontiert. Die verwendete Verpackung ist dadurch leichter und weniger voluminös. Sie müssen es nur noch wieder montieren und Ihr neues Fahrrad genießen. Wir empfehlen Ihnen, die Sattelhöhe sowie den Druck der Reifen und Federungen Ihren Vorlieben entsprechend anzupassen.",
+          "includedLabel": "Enthalten",
+          "excludedLabel": "Nicht enthalten"
+        },
+        "partialAssembly": {
+          "title": "Fahrrad teilweise montiert",
+          "items": {
+            "note": "Für die Fahrt sind noch einige Montageschritte erforderlich"
+          }
+        },
+        "fullAssembly": {
+          "title": "Fahrrad zu 100 % montiert",
+          "items": {
+            "note": "Montiert, geprüft und von unseren erfahrenen Mechanikern eingestellt"
+          }
+        },
+        "confort": {
+          "title": "Komfort-Paket inklusive",
+          "items": {
+            "assembly": "Fahrrad zu 100 % montiert",
+            "service": "1. Inspektion kostenlos im Alltricks-Shop",
+            "access": "Bevorzugter Zugang zu unseren Experten für 3 Monate",
+            "tagging": "Kennzeichnung kostenlos"
+          }
+        },
+        "serenity": {
+          "title": "Sorglos-Paket inklusive",
+          "items": {
+            "shipping": "Expressversand",
+            "assembly": "Fahrrad zu 100 % montiert",
+            "service": "3 Inspektionen + 2 Std. Arbeitszeit 2 Jahre lang kostenlos",
+            "access": "Bevorzugter Zugang zu unseren Experten für 1 Jahr",
+            "tagging": "Kennzeichnung kostenlos"
+          }
+        },
+        "storeChateaudun": {
+          "storeChateaudunNotification": "Ihre Bestellung ist innerhalb von 24 bis 48 Werktunden im Lager verfügbar. Sie erhalten eine SMS und eine E-Mail, sobald sie zur Abholung bereit ist. Das Paket bleibt 10 Tage für Sie reserviert."
+        }
+      },
+      "openingHours": {
+        "label": "Öffnungszeiten",
+        "closed": "Geschlossen",
+        "monday": "Montag",
+        "tuesday": "Dienstag",
+        "wednesday": "Mittwoch",
+        "thursday": "Donnerstag",
+        "friday": "Freitag",
+        "saturday": "Samstag",
+        "sunday": "Sonntag"
+      },
+      "relayFinder": {
+        "listView": "Listenansicht",
+        "mapView": "Kartenansicht",
+        "showList": "Liste anzeigen",
+        "seeMap": "Kartenansicht",
+        "unknownError": "Unbekannter Fehler",
+        "searchButtonLabel": "Suchen",
+        "searchPlaceholder": "Stadt oder Postleitzahl",
+        "relayLoadingError": "Beim Laden der Abholstellen ist ein Fehler aufgetreten. Bitte laden Sie die Seite neu oder starten Sie eine neue Suche.",
+        "enableGeolocation": "Wir konnten nicht auf Ihren Standort zugreifen. Sie können die Geolokalisierung in den Einstellungen Ihres Browsers aktivieren, um diese Funktion zu nutzen.",
+        "geolocationError": "Wir konnten Ihren Standort nicht bestimmen. Dies kann an einem schwachen GPS-Signal oder einem Verbindungsproblem liegen. Bitte versuchen Sie es erneut.",
+        "locateMe": "Meinen Standort anzeigen",
+        "chooseThisStore": "Dieses Geschäft auswählen",
+        "chooseThisRelay": "Diesen Point Relais® auswählen",
+        "chooseYourStore": "Wählen Sie Ihr Geschäft",
+        "chooseYourRelay": "Wählen Sie Ihren Point Relais®",
+        "closeModalLabel": "Schließen",
+        "searchZone": "In diesem Bereich suchen",
+        "myLocation": "Mein Standort",
+        "searchbarLabel": "Suchleiste",
+        "clearButtonLabel": "Löschen",
+        "searchResultsLabel": "Suchergebnisse",
+        "noResultsFound": "Keine Ergebnisse",
+        "noRelayFound": {
+          "title": "Für diese Suche wurde kein Point Relais® gefunden",
+          "description": "Bitte versuchen Sie es mit einer anderen Adresse erneut"
+        },
+        "noStoreFound": {
+          "title": "Für diese Suche wurde kein Geschäft gefunden",
+          "description": "Bitte versuchen Sie es mit einer anderen Adresse erneut"
+        },
+        "relayListLabel": "Liste der Abholstellen",
+        "currentSelectedRelay": "Ausgewählter Point Relais®",
+        "currentSelectedStore": "Ausgewähltes Geschäft",
+        "seeMoreShops": "Weitere Geschäfte ansehen"
+      }
+    },
+    "confirmation": {
+      "orderSummary": {
+        "title": "Zusammenfassung",
+        "order": "Bestellung",
+        "orderReference": "Nr. {reference}",
+        "totalAmount": "Gesamtbetrag",
+        "totalAmountTaxesIncluded": "{amount} inkl. MwSt.",
+        "trackOrder": "Meine Bestellung verfolgen"
+      },
+      "instructions": {
+        "title": "Meine Zahlung abschließen",
+        "cheque": {
+          "stepOne": "-Drucken Sie Ihre Bestellbestätigungs-E-Mail aus, um sie Ihrem Scheck beizulegen,",
+          "stepTwo": "-Tragen Sie den Vermerk zugunsten von AVANIS ein,",
+          "stepThree": "-Notieren Sie Ihre Bestellnummer auf der Rückseite des Schecks,",
+          "stepFour": "-Senden Sie Ihren Scheck an die folgende Adresse:",
+          "chequeReceived": "Sobald Ihr Scheck eingegangen ist, wird unser Team alles daransetzen, Ihre Bestellung so schnell wie möglich zu liefern."
+        },
+        "bankTransfer": {
+          "stepOne": "Bitte überweisen Sie mit den untenstehenden Bankdaten:",
+          "accountHolder": "Kontoinhaber: HiPay SAS",
+          "iban": "IBAN: {iban}",
+          "bic": "BIC: {bic}",
+          "totalAmount": "Betrag: {totalAmount}",
+          "transferReassure": "Hipay SAS ist einer unserer Zahlungsdienstleister. Ihre Zahlung ist sicher und korrekt an Alltricks adressiert.",
+          "transferReceived": "Sobald Ihre Banküberweisung eingegangen ist, wird unser Team alles daransetzen, Ihre Bestellung so schnell wie möglich zu liefern."
+        },
+        "byCheque": "Zahlung per Scheck",
+        "byBankTransfer": "Zahlung per Banküberweisung",
+        "order": "Bestellung",
+        "orderReference": "Nr. {reference}",
+        "totalAmount": "Gesamtbetrag",
+        "contactUs": "Kontaktieren Sie uns",
+        "accessAccount": "Mein Konto",
+        "totalAmountTaxesIncluded": "{amount} inkl. MwSt."
+      },
+      "confirmationStatus": {
+        "title": {
+          "success": "Bestellung bestätigt",
+          "warning": "Bestellung bestätigt, Zahlung ausstehend",
+          "cancelled": "Ihre Bestellung wurde nicht abgeschlossen",
+          "refused": "Ihre Zahlung wurde nicht abgeschlossen",
+          "unfinished": "Ihre Bestellung wurde nicht abgeschlossen"
+        },
+        "message": {
+          "success": "Vielen Dank für Ihr Vertrauen! Das Alltricks-Team setzt alles daran, Ihre Bestellung so schnell wie möglich vorzubereiten.",
+          "warning": "Vielen Dank für Ihr Vertrauen! Sobald Ihre Zahlung eingegangen ist, wird das Alltricks-Team alles daran setzen, Ihre Bestellung so schnell wie möglich vorzubereiten.",
+          "cancelled": "Seien Sie unbesorgt, Ihnen wird nichts abgebucht. Hier sind einige Tipps, um Ihre Bestellung abzuschließen:",
+          "refused": "Seien Sie unbesorgt, Ihnen wird nichts abgebucht. Hier sind einige Tipps, um Ihre Bestellung abzuschließen:",
+          "unfinished": "Seien Sie unbesorgt, Ihnen wird nichts abgebucht. Hier sind einige Tipps, um Ihre Bestellung abzuschließen:"
+        },
+        "actionMessage": {
+          "cancelled": {
+            "backToPaymentStep": "Gehen Sie zurück zum Zahlungsschritt und versuchen Sie es erneut,",
+            "tryAnotherMethod": "Versuchen Sie eine andere Methode (Überweisung, Ratenzahlung …),",
+            "ifProblemPersists": "Wenn das Problem weiterhin besteht, keine Sorge, unser Team ist bereits dran, kommen Sie in ein paar Minuten wieder."
+          },
+          "refused": {
+            "checkCardDetails": "Überprüfen Sie Ihre Kartendaten und die Authentifizierungsschritte,",
+            "tryAnotherMethod": "Versuchen Sie eine andere Methode (Überweisung, Ratenzahlung …),",
+            "contactBank": "Kontaktieren Sie bei Bedarf Ihre Bank."
+          },
+          "finalize": "Im Falle eines Bedienungsfehlers (falsche Eingabe der Zahlungsmethode, Zahlungslimit usw.) bitten wir Sie, Ihre Bestellung erneut aufzurufen und abzuschließen.",
+          "unfinished": {
+            "backToPaymentStep": "Gehen Sie zurück zum Zahlungsschritt und versuchen Sie es erneut,",
+            "tryAnotherMethod": "Versuchen Sie eine andere Methode (Überweisung, Ratenzahlung …),",
+            "ifProblemPersists": "Wenn das Problem weiterhin besteht, keine Sorge, unser Team ist bereits dran, kommen Sie in ein paar Minuten wieder."
+          }
+        },
+        "actionButton": {
+          "finalizeOrder": "Zurück zum Zahlungsschritt"
+        }
+      },
+      "packageCard": {
+        "packageNumber": "Paket {current}/{total}",
+        "shippedBy": "Versendet von",
+        "sentBy": "Gesendet von",
+        "storeCollect": "Abholung im Geschäft",
+        "email": "E-Mail",
+        "deliveryAddress": "Lieferadresse",
+        "sentByEmail": "Per E-Mail gesendet",
+        "deliveryDate": "Lieferdatum",
+        "deliveryDateWaitingPayment": "Ihr Lieferdatum wird Ihnen nach Eingang Ihrer Zahlung mitgeteilt.",
+        "deliveryInterval": "Lieferung zwischen dem <strong>{from}</strong> und dem <strong>{to}</strong>",
+        "deliveryFrom": "Versand ab dem <strong>{from}</strong>",
+        "receptionDate": "Empfangsdatum",
+        "receptionFrom": "Eingang am <strong>{from}</strong>",
+        "refurbishedName": "Zustand",
+        "refurbishedValue": "Generalüberholt",
+        "mailAlt": "E-Mail-Illustration",
+        "truckAlt": "Versand-Illustration"
+      },
+      "unknownError": "Ein Fehler ist aufgetreten"
+    },
+    "payment": {
+      "title": "<strong>Zahlungsart</strong>",
+      "paymentOption": {
+        "unavailable": "Indisponible",
+        "other": {
+          "groupLabel": "Choix d'un autre moyen de paiement",
+          "label": "Autres moyens de paiement",
+          "alert": {
+            "title": "Le traitement de votre commande se fera à réception de votre paiement",
+            "description": "Sous réserve de la disponibilité des produits. Pour accélérer la préparation de votre commande, nous vous conseillons de privilégier un paiement par carte bancaire ou Paypal"
+          },
+          "methods": {
+            "cheque": {
+              "description": "Pour finaliser votre commande, vous serez invité à nous envoyer un chèque aux coordonnées indiquées sur votre confirmation de commande.",
+              "title": "Paiement par chèque bancaire"
+            },
+            "virement_via_hipay": {
+              "description": "Pour finaliser votre commande, vous serez invité à nous faire parvenir un virement bancaire aux coordonnées indiquées sur votre confirmation de commande.",
+              "title": "Paiement par virement bancaire"
+            }
+          },
+          "submit": "Payer {finalPrice}"
+        },
+        "discount": {
+          "label": "Chèque cadeau",
+          "instructions": "Veuillez entrer le code de votre chèque cadeau ci-dessous. Une fois validé, la valeur sera automatiquement déduite de votre montant total. Vous pouvez ajouter plusieurs chèques cadeau.",
+          "infoTitle": "Bon à savoir",
+          "infoDescription": "Les chèques cadeaux sont disponibles uniquement sur les commandes vendues et expédiées par Alltricks (hors vendeurs partenaires). Si votre chèque cadeau dépasse le montant de la commande, seul ce dernier sera déduit ; le reste sera crédité pour un futur achat.",
+          "discountCode": "Code promo",
+          "enterCode": "Saisir un code",
+          "delete": "Retirer le chèque cadeau",
+          "amountUsed": "Montant utilisé : {amount}",
+          "giftCard": "Chèque cadeau : {code}",
+          "remainingAmount": "Montant restant : {amount}",
+          "eligibleAmount": "Montant éligible : {amount}",
+          "submit": "Valider",
+          "codeSuccess": "Le code promo {code} a bien été appliqué à votre panier.",
+          "codeInvalid": "Le code promo {code} n'existe pas. Réessayez.",
+          "postError": {
+            "already_used_on_this_command": "Vous avez déjà utilisé ce chèque cadeau sur cette commande.",
+            "amount_limit_reached": "Vous ne pouvez pas dépasser 5000 € d'achat",
+            "bicycle_limit_reached": "Vous êtes limités à 2 vélos par an",
+            "blocked_by_canceled_order": "Le chèque cadeau que vous cherchez à utiliser a été bloqué momentanément. Merci de contacter notre service client par téléphone au 01 30 48 90 07 (du lundi au vendredi 9h à 19h et le samedi de 10h à 19h) ou via la rubrique https://www.alltricks.fr/contact",
+            "cart_amount_to_small": "Le montant minimum de {amount} de ce chèque cadeau n'est pas atteint.",
+            "discount_expired": "Ce chèque cadeau n'est pas existant ou n'est plus valable.",
+            "empty_cart": "Impossible d'utiliser un chèque cadeau sur un panier vide.",
+            "max_of_used_limit": "Ce chèque cadeau n'est pas existant ou n'est plus valable.",
+            "not_activated": "Le chèque cadeau sélectionné n'a pas été associé à la commande courante.",
+            "not_alltricks_order": "Le chèque cadeau ne peut être utilisé sur une commande composée exclusivement de produits non-vendus par Alltricks.",
+            "not_available": "Le chèque cadeau sélectionné est déjà utilisé dans une commande.",
+            "not_compatible": "Le contenu de votre panier ne correspond pas aux restrictions de ce chèque cadeau.",
+            "not_found": "Le chèque cadeau {code} n'existe pas. Réessayez.",
+            "not_usable": "Le chèque cadeau sélectionné n'est pas utilisable.",
+            "not_voucher_proprietary": "Vous n'êtes pas le propriétaire du chèque cadeau sélectionné.",
+            "promo_club_ineligible": "Dieser Code gilt nur für den empfohlenen Preis der berechtigten Artikel. Daher sind Produkte, die bereits standardmäßig von einem höheren Rabatt als dem Club/CSE/Association-Rabatt profitieren, nicht für den Rabatt berechtigt.",
+            "user_not_compatible": "Dieser Geschenkgutschein existiert nicht, ist nicht mehr gültig oder erfordert Ihre Identifikation.",
+            "limit_reached_per_user": "Sie haben das Nutzungslimit für diesen Code erreicht.",
+            "unknownError": "Ein Fehler ist aufgetreten"
+          },
+          "unknownError": "Ein Fehler ist aufgetreten",
+          "unavailableTooltip": "Geschenkgutscheine sind nur für Artikel verfügbar, die von Alltricks verkauft und versendet werden (ausgenommen Partnerverkäufer)."
+        },
+        "instalment": {
+          "methods": {
+            "oney_x3_hipay": {
+              "title": "Oney - Zahlung in 3 Raten ohne Gebühren",
+              "monthlyInstalments": "Monatsrate: 3 x {monthlyAmount}"
+            },
+            "oney_x4_hipay": {
+              "title": "Oney - Zahlung in 4 Raten ohne Gebühren",
+              "monthlyInstalments": "Monatsrate: 4 x {monthlyAmount}"
+            }
+          },
+          "taegAndFee": "Fester effektiver Jahreszins: {tae} also, Kosten: {feeAmount}",
+          "totalChargesIncluded": "Gesamtbetrag (inkl. Gebühren): {totalAmount}",
+          "feeAmount": "Kosten: {feeAmount}",
+          "readMore": "Mehr erfahren",
+          "close": "Schließen"
+        },
+        "instalmentCredit": {
+          "methods": {
+            "oney_x10_hipay": {
+              "title": "Oney - Finanzierung in 10 Raten",
+              "monthlyInstalments": "Monatsrate: {installmentCount} x {monthlyAmount}"
+            }
+          },
+          "depositAmount": "Anzahlung erforderlich: {depositAmount}",
+          "depositAmountMore": "+ Erforderliche Anzahlung von {depositAmount}",
+          "monthlyAmount": "{installmentCount} x {monthlyAmount}",
+          "taegAndFee": "Fester effektiver Jahreszins: {tae} also, Kosten: {feeAmount}",
+          "totalChargesIncluded": "Gesamtbetrag (inkl. Gebühren): {totalAmount}",
+          "readMore": "Mehr erfahren",
+          "disclaimer": "Ein Kredit verpflichtet Sie und muss zurückgezahlt werden.<br></br>Prüfen Sie Ihre Rückzahlungsfähigkeit, bevor Sie sich verpflichten",
+          "close": "Schließen"
+        },
+        "deffered": {
+          "label": "Zahlung per Überweisung mit Zahlungsaufschub",
+          "instructions": "Sofortige Bearbeitung meiner Bestellung. Zahlung per Überweisung innerhalb von 30 Tagen."
+        },
+        "paypal": {
+          "label": "PayPal",
+          "instructions": "Wenn Sie diese Zahlungsmethode wählen, werden Sie auf den sicheren Server von PayPal weitergeleitet, um sich in Ihr Konto einzuloggen. Ihre Bestellung wird bestätigt, sobald Ihre Zahlung auf der PayPal-Website validiert wurde."
+        },
+        "purse": {
+          "label": "Zahlung mit purse",
+          "submit": "{finalPrice} bezahlen"
+        },
+        "hipay": {
+          "label": "Kreditkarte",
+          "submit": "{finalPrice} bezahlen",
+          "securePayment": "100 % sichere Zahlung",
+          "cardHolderLabel": "Karteninhaber",
+          "cardExpirationDateLabel": "Ablaufdatum",
+          "widget": {
+            "carousel-empty": "Kein Zahlungsmittel verfügbar",
+            "placeholder-cardHolder": "NAME Vorname",
+            "placeholder-cardNumber": "XXXX-XXXX-XXXX-XXXX",
+            "placeholder-expiryDate": "MM/AA",
+            "placeholder-issuer_bank_id": "ABCDEFAA123",
+            "placeholder-iban": "GB00 AAAA 0000 0000 0000 00",
+            "placeholder-firstname": "Vorname",
+            "placeholder-lastname": "Nachname",
+            "placeholder-bank_name": "Name der Bank",
+            "placeholder-cpf": "111.222.333-44",
+            "placeholder-curp": "AABB801118MBSYAA11",
+            "placeholder-company": "Unternehmen",
+            "cvc-message": "Der Kartenprüfcode (CVC) ist ein 3-stelliger Sicherheitscode, der sich normalerweise auf der Rückseite der Bankkarte befindet. Bei American-Express-Karten handelt es sich um einen 4-stelligen Code auf der Vorderseite der Karte.",
+            "ERROR_CARD_HOLDER_ALPHANUMERICAL": "Der Karteninhaber muss alphanumerisch sein.",
+            "ERROR_CARD_HOLDER_MAX_LENGTH": "Die maximale Länge des Karteninhabers wurde überschritten.",
+            "ERROR_CARD_HOLDER_MAX_DIGITS": "Der Karteninhaber darf nicht mehr als 8 Ziffern enthalten.",
+            "ERROR_CARD_HOLDER_INVALID": "Der Karteninhaber ist ungültig.",
+            "ERROR_CARD_NUMBER_INVALID": "Die Kartennummer ist ungültig.",
+            "ERROR_CARD_BRAND_NOT_ALLOWED": "Der Kartentyp ist nicht zulässig.",
+            "ERROR_EXPIRY_DATE_INVALID_FORMAT": "Das Format des Ablaufdatums ist ungültig.",
+            "ERROR_EXPIRY_DATE_PAST_DATE": "Das Ablaufdatum darf nicht in der Vergangenheit liegen.",
+            "ERROR_EXPIRY_DATE_INVALID": "Das Ablaufdatum ist ungültig.",
+            "ERROR_EXPIRY_MONTH_INVALID_FORMAT": "Das Format des Ablaufmonats ist ungültig.",
+            "ERROR_EXPIRY_MONTH_LENGTH_MAX": "Die maximale Länge des Ablaufmonats wurde überschritten.",
+            "ERROR_EXPIRY_MONTH_INVALID": "Der Ablaufmonat ist ungültig.",
+            "ERROR_EXPIRY_YEAR_INVALID_FORMAT": "Das Format des Ablaufjahres ist ungültig.",
+            "ERROR_EXPIRY_YEAR_LENGTH_MAX": "Die maximale Länge des Ablaufjahres wurde überschritten.",
+            "ERROR_EXPIRY_YEAR_PAST_DATE": "Das Ablaufjahr darf nicht in der Vergangenheit liegen.",
+            "ERROR_EXPIRY_YEAR_INVALID": "Das Ablaufjahr ist ungültig.",
+            "ERROR_CARD_CVC_FORMAT": "Das Format des CVC ist ungültig.",
+            "ERROR_CARD_CVC_MAX_LENGTH": "Die maximale Länge des CVC wurde überschritten.",
+            "ERROR_CARD_CVC_INVALID": "Der CVC ist ungültig.",
+            "ERROR_CARD_HOLDER_MISSING": "Der Karteninhaber fehlt.",
+            "ERROR_CARD_NUMBER_MISSING": "Die Kartennummer fehlt.",
+            "ERROR_EXPIRY_DATE_MISSING": "Das Ablaufdatum fehlt.",
+            "ERROR_CARD_CVC_MISSING": "Der CVC fehlt.",
+            "ERROR_CARD_TOKENIZATION": "Bei der Tokenisierung ist ein Fehler aufgetreten.",
+            "ERROR_BIC_FORMAT": "Das Format des BIC ist ungültig.",
+            "ERROR_BIC_MAX_LENGTH": "Die maximale Länge des BIC wurde überschritten.",
+            "ERROR_BIC_INVALID": "Der BIC ist ungültig.",
+            "ERROR_IBAN_FORMAT": "Das Format der IBAN ist ungültig.",
+            "ERROR_IBAN_NOT_ALPHANUMERICAL": "Die IBAN muss alphanumerisch sein.",
+            "ERROR_IBAN_INVALID": "Die IBAN ist ungültig.",
+            "ERROR_IBAN_INVALID_COUNTRY_CODE": "Der Ländercode der IBAN ist ungültig.",
+            "ERROR_IBAN_MAX_LENGTH": "Die maximale Länge der IBAN ist überschritten.",
+            "label-cardHolder": "Karteninhaber",
+            "label-cardNumber": "Kartennummer",
+            "label-expiryDate": "Ablaufdatum",
+            "label-cvc": "Sicherheitscode (CVC)",
+            "label-issuer_bank_id": "BIC",
+            "label-iban": "IBAN",
+            "label-firstname": "Vorname",
+            "label-lastname": "Nachname",
+            "label-bank_name": "Name der Bank",
+            "label-gender": "Geschlecht",
+            "label-cpf": "CPF",
+            "label-curp": "CURP/CPN",
+            "label-gender-M": "Mann",
+            "label-gender-F": "Frau",
+            "label-gender-U": "Unbekannt",
+            "label-client_type": "Kundentyp",
+            "label-client_type-B2B": "Unternehmen",
+            "label-client_type-B2C": "Privatkunde",
+            "label-company": "Unternehmen",
+            "label-company_type": "Unternehmensform",
+            "label-company_type-SA": "SA",
+            "label-company_type-SAS": "SAS",
+            "label-company_type-SARL": "SARL",
+            "label-company_type-EURL": "EURL",
+            "label-company_type-SELARL": "SELARL",
+            "label-company_type-SASU": "SASU",
+            "label-company_type-SNC": "SNC",
+            "label-company_type-SCP": "SCP",
+            "label-company_type-EI": "EI",
+            "label-company_type-EIRL": "EIRL",
+            "label-save-card": "Sicher und schnell: Meine Bankkarte für meine nächsten Bestellungen speichern.",
+            "label-pay-saved-card": "Gespeicherte Karten",
+            "ERROR_TEXT_FIELD_INVALID": "Das Textfeld ist ungültig.",
+            "ERROR_TEXT_FIELD_INVALID_CHARACTERS": "Das Textfeld enthält ungültige Zeichen.",
+            "ERROR_TEXT_FIELD_MAX_LENGTH": "Die maximale Länge des Textfelds ist überschritten.",
+            "ERROR_TEXT_FIELD_MAX_DIGITS": "Das Textfeld darf nicht mehr als 8 Ziffern enthalten.",
+            "ERROR_CPF_INVALID": "Der CPF ist ungültig.",
+            "ERROR_CPF_NUMERICAL": "Der CPF muss numerisch sein.",
+            "ERROR_CPF_MAX_LENGTH": "Die maximale Länge des CPF ist überschritten.",
+            "ERROR_CURP_INVALID": "Der CURP ist ungültig.",
+            "ERROR_CURP_ALPHANUMERICAL": "Der CURP muss alphanumerisch sein.",
+            "ERROR_CURP_MAX_LENGTH": "Die maximale Länge des CURP ist überschritten.",
+            "payment-means-redirection": "Sie werden auf eine externe Zahlungsseite weitergeleitet, um die Transaktion abzuschließen.",
+            "ERROR_BANK_NAME_MISSING": "Der Name der Bank fehlt.",
+            "ERROR_FIRSTNAME_MISSING": "Der Vorname fehlt.",
+            "ERROR_LASTNAME_MISSING": "Der Nachname fehlt.",
+            "ERROR_COMPANY_MISSING": "Der Firmenname fehlt.",
+            "ERROR_IBAN_MISSING": "Die IBAN fehlt.",
+            "ERROR_ISSUER_BANK_ID_MISSING": "Der BIC fehlt.",
+            "ERROR_NATIONAL_IDENTIFICATION_NUMBER_MISSING": "Die nationale Identifikationsnummer fehlt.",
+            "ERROR_OCCURED": "Ein Fehler ist aufgetreten."
+          }
+        },
+        "purseHeadless": {
+          "paymentButton": "Zahlen {finalPrice}",
+          "featureAlert": {
+            "button": "Purse aktivieren",
+            "title": "Zahlung mit Purse",
+            "description": "Die Zahlung mit Purse ist verfügbar, aber noch nicht aktiviert. Klicken Sie auf die Schaltfläche, um sie zu verwenden."
+          },
+          "sectionTitles": {
+            "hipayCreditCard": "Bankkarte",
+            "paypal": "PayPal",
+            "oney3x": "Per Bankkarte in 3 Raten ohne Gebühren zahlen",
+            "oney4x": "Per Bankkarte in 4 Raten ohne Gebühren zahlen",
+            "oney10x": "Per Bankkarte in 10 Raten zahlen"
+          },
+          "creditCardSection": {
+            "securePayment": "100 % sichere Zahlung",
+            "saveCreditCard": "Sicher und schnell: Meine Bankkarte für meine nächsten Bestellungen speichern.",
+            "cardDescription": {
+              "holderName": "Inhaber",
+              "expirationDate": "Ablaufdatum"
+            },
+            "payWithNewCard": "Mit neuer Karte zahlen",
+            "savedCards": "Gespeicherte Karten"
+          },
+          "oneySection": {
+            "installmentTitle": "Oney - Zahlung {count}x {hasFee, select, yes {} other {ohne Gebühren}}<sup>({note})</sup>",
+            "firstInstallmentAmount": "Zahlen Sie heute: ",
+            "additionalInstallmentAmount": "Zahlung in {days} Tagen: ",
+            "creditCostDetails": {
+              "withoutApcr": "Kosten: {amount}",
+              "withApcr": "Fester effektiver Jahreszins: {percent}% also Kosten: {amount}"
+            },
+            "totalAmount": "Gesamt {hasFee, select, yes {(Gebühren enthalten)} other {}}: {amount}",
+            "additionalInfoModal": {
+              "linkName": "Mehr erfahren",
+              "closeButton": "Schließen"
+            }
+          },
+          "unknownError": "Ein Fehler ist aufgetreten"
+        },
+        "purseHeadlessHostedForm": {
+          "birthdateCannotBeEmptyError": "Das Geburtsdatum darf nicht leer sein.",
+          "birthdateFormatError": "Das Geburtsdatum hat ein ungültiges Format.",
+          "birthdateInputLabel": "Geburtsdatum",
+          "birthdateOutOfRangeError": "Das Geburtsdatum liegt außerhalb des zulässigen Bereichs.",
+          "birthdatePlaceholder": "TT/MM/JJJJ",
+          "birthdateRequiredError": "Das Geburtsdatum fehlt.",
+          "consentInputLabel": "Einwilligung",
+          "consentRequiredError": "Die Einwilligung fehlt.",
+          "consentText": "Ich akzeptiere die Allgemeinen Geschäftsbedingungen",
+          "cvv4InputLabel": "Prüfcode (CVC)",
+          "cvv4Placeholder": "1234",
+          "cvvCannotBeEmptyError": "Der CVC darf nicht leer sein.",
+          "cvvFormatError": "Das CVC-Format ist ungültig.",
+          "cvvInputLabel": "Prüfcode (CVC)",
+          "cvvPlaceholder": "123",
+          "cvvRequiredError": "Der Prüfcode fehlt.",
+          "cvvTooltipText": "Der Sicherheitscode der Karte (CVC) ist ein 3-stelliger Sicherheitscode, der sich normalerweise auf der Rückseite der Bankkarte befindet. Bei American Express Karten handelt es sich um einen 4-stelligen Code auf der Vorderseite der Karte.",
+          "emailCannotBeEmptyError": "Die E-Mail-Adresse darf nicht leer sein.",
+          "emailFormatError": "Das Format der E-Mail-Adresse ist ungültig.",
+          "emailInputLabel": "E-Mail-Adresse",
+          "emailPlaceholder": "beispiel@email.com",
+          "emailRequiredError": "Die E-Mail-Adresse fehlt.",
+          "expirationCannotBeEmptyError": "Das Ablaufdatum darf nicht leer sein.",
+          "expirationFormatError": "Das Ablaufdatum ist ungültig.",
+          "expirationInputLabel": "Ablaufdatum",
+          "expirationOutOfRangeError": "Das Ablaufdatum liegt außerhalb des zulässigen Bereichs.",
+          "expirationPlaceholder": "MM/AA",
+          "expirationRequiredError": "Das Ablaufdatum fehlt.",
+          "expirationTooltipText": "Das Ablaufdatum ist auf der Vorderseite Ihrer Bankkarte im Format MM/AA angegeben.",
+          "explicitBrandText": "Bankkarte",
+          "holderCannotBeEmptyError": "Der Karteninhaber darf nicht leer sein.",
+          "holderFormatError": "Der Karteninhaber ist ungültig.",
+          "holderInputLabel": "Karteninhaber",
+          "holderPlaceholder": "NAME Vorname",
+          "holderRequiredError": "Der Karteninhaber fehlt.",
+          "ibanCannotBeEmptyError": "Die IBAN darf nicht leer sein.",
+          "ibanFormatError": "Das IBAN-Format ist ungültig.",
+          "ibanInputLabel": "IBAN",
+          "ibanPlaceholder": "FR76 XXXX XXXX XXXX XXXX XXXX XXX",
+          "ibanRequiredError": "Die IBAN fehlt.",
+          "panCannotBeEmptyError": "Die Kartennummer darf nicht leer sein.",
+          "panFormatError": "Die Kartennummer ist ungültig.",
+          "panInputLabel": "Kartennummer",
+          "panPlaceholder": "XXXX-XXXX-XXXX-XXXX",
+          "panRequiredError": "Die Kartennummer fehlt.",
+          "panTooltipText": "Die Bankkartennummer befindet sich auf der Vorderseite Ihrer Karte.",
+          "phoneCannotBeEmptyError": "Die Telefonnummer darf nicht leer sein.",
+          "phoneFormatError": "Das Format der Telefonnummer ist ungültig.",
+          "phoneInputLabel": "Telefonnummer",
+          "phonePlaceholder": "+33 X XX XX XX XX",
+          "phoneRequiredError": "Die Telefonnummer fehlt."
+        },
+        "oney": {
+          "groupLabel": "Auswahl der Oney-Zahlungsart",
+          "label": "Per Kreditkarte in 3 oder 4 Raten ohne Gebühren bezahlen",
+          "legalsTitle": "Rechtliche Hinweise Oney 3x, 4x und 10x",
+          "submit": "{finalPrice} bezahlen",
+          "oneyUnavailable": "Die ausgewählte Zahlungsmethode ist derzeit nicht verfügbar. Bitte versuchen Sie es später erneut.",
+          "unknownError": "Ein Fehler ist aufgetreten"
+        },
+        "oneyCredit": {
+          "groupLabel": "Auswahl der Oney 10x Zahlungsart",
+          "label": "Finanzierung per Kreditkarte in 10 Raten",
+          "legalsTitle": "Rechtliche Hinweise Oney 3x, 4x und 10x"
+        },
+        "voucher": {
+          "label": "Guthaben",
+          "details": "Guthaben-Details",
+          "instructions": "Sie können unten ein oder mehrere verfügbare Guthaben auswählen. Sie werden automatisch von Ihrem Gesamtbetrag abgezogen.",
+          "add": "Dieses Guthaben verwenden",
+          "delete": "Guthaben entfernen",
+          "amountAvailable": "Verfügbarer Betrag : {amount}",
+          "amountAvailableModal": "Betrag : {amount}",
+          "amountUsed": "Verwendeter Betrag : {amount}",
+          "codeLabel": "Guthabencode : {code}",
+          "remainingAmount": "Verbleibender Betrag : {amount}",
+          "eligibleAmount": "Berechtigter Betrag : {amount}",
+          "alert": {
+            "title": "Gut zu wissen",
+            "description": "Guthaben sind nur für Bestellungen verfügbar, die von Alltricks verkauft und versendet werden (ausgenommen Partnerverkäufer). Wenn Ihr Guthaben den Bestellbetrag übersteigt, wird nur dieser Betrag abgezogen; der Rest wird für einen zukünftigen Einkauf gutgeschrieben."
+          },
+          "creditNoteDetails": {
+            "title": "Guthaben-Details",
+            "closeButton": "Schließen"
+          },
+          "postError": {
+            "unknownError": "Ein Fehler ist aufgetreten"
+          },
+          "unavailableTooltip": "Guthaben sind nur für Artikel verfügbar, die von Alltricks verkauft und versendet werden (ausgenommen Partnerverkäufer)."
+        },
+        "cashback": {
+          "title": "Alltricks+ Guthaben",
+          "availableAmount": "Betrag : {amount}",
+          "expirationDate": "Vor dem {date} verwenden",
+          "toggleLabel": "<strong>{amount} berechtigt</strong> für diese Bestellung",
+          "tooltip": "Mit Alltricks+ generieren Sie Cashback auf Produkten, die als berechtigt gekennzeichnet sind. Das durch Ihre aktuelle Bestellung generierte Cashback wird beim Versand gutgeschrieben und kann bei Ihrer nächsten Bestellung verwendet werden. Das Cashback verfällt am Ende Ihres Alltricks+-Abonnements.",
+          "postError": {
+            "unknownError": "Ein Fehler ist aufgetreten"
+          },
+          "unavailable": "Nicht verfügbar",
+          "unavailableTooltip": "Die Alltricks+-Sparguthaben ist nur für Bestellungen verfügbar, die von Alltricks verkauft und versendet werden (Marketplace ausgeschlossen)."
+        },
+        "cgv": "Mit der Bestätigung meiner Bestellung erkenne ich an, dass ich die <link>Allgemeinen Geschäftsbedingungen</link> gelesen und akzeptiert habe.",
+        "unknownError": "Ein Fehler ist aufgetreten"
+      },
+      "cartSummary": {
+        "title": "<strong>Zusammenfassung</strong>",
+        "discountCode": "Gutscheincode {vat, select, vat_included {} other {(ohne MwSt.)}}",
+        "giftCardUsed": "Geschenkgutschein",
+        "voucherUsed": "Guthaben",
+        "cashbackUsed": "Alltricks+ Guthaben",
+        "submit": "Zahlen {finalPrice}",
+        "VAT": "MwSt."
+      },
+      "paymentAddress": {
+        "addressTitle": "Rechnungsadresse",
+        "chooseAddressButton": "Diese Adresse auswählen",
+        "saveAddress": "Speichern",
+        "listAddressesTitle": "Meine Rechnungsadressen",
+        "validateChanges": "Änderungen bestätigen",
+        "newAddressTitle": "Neue Adresse erstellen",
+        "chooseOtherAddressButton": "Eine andere Adresse auswählen",
+        "currentDeliveryAddress": "Ausgewählte Adresse",
+        "modifyAddressTitle": "Meine Adresse bearbeiten",
+        "modifyAddressLink": "Bearbeiten",
+        "addNewAddressButton": "Adresse hinzufügen",
+        "cancel": "Abbrechen",
+        "labels": {
+          "address": "Adresse",
+          "additional": "Adresszusatz",
+          "city": "Stadt",
+          "company": "Firma",
+          "country": "Land",
+          "name": "Name und Vorname",
+          "phone": "Mobiltelefon",
+          "state": "Bundesland",
+          "zipCode": "Postleitzahl",
+          "optional": "Optional"
+        },
+        "helperMessages": {
+          "phone": "Um eine optimale Lieferung und Sendungsverfolgung Ihrer Bestellung zu gewährleisten"
+        },
+        "placeholders": {
+          "address": "Geben Sie Ihre Adresse ein",
+          "additional": "Fügen Sie einen Zusatz zu Ihrer Adresse hinzu",
+          "city": "Geben Sie Ihre Stadt ein",
+          "company": "Geben Sie Ihre Firma ein",
+          "name": "Geben Sie Ihren Namen und Vornamen ein",
+          "phone": "06 00 00 00 00",
+          "zipCode": "Geben Sie Ihre Postleitzahl ein"
+        },
+        "postError": {
+          "address_already_exists": "Die Adresse existiert bereits",
+          "french_zip_code": "Ungültiges Format",
+          "invalid_phone_number": "Ungültiges Format",
+          "unknown_error": "Es ist ein Fehler aufgetreten"
+        }
+      },
+      "unknownError": "Es ist ein Fehler aufgetreten",
+      "getError": {
+        "forbidden_billing_country": {
+          "title": "Versicherung für Fahrradbruch und Diebstahl nicht verfügbar",
+          "description": "Die gewählte Versicherung ist nur für eine Rechnungsadresse in Frankreich verfügbar. <br></br>Um fortzufahren, können Sie: <ul><li>Die Rechnungsadresse ändern, indem Sie „Dieselbe Adresse wie für die Lieferung verwenden“ deaktivieren</li> <li>Oder die Versicherung entfernen, um Ihre Bestellung abzuschließen.</li></ul> <link>Die Beitrittsbedingungen ansehen</link>"
+        }
+      },
+      "removeServices": "Versicherung entfernen"
+    },
+    "notFound": {
+      "title": "Diese Seite existiert nicht",
+      "backButton": "Zurück zur Startseite"
+    },
+    "error": {
+      "title": "Ein Fehler ist aufgetreten",
+      "description": "Bitte versuchen Sie es später erneut"
+    }
+  },
+  "reassurance": {
+    "expert": {
+      "description": "Entdecken Sie unsere Online-Hilfe",
+      "heading": "Brauchen Sie\n einen Rat?"
+    },
+    "expressDelivery": {
+      "description": "Bei Bestellung\n vor {cutoff}",
+      "heading": "Morgen\n bei Ihnen zu Hause<sup>(2)</sup>"
+    },
+    "fastDelivery": {
+      "description": "Festgestellte Lieferzeiten: 24/72h",
+      "heading": "Lieferung\n Express"
+    },
+    "freeDelivery": {
+      "description": "Ab {freeDeliveryThreshold} Einkauf,\n Rückgaben ab {returnPrice}",
+      "heading": "Kostenlose\n Lieferung<sup>(1)</sup>"
+    },
+    "oney": {
+      "description": "Ohne Gebühren,\n per Kreditkarte",
+      "heading": "Zahlung in\n 3x oder 4x"
+    },
+    "paymentSecure": {
+      "description": "Ihre Einkäufe in\n aller Gelassenheit",
+      "heading": "Sichere\n Zahlung"
+    },
+    "staffSelection": {
+      "description": "Von unseren Experten ausgewählte Produkte",
+      "heading": "Zertifizierter\n Marktplatz"
+    }
+  },
+  "secondaryReassurance": {
+    "paymentHeading": "100% sichere Zahlung",
+    "helpHeading": "Brauchenz Sie\n Hilfe ?",
+    "helpContactButton": "Wir beantworten Ihre Fragen"
+  }
+}
