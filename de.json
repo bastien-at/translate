@@ -80,7 +80,7 @@
               "breakage": "Deckung bei Bruch",
               "claims": "Vereinfachte Online-Schadensabwicklung",
               "claimsYear": "Bis zu 2 Schadensfälle pro Jahr",
-              "compensation": "Entschädigung bis zu 9000€ ",
+              "compensation": "Entschädigung bis zu 9.000 € ",
               "depreciation": "Kein Wertverlust im 1. Jahr",
               "franchise": "Keine Selbstbeteiligung",
               "theft": "Diebstahldeckung (jegliche Ursache)"
@@ -158,22 +158,22 @@
         "scheduledDelivery": "Bei Ihnen <strong>ab dem {date}</strong>",
         "removeLabel": "Entfernen",
         "discountCodeTagDetails": "{discountCode} ({discountValue}) also: <strong>{finalPrice}</strong>",
-        "logisticOrderProductPrice": "{price} {vat, select, vat_included {} other {HT}}"
+        "logisticOrderProductPrice": "{price} {vat, select, vat_included {} other {zzgl. MwSt.}}"
       },
       "cartSummary": {
         "expand": "Öffnen",
         "minimize": "Schließen",
-        "cartLabel": "Warenkorb {vat, select, vat_included {} other {(HT)}} ({count})",
+        "cartLabel": "Warenkorb {vat, select, vat_included {} other {(zzgl. MwSt.)}} ({count})",
         "title": "<strong>Zusammenfassung</strong>",
-        "discountCode": "Gutscheincode {vat, select, vat_included {} other {(HT)}}",
-        "estimatedShippingPrice": "Geschätzte Versandkosten {vat, select, vat_included {} other {(HT)}}",
+        "discountCode": "Gutscheincode {vat, select, vat_included {} other {(zzgl. MwSt.)}}",
+        "estimatedShippingPrice": "Geschätzte Versandkosten {vat, select, vat_included {} other {(zzgl. MwSt.)}}",
         "buttonLabel": "Meine Lieferung auswählen",
         "meterLabel": "Nur noch {valueText}",
         "meterDetails": "um von <strong>kostenloser Lieferung</strong> zu profitieren",
-        "homeShippingLabel": "Versand {vat, select, vat_included {} other {(HT)}}",
-        "relayShippingLabel": "Paketshops® & Lockers® {vat, select, vat_included {} other {(HT)}}",
-        "storeShippingLabel": "Abholung im Geschäft {vat, select, vat_included {} other {(HT)}}",
-        "showroomShippingLabel": "Abholung im Lager {vat, select, vat_included {} other {(HT)}}",
+        "homeShippingLabel": "Versand {vat, select, vat_included {} other {(zzgl. MwSt.)}}",
+        "relayShippingLabel": "Paketshops® & Paketstationen {vat, select, vat_included {} other {(zzgl. MwSt.)}}",
+        "storeShippingLabel": "Abholung im Geschäft {vat, select, vat_included {} other {(zzgl. MwSt.)}}",
+        "showroomShippingLabel": "Abholung im Lager {vat, select, vat_included {} other {(zzgl. MwSt.)}}",
         "emailShippingLabel": "E-Mail",
         "shippingCount": "{count}/{total}",
         "deliveryCharges": "Versandkosten",
@@ -244,7 +244,7 @@
           "limit_reached_per_user": "Sie haben das Nutzungslimit für diesen Code erreicht.",
           "max_of_used_limit": "Dieser Rabattcode existiert nicht oder ist nicht mehr gültig.",
           "not_activated": "Der ausgewählte Rabatt wurde nicht mit der aktuellen Bestellung verknüpft.",
-          "not_alltricks_order": "Der ausgewählte Rabatt gilt nur für Artikel, die von Alltricks verkauft und versendet werden",
+          "not_alltricks_order": "Der ausgewählte Rabatt gilt nur für Produkte, die direkt von Alltricks verkauft und versendet werden",
           "not_available": "Ein Rabatt ist bereits mit Ihrem Warenkorb verknüpft.",
           "not_compatible": "Der Inhalt Ihres Warenkorbs entspricht nicht den Einschränkungen dieses Rabattcodes.",
           "not_compatible_staff": "Der Mitarbeiterrabatt gilt nicht für diesen Warenkorb, da kein Produkt berechtigt ist.",
@@ -253,9 +253,9 @@
           "not_voucher_proprietary": "Sie sind nicht der Eigentümer des ausgewählten Rabatts.",
           "promo_club_ineligible": "Dieser Code gilt nur für den empfohlenen Preis der berechtigten Artikel. Produkte, die bereits standardmäßig von einem höheren Rabatt als dem Club-/Betriebsrat-/Vereinsrabatt profitieren, sind daher nicht rabattberechtigt.",
           "user_not_compatible": "Dieser Rabattcode existiert nicht, ist nicht mehr gültig oder erfordert Ihre Identifikation.",
-          "unknownError": "Ein Fehler ist aufgetreten"
+          "unknownError": "Es ist ein Fehler aufgetreten"
         },
-        "unknownError": "Ein Fehler ist aufgetreten"
+        "unknownError": "Es ist ein Fehler aufgetreten"
       },
       "alertMultiplePackages": {
         "title": "Ihre Bestellung wird in mehreren Paketen geliefert.",
@@ -270,7 +270,7 @@
         "description": "Ihre Nummer scheint ungültig zu sein oder stimmt nicht mit dem Lieferland überein. Sie können dennoch bestellen, aber die Mehrwertsteuer wird bis zur Aktualisierung dieser Angaben berechnet.",
         "action": "Meine Informationen aktualisieren"
       },
-      "unknownError": "Ein Fehler ist aufgetreten",
+      "unknownError": "Es ist ein Fehler aufgetreten",
       "stockAlert": {
         "notificationButtonLabel": "Über Verfügbarkeit benachrichtigen",
         "notificationTitle": "Benachrichtigung zur Produktverfügbarkeit",
@@ -285,11 +285,11 @@
             "email": "Die E-Mail-Adresse ist nicht gültig"
           }
         },
-        "unknownError": "Ein Fehler ist aufgetreten"
+        "unknownError": "Es ist ein Fehler aufgetreten"
       },
       "insuranceForm": {
         "description": "Sie haben gerade eine Versicherung für Ihr Fahrrad hinzugefügt. Um Ihren Versicherungsvertrag abzuschließen, benötigen wir einige Angaben, die Sie unten eintragen müssen, sowie Ihre Bestätigung.",
-        "unknownError": "Ein Fehler ist aufgetreten",
+        "unknownError": "Es ist ein Fehler aufgetreten",
         "genderOptions": {
           "madam": "Frau",
           "mister": "Herr"
@@ -313,7 +313,7 @@
         },
         "primaryActions": {
           "close": "Schließen",
-          "submit": "Meine Angaben bestätigen"
+          "submit": "Angaben bestätigen"
         },
         "title": "Versicherung für Fahrradbruch und Diebstahl",
         "legalNotice": {
@@ -344,7 +344,7 @@
           "title": "Alltricks+-Allgemeine Geschäftsbedingungen",
           "closeButton": "Schließen"
         },
-        "unknownError": "Ein Fehler ist aufgetreten"
+        "unknownError": "Es ist ein Fehler aufgetreten"
       },
       "alltricksPlusPremiumFreeOffered": {
         "benefits": {
@@ -362,7 +362,7 @@
           "title": "Alltricks+ Allgemeine Bedingungen",
           "closeButton": "Schließen"
         },
-        "unknownError": "Ein Fehler ist aufgetreten"
+        "unknownError": "Es ist ein Fehler aufgetreten"
       },
       "AlltricksPlusFrozen": {
         "expiredBalance": "Ihr abgelaufenes Guthaben:",
@@ -376,11 +376,11 @@
           "title": "Alltricks+-Allgemeine Geschäftsbedingungen",
           "closeButton": "Schließen"
         },
-        "unknownError": "Ein Fehler ist aufgetreten"
+        "unknownError": "Es ist ein Fehler aufgetreten"
       }
     },
     "shipping": {
-      "unknownError": "Ein Fehler ist aufgetreten",
+      "unknownError": "Es ist ein Fehler aufgetreten",
       "stepTitle": "<strong>{totalCount, plural, =1 {Versand} other {Versand {currentCount}/{totalCount}}}</strong>",
       "nextStep": "Zur Kasse",
       "nextLogisticOrder": "Nächster Schritt",
@@ -394,7 +394,7 @@
         "description": "Aufgrund des Gewichts, des Werts oder der Art bestimmter Artikel in Ihrer Bestellung gelten Lieferbeschränkungen. Für Hilfe kontaktieren Sie bitte unser Team per E-Mail oder unter 01 30 48 90 07."
       },
       "cartSummary": {
-        "discountCode": "Gutscheincode {vat, select, vat_included {} other {(HT)}}",
+        "discountCode": "Gutscheincode {vat, select, vat_included {} other {(zzgl. MwSt.)}}",
         "giftCardUsed": "Geschenkgutschein",
         "voucherUsed": "Guthaben",
         "cashbackUsed": "Alltricks+-Guthaben",
@@ -406,11 +406,11 @@
         "offered": "Kostenlos",
         "offeredWith": "Kostenlos mit",
         "unavailable": "Nicht verfügbar",
-        "committedChoice": "Die gewählte Option",
+        "committedChoice": "Ihre Auswahl",
         "home": "Lieferung nach Hause",
         "precise": "Lieferung nach Terminvereinbarung",
         "collect": "Abholung im Geschäft",
-        "relay": "Points Relais® & Lockers®",
+        "relay": "Paketshops & Paketstationen",
         "storeChateaudun": "Abholung im Lager Châteaudun",
         "email": "E-Mail",
         "todayDelivery": "Schon heute",
@@ -434,20 +434,20 @@
             "title": "Ihr Einkauf wird Ihnen nach Bestätigung Ihrer Bestellung an die unten angegebene E-Mail-Adresse gesendet."
           },
           "relay": {
-            "title": "Wählen Sie Ihren Point Relais®"
+            "title": "Wählen Sie Ihren Paketshop"
           },
           "store": {
             "title": "Wählen Sie Ihre Alltricks-Abholstelle im Geschäft"
           },
-          "yourRelay": "Ihr Point Relais®",
+          "yourRelay": "Ihr Paketshop",
           "yourStore": "Ihr Geschäft",
           "standardHomeDelivery": "Standardlieferung",
           "economicHomeDelivery": "Economy-Lieferung",
           "expressHomeDelivery": "Expresslieferung",
           "signatureOrCodeOnDelivery": "Unterschrift oder einmaliger Code bei der Lieferung erforderlich",
           "preciseDelivery": "Lieferung nach Terminvereinbarung nach Hause",
-          "standardRelayDelivery": "Point Relais® und Lockers® Standard",
-          "expressRelayDelivery": "Point Relais® und Lockers® Express",
+          "standardRelayDelivery": "Paketshop & Paketstation Standard",
+          "expressRelayDelivery": "Paketshop und Paketstationen Express",
           "freeShipping": "Kostenlos",
           "onAppointmentDescription": "Im Erdgeschoss, nach Terminvereinbarung, auch samstags",
           "deliveryBetweenInSameMonth": "Zwischen <strong>{estimatedMinDate}</strong> und <strong>{estimatedMaxDate}</strong> <strong>{month}</strong>",
@@ -465,8 +465,8 @@
             "shop": "Geschäft"
           },
           "noRelayFound": {
-            "title": "Kein Point Relais® verfügbar",
-            "description": "Die Artikel in Ihrem Warenkorb können derzeit nicht an einen Point Relais® geliefert werden."
+            "title": "Kein Paketshop verfügbar",
+            "description": "Die Artikel in Ihrem Warenkorb können derzeit nicht an einen Paketshop geliefert werden."
           },
           "noStoreFound": {
             "title": "Kein Geschäft für diese Suche gefunden",
@@ -523,7 +523,7 @@
           "address_already_exists": "Die Adresse existiert bereits",
           "french_zip_code": "Ungültiges Format",
           "invalid_phone_number": "Ungültiges Format",
-          "unknown_error": "Ein Fehler ist aufgetreten"
+          "unknown_error": "Es ist ein Fehler aufgetreten"
         },
         "suggestingAddress": {
           "title": "Adressprüfung",
@@ -549,10 +549,10 @@
         },
         "offered": "Kostenlos",
         "priceFrom": "ab {price}",
-        "consciousChoice": "Die bewusste Wahl",
+        "consciousChoice": "Unsere Empfehlung",
         "deliveryCharges": "Versandkosten: ",
         "deliveryChargesCount": "Versandkosten Nr. {count}: ",
-        "unknownError": "Ein Fehler ist aufgetreten"
+        "unknownError": "Es ist ein Fehler aufgetreten"
       },
       "bikeAssemblyPack": {
         "detailsButtonLabel": "Details ansehen",
@@ -563,8 +563,8 @@
         },
         "packServicesTable": {
           "serenityPack": "Serenity-Paket",
-          "confortPack": "Comfort-Paket",
-          "expressDelivery": "Express-Lieferung",
+          "confortPack": "Komfort-Paket",
+          "expressDelivery": "Expressversand",
           "bikeAssembly": "Fahrrad zu 100 % montiert<sup>(1)</sup>",
           "expertAccess": "Bevorzugter Zugang zu unseren Experten",
           "bikeMarking": "Fahrradkennzeichnung",
@@ -622,7 +622,7 @@
           }
         },
         "serenity": {
-          "title": "Sorglos-Paket inklusive",
+          "title": "Serenity-Paket inklusive",
           "items": {
             "shipping": "Expressversand",
             "assembly": "Fahrrad zu 100 % montiert",
@@ -659,9 +659,9 @@
         "geolocationError": "Wir konnten Ihren Standort nicht bestimmen. Dies kann an einem schwachen GPS-Signal oder einem Verbindungsproblem liegen. Bitte versuchen Sie es erneut.",
         "locateMe": "Meinen Standort anzeigen",
         "chooseThisStore": "Dieses Geschäft auswählen",
-        "chooseThisRelay": "Diesen Point Relais® auswählen",
+        "chooseThisRelay": "Diesen Paketshop auswählen",
         "chooseYourStore": "Wählen Sie Ihr Geschäft",
-        "chooseYourRelay": "Wählen Sie Ihren Point Relais®",
+        "chooseYourRelay": "Wählen Sie Ihren Paketshop",
         "closeModalLabel": "Schließen",
         "searchZone": "In diesem Bereich suchen",
         "myLocation": "Mein Standort",
@@ -670,7 +670,7 @@
         "searchResultsLabel": "Suchergebnisse",
         "noResultsFound": "Keine Ergebnisse",
         "noRelayFound": {
-          "title": "Für diese Suche wurde kein Point Relais® gefunden",
+          "title": "Für diese Suche wurde kein Paketshop gefunden",
           "description": "Bitte versuchen Sie es mit einer anderen Adresse erneut"
         },
         "noStoreFound": {
@@ -678,7 +678,7 @@
           "description": "Bitte versuchen Sie es mit einer anderen Adresse erneut"
         },
         "relayListLabel": "Liste der Abholstellen",
-        "currentSelectedRelay": "Ausgewählter Point Relais®",
+        "currentSelectedRelay": "Ausgewählter Paketshop",
         "currentSelectedStore": "Ausgewähltes Geschäft",
         "seeMoreShops": "Weitere Geschäfte ansehen"
       }
@@ -728,8 +728,8 @@
           "unfinished": "Ihre Bestellung wurde nicht abgeschlossen"
         },
         "message": {
-          "success": "Vielen Dank für Ihr Vertrauen! Das Alltricks-Team setzt alles daran, Ihre Bestellung so schnell wie möglich vorzubereiten.",
-          "warning": "Vielen Dank für Ihr Vertrauen! Sobald Ihre Zahlung eingegangen ist, wird das Alltricks-Team alles daran setzen, Ihre Bestellung so schnell wie möglich vorzubereiten.",
+          "success": "Vielen Dank für Ihre Bestellung! Das Alltricks-Team setzt alles daran, Ihre Bestellung so schnell wie möglich vorzubereiten.",
+          "warning": "Vielen Dank für Ihre Bestellung! Sobald Ihre Zahlung eingegangen ist, wird das Alltricks-Team alles daran setzen, Ihre Bestellung so schnell wie möglich vorzubereiten.",
           "cancelled": "Seien Sie unbesorgt, Ihnen wird nichts abgebucht. Hier sind einige Tipps, um Ihre Bestellung abzuschließen:",
           "refused": "Seien Sie unbesorgt, Ihnen wird nichts abgebucht. Hier sind einige Tipps, um Ihre Bestellung abzuschließen:",
           "unfinished": "Seien Sie unbesorgt, Ihnen wird nichts abgebucht. Hier sind einige Tipps, um Ihre Bestellung abzuschließen:"
@@ -775,68 +775,68 @@
         "mailAlt": "E-Mail-Illustration",
         "truckAlt": "Versand-Illustration"
       },
-      "unknownError": "Ein Fehler ist aufgetreten"
+      "unknownError": "Es ist ein Fehler aufgetreten"
     },
     "payment": {
       "title": "<strong>Zahlungsart</strong>",
       "paymentOption": {
-        "unavailable": "Indisponible",
+        "unavailable": "Nicht verfügbar",
         "other": {
-          "groupLabel": "Choix d'un autre moyen de paiement",
-          "label": "Autres moyens de paiement",
+          "groupLabel": "Auswahl einer anderen Zahlungsmethode",
+          "label": "Weitere Zahlungsmethoden",
           "alert": {
-            "title": "Le traitement de votre commande se fera à réception de votre paiement",
-            "description": "Sous réserve de la disponibilité des produits. Pour accélérer la préparation de votre commande, nous vous conseillons de privilégier un paiement par carte bancaire ou Paypal"
+            "title": "Ihre Bestellung wird nach Eingang Ihrer Zahlung bearbeitet.",
+            "description": "Vorbehaltlich der Produktverfügbarkeit. Um die Bearbeitung Ihrer Bestellung zu beschleunigen, empfehlen wir die Zahlung per Kreditkarte oder PayPal."
           },
           "methods": {
             "cheque": {
-              "description": "Pour finaliser votre commande, vous serez invité à nous envoyer un chèque aux coordonnées indiquées sur votre confirmation de commande.",
-              "title": "Paiement par chèque bancaire"
+              "description": "Um Ihre Bestellung abzuschließen, werden Sie gebeten, uns einen Scheck an die in Ihrer Bestellbestätigung angegebene Adresse zu senden.",
+              "title": "Zahlung per Bankscheck"
             },
             "virement_via_hipay": {
-              "description": "Pour finaliser votre commande, vous serez invité à nous faire parvenir un virement bancaire aux coordonnées indiquées sur votre confirmation de commande.",
-              "title": "Paiement par virement bancaire"
+              "description": "Um Ihre Bestellung abzuschließen, werden Sie gebeten, eine Banküberweisung an die in Ihrer Bestellbestätigung angegebenen Kontodaten vorzunehmen.",
+              "title": "Zahlung per Banküberweisung"
             }
           },
           "submit": "Payer {finalPrice}"
         },
         "discount": {
           "label": "Chèque cadeau",
-          "instructions": "Veuillez entrer le code de votre chèque cadeau ci-dessous. Une fois validé, la valeur sera automatiquement déduite de votre montant total. Vous pouvez ajouter plusieurs chèques cadeau.",
-          "infoTitle": "Bon à savoir",
-          "infoDescription": "Les chèques cadeaux sont disponibles uniquement sur les commandes vendues et expédiées par Alltricks (hors vendeurs partenaires). Si votre chèque cadeau dépasse le montant de la commande, seul ce dernier sera déduit ; le reste sera crédité pour un futur achat.",
-          "discountCode": "Code promo",
-          "enterCode": "Saisir un code",
-          "delete": "Retirer le chèque cadeau",
-          "amountUsed": "Montant utilisé : {amount}",
-          "giftCard": "Chèque cadeau : {code}",
-          "remainingAmount": "Montant restant : {amount}",
-          "eligibleAmount": "Montant éligible : {amount}",
-          "submit": "Valider",
-          "codeSuccess": "Le code promo {code} a bien été appliqué à votre panier.",
-          "codeInvalid": "Le code promo {code} n'existe pas. Réessayez.",
+          "instructions": "Bitte geben Sie unten den Code Ihres Geschenkgutscheins ein. Nach der Bestätigung wird der Betrag automatisch von Ihrem Gesamtbetrag abgezogen. Sie können mehrere Geschenkgutscheine hinzufügen.",
+          "infoTitle": "Gut zu wissen",
+          "infoDescription": "Geschenkgutscheine können nur für Bestellungen verwendet werden, die von Alltricks verkauft und versendet werden (ausgenommen Partnerverkäufer). Übersteigt der Wert Ihres Geschenkgutscheins den Bestellbetrag, wird nur der Bestellbetrag abgezogen. Der Restbetrag bleibt für einen zukünftigen Einkauf erhalten.",
+          "discountCode": "Geschenkgutscheincode",
+          "enterCode": "Code eingeben",
+          "delete": "Geschenkgutschein entfernen",
+          "amountUsed": "Verwendeter Betrag: {amount}",
+          "giftCard": "Geschenkgutschein: {code}",
+          "remainingAmount": "Verbleibender Betrag: {amount}",
+          "eligibleAmount": "Berechtigter Betrag: {amount}",
+          "submit": "Bestätigen",
+          "codeSuccess": "Der Geschenkgutscheincode {code} wurde erfolgreich auf Ihren Warenkorb angewendet.",
+          "codeInvalid": "Der Geschenkgutscheincode {code} existiert nicht. Bitte versuchen Sie es erneut.",
           "postError": {
-            "already_used_on_this_command": "Vous avez déjà utilisé ce chèque cadeau sur cette commande.",
-            "amount_limit_reached": "Vous ne pouvez pas dépasser 5000 € d'achat",
-            "bicycle_limit_reached": "Vous êtes limités à 2 vélos par an",
-            "blocked_by_canceled_order": "Le chèque cadeau que vous cherchez à utiliser a été bloqué momentanément. Merci de contacter notre service client par téléphone au 01 30 48 90 07 (du lundi au vendredi 9h à 19h et le samedi de 10h à 19h) ou via la rubrique https://www.alltricks.fr/contact",
-            "cart_amount_to_small": "Le montant minimum de {amount} de ce chèque cadeau n'est pas atteint.",
-            "discount_expired": "Ce chèque cadeau n'est pas existant ou n'est plus valable.",
-            "empty_cart": "Impossible d'utiliser un chèque cadeau sur un panier vide.",
-            "max_of_used_limit": "Ce chèque cadeau n'est pas existant ou n'est plus valable.",
-            "not_activated": "Le chèque cadeau sélectionné n'a pas été associé à la commande courante.",
-            "not_alltricks_order": "Le chèque cadeau ne peut être utilisé sur une commande composée exclusivement de produits non-vendus par Alltricks.",
-            "not_available": "Le chèque cadeau sélectionné est déjà utilisé dans une commande.",
-            "not_compatible": "Le contenu de votre panier ne correspond pas aux restrictions de ce chèque cadeau.",
-            "not_found": "Le chèque cadeau {code} n'existe pas. Réessayez.",
-            "not_usable": "Le chèque cadeau sélectionné n'est pas utilisable.",
-            "not_voucher_proprietary": "Vous n'êtes pas le propriétaire du chèque cadeau sélectionné.",
+            "already_used_on_this_command": "Sie haben diesen Geschenkgutschein bereits für diese Bestellung verwendet.",
+            "amount_limit_reached": "Sie können den Einkaufswert von 5.000 € nicht überschreiten.",
+            "bicycle_limit_reached": "Sie sind auf 2 Fahrräder pro Jahr begrenzt.",
+            "blocked_by_canceled_order": "Der Geschenkgutschein wurde vorübergehend gesperrt. Bitte kontaktieren Sie unseren Kundenservice telefonisch unter 01 30 48 90 07 (Montag bis Freitag von 9 bis 19 Uhr, Samstag von 10 bis 19 Uhr) oder über https://www.alltricks.fr/contact.",
+            "cart_amount_to_small": "Der Mindestbetrag von {amount} für diesen Geschenkgutschein wurde nicht erreicht.",
+            "discount_expired": "Dieser Geschenkgutschein existiert nicht oder ist nicht mehr gültig.",
+            "empty_cart": "Ein Geschenkgutschein kann nicht auf einen leeren Warenkorb angewendet werden.",
+            "max_of_used_limit": "Dieser Geschenkgutschein existiert nicht oder ist nicht mehr gültig.",
+            "not_activated": "Der ausgewählte Geschenkgutschein wurde nicht mit der aktuellen Bestellung verknüpft.",
+            "not_alltricks_order": "Geschenkgutscheine können nur für Bestellungen mit ausschließlich von Alltricks verkauften und versendeten Produkten verwendet werden.",
+            "not_available": "Der ausgewählte Geschenkgutschein wird bereits in einer anderen Bestellung verwendet.",
+            "not_compatible": "Der Inhalt Ihres Warenkorbs entspricht nicht den Bedingungen dieses Geschenkgutscheins.",
+            "not_found": "Der Geschenkgutschein {code} existiert nicht. Bitte versuchen Sie es erneut.",
+            "not_usable": "Der ausgewählte Geschenkgutschein kann nicht verwendet werden.",
+            "not_voucher_proprietary": "Sie sind nicht der Eigentümer des ausgewählten Geschenkgutscheins.",
             "promo_club_ineligible": "Dieser Code gilt nur für den empfohlenen Preis der berechtigten Artikel. Daher sind Produkte, die bereits standardmäßig von einem höheren Rabatt als dem Club/CSE/Association-Rabatt profitieren, nicht für den Rabatt berechtigt.",
             "user_not_compatible": "Dieser Geschenkgutschein existiert nicht, ist nicht mehr gültig oder erfordert Ihre Identifikation.",
             "limit_reached_per_user": "Sie haben das Nutzungslimit für diesen Code erreicht.",
-            "unknownError": "Ein Fehler ist aufgetreten"
+            "unknownError": "Es ist ein Fehler aufgetreten"
           },
-          "unknownError": "Ein Fehler ist aufgetreten",
+          "unknownError": "Es ist ein Fehler aufgetreten",
           "unavailableTooltip": "Geschenkgutscheine sind nur für Artikel verfügbar, die von Alltricks verkauft und versendet werden (ausgenommen Partnerverkäufer)."
         },
         "instalment": {
@@ -986,7 +986,7 @@
             "ERROR_IBAN_MISSING": "Die IBAN fehlt.",
             "ERROR_ISSUER_BANK_ID_MISSING": "Der BIC fehlt.",
             "ERROR_NATIONAL_IDENTIFICATION_NUMBER_MISSING": "Die nationale Identifikationsnummer fehlt.",
-            "ERROR_OCCURED": "Ein Fehler ist aufgetreten."
+            "ERROR_OCCURED": "Es ist ein Fehler aufgetreten."
           }
         },
         "purseHeadless": {
@@ -1027,14 +1027,14 @@
               "closeButton": "Schließen"
             }
           },
-          "unknownError": "Ein Fehler ist aufgetreten"
+          "unknownError": "Es ist ein Fehler aufgetreten"
         },
         "purseHeadlessHostedForm": {
           "birthdateCannotBeEmptyError": "Das Geburtsdatum darf nicht leer sein.",
           "birthdateFormatError": "Das Geburtsdatum hat ein ungültiges Format.",
           "birthdateInputLabel": "Geburtsdatum",
           "birthdateOutOfRangeError": "Das Geburtsdatum liegt außerhalb des zulässigen Bereichs.",
-          "birthdatePlaceholder": "TT/MM/JJJJ",
+          "birthdatePlaceholder": "TT.MM.JJJJ",
           "birthdateRequiredError": "Das Geburtsdatum fehlt.",
           "consentInputLabel": "Einwilligung",
           "consentRequiredError": "Die Einwilligung fehlt.",
@@ -1088,7 +1088,7 @@
           "legalsTitle": "Rechtliche Hinweise Oney 3x, 4x und 10x",
           "submit": "{finalPrice} bezahlen",
           "oneyUnavailable": "Die ausgewählte Zahlungsmethode ist derzeit nicht verfügbar. Bitte versuchen Sie es später erneut.",
-          "unknownError": "Ein Fehler ist aufgetreten"
+          "unknownError": "Es ist ein Fehler aufgetreten"
         },
         "oneyCredit": {
           "groupLabel": "Auswahl der Oney 10x Zahlungsart",
@@ -1116,7 +1116,7 @@
             "closeButton": "Schließen"
           },
           "postError": {
-            "unknownError": "Ein Fehler ist aufgetreten"
+            "unknownError": "Es ist ein Fehler aufgetreten"
           },
           "unavailableTooltip": "Guthaben sind nur für Artikel verfügbar, die von Alltricks verkauft und versendet werden (ausgenommen Partnerverkäufer)."
         },
@@ -1127,13 +1127,13 @@
           "toggleLabel": "<strong>{amount} berechtigt</strong> für diese Bestellung",
           "tooltip": "Mit Alltricks+ generieren Sie Cashback auf Produkten, die als berechtigt gekennzeichnet sind. Das durch Ihre aktuelle Bestellung generierte Cashback wird beim Versand gutgeschrieben und kann bei Ihrer nächsten Bestellung verwendet werden. Das Cashback verfällt am Ende Ihres Alltricks+-Abonnements.",
           "postError": {
-            "unknownError": "Ein Fehler ist aufgetreten"
+            "unknownError": "Es ist ein Fehler aufgetreten"
           },
           "unavailable": "Nicht verfügbar",
           "unavailableTooltip": "Die Alltricks+-Sparguthaben ist nur für Bestellungen verfügbar, die von Alltricks verkauft und versendet werden (Marketplace ausgeschlossen)."
         },
         "cgv": "Mit der Bestätigung meiner Bestellung erkenne ich an, dass ich die <link>Allgemeinen Geschäftsbedingungen</link> gelesen und akzeptiert habe.",
-        "unknownError": "Ein Fehler ist aufgetreten"
+        "unknownError": "Es ist ein Fehler aufgetreten"
       },
       "cartSummary": {
         "title": "<strong>Zusammenfassung</strong>",
@@ -1202,7 +1202,7 @@
       "backButton": "Zurück zur Startseite"
     },
     "error": {
-      "title": "Ein Fehler ist aufgetreten",
+      "title": "Es ist ein Fehler aufgetreten",
       "description": "Bitte versuchen Sie es später erneut"
     }
   },
