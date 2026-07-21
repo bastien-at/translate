@@ -39,7 +39,7 @@
   "tunnel": {
     "summaryCard": {
       "ecoTax": "<span>inclui contribuição ecológica.</span><span>{tax}</span>",
-      "total": "Total <span>{vat, select, vat_excluded {(HT)} other {(TTC)}}</span>",
+      "total": "Total <span>{vat, select, vat_excluded {(sem IVA)} other {(com IVA)}}</span>",
       "notSubjectToVAT": "(não sujeito a IVA)",
       "title": "<strong>Resumo</strong>"
     }
@@ -158,22 +158,22 @@
         "scheduledDelivery": "Em sua casa <strong>a partir de {date}</strong>",
         "removeLabel": "Eliminar",
         "discountCodeTagDetails": "{discountCode} ({discountValue}) ou seja: <strong>{finalPrice}</strong>",
-        "logisticOrderProductPrice": "{price} {vat, select, vat_included {} other {HT}}"
+        "logisticOrderProductPrice": "{price} {vat, select, vat_included {} other {sem IVA}}"
       },
       "cartSummary": {
         "expand": "Abrir",
         "minimize": "Fechar",
-        "cartLabel": "Carrinho {vat, select, vat_included {} other {(HT)}} ({count})",
+        "cartLabel": "Carrinho {vat, select, vat_included {} other {(sem IVA)}} ({count})",
         "title": "<strong>Resumo</strong>",
-        "discountCode": "Código de desconto {vat, select, vat_included {} other {(HT)}}",
-        "estimatedShippingPrice": "Custos de envio estimados {vat, select, vat_included {} other {(HT)}}",
+        "discountCode": "Código de desconto {vat, select, vat_included {} other {(sem IVA)}}",
+        "estimatedShippingPrice": "Custos de envio estimados {vat, select, vat_included {} other {(sem IVA)}}",
         "buttonLabel": "Escolher o meu envio",
         "meterLabel": "Falta apenas {valueText}",
         "meterDetails": "para beneficiar de <strong>envio grátis</strong>",
-        "homeShippingLabel": "Envio {vat, select, vat_included {} other {(HT)}}",
-        "relayShippingLabel": "Pontos de Recolha® & Lockers® {vat, select, vat_included {} other {(HT)}}",
-        "storeShippingLabel": "Levantamento na loja {vat, select, vat_included {} other {(HT)}}",
-        "showroomShippingLabel": "Levantamento no armazém {vat, select, vat_included {} other {(HT)}}",
+        "homeShippingLabel": "Envio {vat, select, vat_included {} other {(sem IVA)}}",
+        "relayShippingLabel": "Pontos de Recolha® & Lockers® {vat, select, vat_included {} other {(sem IVA)}}",
+        "storeShippingLabel": "Levantamento na loja {vat, select, vat_included {} other {(sem IVA)}}",
+        "showroomShippingLabel": "Levantamento no armazém {vat, select, vat_included {} other {(sem IVA)}}",
         "emailShippingLabel": "Email",
         "shippingCount": "{count}/{total}",
         "deliveryCharges": "Portes de envio",
@@ -394,10 +394,10 @@
         "description": "Devido ao peso, ao valor ou à natureza de alguns artigos na sua encomenda, aplicam-se restrições de envio. Para obter ajuda, contacte a nossa equipa por email ou através do 01 30 48 90 07."
       },
       "cartSummary": {
-        "discountCode": "Código de desconto {vat, select, vat_included {} other {(HT)}}",
+        "discountCode": "Código de desconto {vat, select, vat_included {} other {(sem IVA)}}",
         "giftCardUsed": "Cartão de oferta",
         "voucherUsed": "Vale",
-        "cashbackUsed": "Cagnotte Alltricks+",
+        "cashbackUsed": "Carteira Alltricks+",
         "title": "<strong>Resumo</strong>",
         "VAT": "IVA"
       },
